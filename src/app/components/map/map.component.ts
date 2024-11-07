@@ -53,7 +53,7 @@ export class MapComponent implements AfterViewInit {
   }
 
   private initializeMap(): void {
-    this.map = L.map('map').setView([41.3851, 2.1734], 15);
+    this.map = L.map('map').setView([41.4051, 2.1734], 13);
     this.addBaseLayer();
     this.initializeLayers();
   }

@@ -8,8 +8,8 @@ import { HttpClient } from '@angular/common/http';
 })
 export class NoiseServiceService {
   private http = inject(HttpClient);
-  private jsonUrl = 'assets/soroll.json';
-  // private jsonUrl = 'http://localhost:8080/api/noise/all';
+  // private jsonUrl = 'assets/soroll.json';
+  private jsonUrl = 'https://backendtouristtrapp-production.up.railway.app/api/noise/all';
 
   loadNoiseData(): Observable<NoiseData[]> {
     return this.http.get<NoiseData[]>(this.jsonUrl);

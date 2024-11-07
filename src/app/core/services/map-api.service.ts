@@ -8,8 +8,8 @@ import { ConcentrationData } from '../interfaces/tourism.interface';
 })
 export class MapApiService {
   private http = inject(HttpClient);
-  private jsonUrl = 'assets/concentration-data.json';
-  // private jsonUrl = 'http://localhost:8080/api/touristConcentration/all';
+  // private jsonUrl = 'assets/concentration-data.json';
+  private jsonUrl = 'https://backendtouristtrapp-production.up.railway.app/api/touristConcentration/all';
 
   loadConcentrationData(): Observable<ConcentrationData[]> {
     return this.http.get<ConcentrationData[]>(this.jsonUrl);

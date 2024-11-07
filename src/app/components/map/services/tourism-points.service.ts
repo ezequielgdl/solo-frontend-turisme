@@ -29,7 +29,7 @@ export class TourismPointsLayerService {
         .filter(point => point.category === category || category === '')
         .forEach(point => {
           if (point.lat && point.lon) {
-            const marker = L.marker([point.lat, point.lon], { icon: this.defaultIcon })
+            const marker = L.marker([point.lon, point.lat], { icon: this.defaultIcon })
               .addTo(map)
               .bindPopup(`<strong>${point.name}</strong><br>${point.address}`);
             this.markers.push(marker);
