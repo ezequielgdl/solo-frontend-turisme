@@ -25,4 +25,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Collaborators:
 - Backend: [@enriquearranz](https://github.com/enriquearranz)
 - Frontend: [@ezequielgdl](https://github.com/ezequielgdl)
-- Data processing: [@ezerivero](https://github.com/ezerivero)
+- Data processing: [@ezeriver](https://github.com/ezerivero)
