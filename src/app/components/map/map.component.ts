@@ -53,14 +53,15 @@ export class MapComponent implements AfterViewInit {
   }
 
   private initializeMap(): void {
-    this.map = L.map('map').setView([41.3851, 2.1734], 13);
+    this.map = L.map('map').setView([41.3851, 2.1734], 15);
     this.addBaseLayer();
     this.initializeLayers();
   }
 
   private addBaseLayer(): void {
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution: '© OpenStreetMap contributors'
+    L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap contributors, © CARTO'
     }).addTo(this.map);
   }
 
@@ -71,9 +72,9 @@ export class MapComponent implements AfterViewInit {
     });
     this.noiseLayer.loadNoiseData();
     
-    if (this.showPoints) {
-      this.tourismPointsLayer.addToMap(this.map, this.selectedCategory);
-    }
+    // if (this.showPoints) {
+    //   this.tourismPointsLayer.addToMap(this.map, this.selectedCategory);
+    // }
   }
 
   // Event handlers
