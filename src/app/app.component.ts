@@ -1,14 +1,11 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { MapComponent } from './components/map/map.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, MapComponent],
+  imports: [RouterOutlet],
   template: `
-    <app-map />
-
     <router-outlet />
   `,
   styles: [],
