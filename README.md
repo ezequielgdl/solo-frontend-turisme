@@ -1,27 +1,28 @@
-# TurismeSostenibleFrontend
+# Sustainable Tourism Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
+## Overview
+
+This project focuses on sustainable tourism in Barcelona, visualizing tourist density, noise levels, and points of interest. The application consists of three main components: backend, frontend, and data processing. This is the frontend part.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Make sure you have Angular CLI installed.
 
-## Code scaffolding
+To install Angular CLI globally, run:
+```
+npm install -g @angular/cli
+```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `npm install` to install the dependencies.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+If you installed Angular CLI, run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files. Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. 
+If you don't have Angular CLI installed, you can run `npm run start` to start the development server.
 
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Collaborators:
+- Backend: [@enriquearranz](https://github.com/enriquearranz)
+- Frontend: [@ezequielgdl](https://github.com/ezequielgdl)
+- Data processing: [@ezerivero](https://github.com/ezerivero)
