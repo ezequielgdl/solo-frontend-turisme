@@ -72,9 +72,9 @@ export class MapComponent implements AfterViewInit {
     });
     this.noiseLayer.loadNoiseData();
     
-    // if (this.showPoints) {
-    //   this.tourismPointsLayer.addToMap(this.map, this.selectedCategory);
-    // }
+    if (this.showPoints) {
+      this.tourismPointsLayer.addToMap(this.map, this.selectedCategory);
+    }
   }
 
   // Event handlers
