@@ -1,36 +1,41 @@
 <div class="control-panel absolute top-2 right-2 z-[1000] bg-white rounded-md shadow-lg p-4 cursor-move text-sm"
-  role="group" aria-label="Controls del mapa" (mousedown)="onDragStart($event)">
+     role="group"
+     aria-label="Controls del mapa" 
+     (mousedown)="onDragStart($event)">
 
   <!-- Title when collapsed -->
   @if (isCollapsed) {
-  <span (click)="isCollapsed = !isCollapsed" class="font-bold">Controls</span>
+    <span (click)="isCollapsed = !isCollapsed" class="font-bold">Controls</span>
   }
 
   <!-- Collapse toggle button -->
-  <button class="absolute top-4 right-2 text-gray-500 hover:text-gray-700" (click)="isCollapsed = !isCollapsed"
-    [attr.aria-expanded]="!isCollapsed" aria-controls="controlPanelContent">
+  <button 
+    class="absolute top-4 right-2 text-gray-500 hover:text-gray-700"
+    (click)="isCollapsed = !isCollapsed"
+    [attr.aria-expanded]="!isCollapsed"
+    aria-controls="controlPanelContent">
     <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
       @if (!isCollapsed) {
-      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
       }
       @if (isCollapsed) {
-      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
       }
     </svg>
   </button>
 
-  <div id="controlPanelContent" class="grid grid-cols-1 gap-3 overflow-hidden transition-all duration-300 ease-in-out"
-    [class.h-0]="isCollapsed" [class.opacity-0]="isCollapsed" [class.h-auto]="!isCollapsed"
-    [class.opacity-100]="!isCollapsed">
-
+  <div id="controlPanelContent" 
+       class="grid grid-cols-1 gap-3 overflow-hidden transition-all duration-300 ease-in-out"
+       [class.h-0]="isCollapsed"
+       [class.opacity-0]="isCollapsed"
+       [class.h-auto]="!isCollapsed"
+       [class.opacity-100]="!isCollapsed">
+    
     <!-- Points Toggle -->
     <div class="space-y-1">
       <label class="relative inline-flex items-center cursor-pointer">
-        <input [(ngModel)]="showPoints" (change)="toggleMarkers()" type="checkbox" class="sr-only peer"
-          id="flexSwitchPoints" aria-label="Mostra o amaga punts d'interès" checked>
-        <div
-          class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium">
-        </div>
+        <input [(ngModel)]="showPoints" (change)="toggleMarkers()" type="checkbox" class="sr-only peer" id="flexSwitchPoints" aria-label="Mostra o amaga punts d'interès" checked>
+        <div class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium"></div>
         <span class="ms-2">Punts d'interès</span>
       </label>
     </div>
@@ -38,8 +43,7 @@
     <!-- Category Filter -->
     <div class="space-y-1">
       <label for="categoryFilter" class="block font-bold text-sm">Categoria</label>
-      <select class="w-full p-1.5 border rounded text-sm" id="categoryFilter" (change)="onCategoryFilterChange($event)"
-        aria-label="Selecciona una categoria">
+      <select class="w-full p-1.5 border rounded text-sm" id="categoryFilter" (change)="onCategoryFilterChange($event)" aria-label="Selecciona una categoria">
         <option value="">Todas</option>
         <option value="Centre">Centre</option>
         <option value="Jardins">Jardins</option>
@@ -62,21 +66,15 @@
     <div class="space-y-2">
       <div>
         <label class="relative inline-flex items-center cursor-pointer">
-          <input [(ngModel)]="showPlaces" (change)="toggleHeatMap()" type="checkbox" class="sr-only peer"
-            id="flexSwitchHeatmap" aria-label="Mostra o amaga mapa de calor de concentració turística" checked>
-          <div
-            class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium">
-          </div>
+          <input [(ngModel)]="showPlaces" (change)="toggleHeatMap()" type="checkbox" class="sr-only peer" id="flexSwitchHeatmap" aria-label="Mostra o amaga mapa de calor de concentració turística" checked>
+          <div class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium"></div>
           <span class="ms-2">Concentració Turística</span>
         </label>
       </div>
       <div>
         <label class="relative inline-flex items-center cursor-pointer">
-          <input [(ngModel)]="showNoise" (change)="toggleNoiseHeatmap()" type="checkbox" class="sr-only peer"
-            id="flexSwitchNoise" aria-label="Mostra o amaga nivells de soroll" checked>
-          <div
-            class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium">
-          </div>
+          <input [(ngModel)]="showNoise" (change)="toggleNoiseHeatmap()" type="checkbox" class="sr-only peer" id="flexSwitchNoise" aria-label="Mostra o amaga nivells de soroll" checked>
+          <div class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-0.5 after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-green-medium"></div>
           <span class="ms-2">Nivells de soroll</span>
         </label>
       </div>
@@ -86,8 +84,7 @@
     <div class="space-y-3">
       <div class="space-y-1">
         <label for="month-select" class="block font-bold text-sm">Mes</label>
-        <select class="w-full p-1.5 border rounded text-sm" id="month-select" [(ngModel)]="selectedMonth"
-          (change)="onMonthSelect()" aria-label="Selecciona un mes">
+        <select class="w-full p-1.5 border rounded text-sm" id="month-select" [(ngModel)]="selectedMonth" (change)="onMonthSelect()" aria-label="Selecciona un mes">
           <option value="">Tots els mesos</option>
           <option *ngFor="let month of months; let i = index" [value]="(i + 1).toString().padStart(2, '0')">
             {{ month }}
@@ -96,8 +93,7 @@
       </div>
       <div class="space-y-1">
         <label for="weekday-select" class="block font-bold text-sm">Dia</label>
-        <select class="w-full p-1.5 border rounded text-sm" id="weekday-select" [(ngModel)]="selectedWeekday"
-          (change)="onWeekdaySelect()" aria-label="Selecciona un dia de la setmana">
+        <select class="w-full p-1.5 border rounded text-sm" id="weekday-select" [(ngModel)]="selectedWeekday" (change)="onWeekdaySelect()" aria-label="Selecciona un dia de la setmana">
           <option value="">Tots els dies</option>
           <option *ngFor="let weekday of weekdays" [value]="weekday">
             {{ weekday }}
@@ -109,4 +105,4 @@
   </div>
 </div>
 
-<div id="map" class="map-container" role="application" aria-label="Mapa interactiu"></div>
+<div id="map" role="application" aria-label="Mapa interactiu"></div>

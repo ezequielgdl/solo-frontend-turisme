@@ -1,11 +1,8 @@
 import { Component, AfterViewInit, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import Map from 'ol/Map';
-import View from 'ol/View';
-import TileLayer from 'ol/layer/Tile';
-import OSM from 'ol/source/OSM';
-import { fromLonLat } from 'ol/proj';
+import * as L from 'leaflet';
+import 'leaflet.heat';
 import proj4 from 'proj4';
 
 import { DataFilterService } from '../../core/services/data-filter.service';
@@ -26,7 +23,7 @@ export class MapComponent implements AfterViewInit {
   private readonly noiseLayer = inject(NoiseLayerService);
   private readonly concentrationLayer = inject(ConcentrationLayerService);
 
-  private map!: Map;
+  private map!: L.Map;
   
   selectedCategory: string = 'Museu';
   isCollapsed = false;
@@ -56,19 +53,15 @@ export class MapComponent implements AfterViewInit {
   }
 
   private initializeMap(): void {
-    this.map = new Map({
-      target: 'map',
-      layers: [
-        new TileLayer({
-          source: new OSM()
-        })
-      ],
-      view: new View({
-        center: fromLonLat([2.1734, 41.3851]),
-        zoom: 13
-      })
-    });
+    this.map = L.map('map').setView([41.3851, 2.1734], 13);
+    this.addBaseLayer();
     this.initializeLayers();
+  }
+
+  private addBaseLayer(): void {
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(this.map);
   }
 
   private initializeLayers(): void {

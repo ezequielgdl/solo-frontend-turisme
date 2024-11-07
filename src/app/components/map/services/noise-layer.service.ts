@@ -1,9 +1,5 @@
 import { Injectable, inject } from '@angular/core';
-import { Feature } from 'ol';
-import { Geometry, Point } from 'ol/geom';
-import Heatmap from 'ol/layer/Heatmap';
-import VectorSource from 'ol/source/Vector';
-import Map from 'ol/Map';
+import * as L from 'leaflet';
 import { NoiseData } from '../../../core/interfaces/tourism.interface';
 import { NoiseServiceService } from '../../../core/services/noise-service.service';
 import { DataFilterService } from '../../../core/services/data-filter.service';
@@ -14,7 +10,7 @@ import { DataFilterService } from '../../../core/services/data-filter.service';
 export class NoiseLayerService {
   private noiseData: NoiseData[] = [];
   private monthlyNoiseData: { [key: string]: { [key: string]: NoiseData[] } } = {};
-  private noiseHeatmapLayer: Heatmap | null = null;
+  private noiseHeatmapLayer: L.HeatLayer | null = null;
   private dataFilterService = inject(DataFilterService);
   private noiseService = inject(NoiseServiceService);
 
@@ -25,7 +21,7 @@ export class NoiseLayerService {
     });
   }
 
-  updateNoiseHeatmap(map: Map, showNoise: boolean, selectedMonth: string, selectedWeekday: string): void {
+  updateNoiseHeatmap(map: L.Map, showNoise: boolean, selectedMonth: string, selectedWeekday: string): void {
     if (this.noiseHeatmapLayer) {
       map.removeLayer(this.noiseHeatmapLayer);
     }
@@ -38,27 +34,22 @@ export class NoiseLayerService {
         this.noiseData
       );
 
-      const features = filteredNoiseData.map(point => {
-        const feature = new Feature({
-          geometry: new Point([point.lon, point.lat]),
-          weight: this.normalizeNoiseLevel(point.sound_level_mean)
-        });
-        return feature;
-      });
+      const heatmapData = filteredNoiseData.map(point => [
+        point.lat,
+        point.lon,
+        this.normalizeNoiseLevel(point.sound_level_mean)
+      ] as L.HeatLatLngTuple);
 
-      const vectorSource = new VectorSource<Feature<Geometry>>({
-        features: features
-      });
-
-      this.noiseHeatmapLayer = new Heatmap({
-        source: vectorSource,
-        blur: 25,
-        radius: 20,
-        weight: (feature) => feature.get('weight'),
-        gradient: ['purple', 'magenta', 'orange', 'red', 'darkred']
-      });
-
-      map.addLayer(this.noiseHeatmapLayer);
+      if (heatmapData.length > 0) {
+        this.noiseHeatmapLayer = L.heatLayer(heatmapData, {
+          radius: 20,
+          blur: 25,
+          maxZoom: 18,
+          max: 1,
+          minOpacity: 0.7,
+          gradient: {0.4: 'purple', 0.5: 'magenta', 0.6: 'orange', 0.8: 'red', 1: 'darkred'}
+        }).addTo(map);
+      }
     }
   }
 
@@ -68,7 +59,7 @@ export class NoiseLayerService {
     return (soundLevel - minDecibels) / (maxDecibels - minDecibels);
   }
 
-  clearLayer(map: Map): void {
+  clearLayer(map: L.Map): void {
     if (this.noiseHeatmapLayer) {
       map.removeLayer(this.noiseHeatmapLayer);
     }
