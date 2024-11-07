@@ -1,0 +1,6141 @@
+[
+  {
+    "name": "Centre Educatiu Thau",
+    "category": "Centre",
+    "address": "Av Esplugues 49.0",
+    "lat": 41.38764005512567,
+    "lon": 2.10528876791072
+  },
+  {
+    "name": "Ateneu  Sant Andreu",
+    "category": "otro",
+    "address": "Carrer de l'Abat Odó 71.0",
+    "lat": 41.4324898639079,
+    "lon": 2.1853030314588358
+  },
+  {
+    "name": "Jardins d'Elvira Farreras Valentí",
+    "category": "Jardins",
+    "address": "C Manacor 17.0",
+    "lat": 41.407464947326254,
+    "lon": 2.1430348062786257
+  },
+  {
+    "name": "Casal de Barri Font d'en Fargues",
+    "category": "otro",
+    "address": "C Pedrell 67.0",
+    "lat": 41.424333431530485,
+    "lon": 2.1652481090205704
+  },
+  {
+    "name": "Associació Rambla de Catalunya",
+    "category": "otro",
+    "address": "Rambla de Catalunya 61.0 61.0",
+    "lat": 41.39077433577668,
+    "lon": 2.163589599574425
+  },
+  {
+    "name": "Fàbrica de Creació Graner",
+    "category": "otro",
+    "address": "C Jane Addams 14.0",
+    "lat": 41.36152379729631,
+    "lon": 2.1359750197791345
+  },
+  {
+    "name": "Escola Mossèn Jacint Verdaguer",
+    "category": "Escola",
+    "address": "C Lleida 32.0",
+    "lat": 41.37332070884572,
+    "lon": 2.154824350891146
+  },
+  {
+    "name": "Centre Esportiu Municipal Putxet",
+    "category": "Centre",
+    "address": "C Marmellà 23.0",
+    "lat": 41.40972803896788,
+    "lon": 2.141295887779283
+  },
+  {
+    "name": "Universitat de Barcelona",
+    "category": "otro",
+    "address": "Gran Via de les Corts Catalanes 585.0",
+    "lat": 41.38657708352391,
+    "lon": 2.164030568391206
+  },
+  {
+    "name": "Funicular Vallvidrera - FGC",
+    "category": "otro",
+    "address": "Carrer de les Alberes 16.0",
+    "lat": 41.41422846437415,
+    "lon": 2.1059462512020857
+  },
+  {
+    "name": "Funicular Tibidabo - Cuca de Llum",
+    "category": "otro",
+    "address": "Plaça del Doctor Andreu 1.0 2.0",
+    "lat": 41.41631050210694,
+    "lon": 2.131411684356236
+  },
+  {
+    "name": "Tramvia Blau Tibidabo-TMB",
+    "category": "otro",
+    "address": "Avinguda del Tibidabo 2.0",
+    "lat": 41.41053468316915,
+    "lon": 2.137021984976944
+  },
+  {
+    "name": "Sala El Molino",
+    "category": "otro",
+    "address": "Carrer de Vila i Vilà 99.0",
+    "lat": 41.37458590109832,
+    "lon": 2.167271088906495
+  },
+  {
+    "name": "Institut Nacional d'Educació Física de Catalunya *Barcelona",
+    "category": "otro",
+    "address": "Av Estadi 12.0",
+    "lat": 41.36537462912623,
+    "lon": 2.146913285556539
+  },
+  {
+    "name": "Col·legi Oficial de Metges de Barcelona",
+    "category": "otro",
+    "address": "Pg Bonanova 47.0",
+    "lat": 41.404236241777,
+    "lon": 2.129341454867993
+  },
+  {
+    "name": "Velodrom Municipal d'Horta Miquel Poblet",
+    "category": "otro",
+    "address": "Pg Vall d'Hebron 185.0",
+    "lat": 41.43723757663772,
+    "lon": 2.1495946440435265
+  },
+  {
+    "name": "Restaurant Can Travi Nou",
+    "category": "Restaurant",
+    "address": "C Jorge Manrique nan",
+    "lat": 41.43139726568915,
+    "lon": 2.150432990990598
+  },
+  {
+    "name": "Parròquia de la Santíssima Trinitat",
+    "category": "Parròquia",
+    "address": "C Turó de la Trinitat 30.0",
+    "lat": 41.45031653850258,
+    "lon": 2.1904799871347125
+  },
+  {
+    "name": "Poble Espanyol de Barcelona",
+    "category": "otro",
+    "address": "Avinguda de Francesc Ferrer i Guàrdia 13.0",
+    "lat": 41.36914809976752,
+    "lon": 2.1467430809493484
+  },
+  {
+    "name": "Casal Sant Jordi",
+    "category": "otro",
+    "address": "Pau Claris 81.0",
+    "lat": 41.38944576760637,
+    "lon": 2.1713337865477698
+  },
+  {
+    "name": "Mercat Boqueria - Sant Josep",
+    "category": "Mercat",
+    "address": "Carrer la Rambla 89.0",
+    "lat": 41.38204889437501,
+    "lon": 2.17227075910574
+  },
+  {
+    "name": "Mercat Santa Caterina",
+    "category": "Mercat",
+    "address": "Av Francesc Cambó 16.0",
+    "lat": 41.38639488164491,
+    "lon": 2.1781771121189712
+  },
+  {
+    "name": "Mercat Hostafrancs",
+    "category": "Mercat",
+    "address": "Carrer de la Creu Coberta 93.0",
+    "lat": 41.37516234439833,
+    "lon": 2.143853943380838
+  },
+  {
+    "name": "Casa Bonaventura Ferrer",
+    "category": "otro",
+    "address": "Pg Gràcia 113.0",
+    "lat": 41.39697639977114,
+    "lon": 2.158479593916247
+  },
+  {
+    "name": "Mercat Sants",
+    "category": "Mercat",
+    "address": "C Sant Jordi 6.0",
+    "lat": 41.37474144032811,
+    "lon": 2.133754628418325
+  },
+  {
+    "name": "Hospital del Mar",
+    "category": "otro",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas 25.0",
+    "lat": 41.38343360981442,
+    "lon": 2.1946836219941206
+  },
+  {
+    "name": "Club Natació Atlètic - Barceloneta",
+    "category": "Club",
+    "address": "Pl Mar 1.0",
+    "lat": 41.37344433423628,
+    "lon": 2.1886847497193758
+  },
+  {
+    "name": "Centre Comercial Arenas de Barcelona",
+    "category": "Centre",
+    "address": "G.V. Corts Catalanes 373.0",
+    "lat": 41.376038338441205,
+    "lon": 2.1499752959539173
+  },
+  {
+    "name": "Museu del Modernisme de Barcelona",
+    "category": "Museu",
+    "address": "C Balmes 48.0",
+    "lat": 41.38890739636273,
+    "lon": 2.163402681362388
+  },
+  {
+    "name": "Parròquia de la Mare de Déu de la Mercè i Sant Miquel Arcàngel - Basílica",
+    "category": "Parròquia",
+    "address": "Pl Mercè 1.0",
+    "lat": 41.37942517988621,
+    "lon": 2.1795802549065177
+  },
+  {
+    "name": "Institut Français de Barcelone",
+    "category": "otro",
+    "address": "C Moià 8.0",
+    "lat": 41.39528348612812,
+    "lon": 2.1517956248758305
+  },
+  {
+    "name": "Jardins de Magalí",
+    "category": "Jardins",
+    "address": "C Vallespir 194.0",
+    "lat": 41.38491336528375,
+    "lon": 2.1335326462367803
+  },
+  {
+    "name": "Casa Amatller",
+    "category": "otro",
+    "address": "Pg Gràcia 41.0",
+    "lat": 41.39161297296296,
+    "lon": 2.165112890687213
+  },
+  {
+    "name": "Barcelona - Casa Vídua Marfà",
+    "category": "otro",
+    "address": "Pg Gràcia 66.0",
+    "lat": 41.39311176171059,
+    "lon": 2.1642989926981406
+  },
+  {
+    "name": "El Born i la Ribera",
+    "category": "otro",
+    "address": "Pg Born 30.0",
+    "lat": 41.38485510195776,
+    "lon": 2.1830157301046778
+  },
+  {
+    "name": "La Barceloneta",
+    "category": "otro",
+    "address": "C Baluard 50.0",
+    "lat": 41.37956860884705,
+    "lon": 2.189117360481648
+  },
+  {
+    "name": "Sants i Hostafrancs",
+    "category": "otro",
+    "address": "C Creu Coberta 100.0",
+    "lat": 41.37539782108393,
+    "lon": 2.1426193870999874
+  },
+  {
+    "name": "La Vila Olímpica",
+    "category": "otro",
+    "address": "C Salvador Espriu 43.0",
+    "lat": 41.38937966568577,
+    "lon": 2.197267885136565
+  },
+  {
+    "name": "El Fòrum",
+    "category": "otro",
+    "address": "Pl Fòrum 2.0",
+    "lat": 41.41106682138965,
+    "lon": 2.221714876463801
+  },
+  {
+    "name": "Federació Eix Comercial Sants-Les Corts",
+    "category": "otro",
+    "address": "Carrer de Melcior de Palau 77.0 79.0",
+    "lat": 41.37975467649532,
+    "lon": 2.1344956640830457
+  },
+  {
+    "name": "Parc de les Rieres d'Horta",
+    "category": "Parc",
+    "address": "Av Estatut de Catalunya 21.0",
+    "lat": 41.43107919974659,
+    "lon": 2.154259435001784
+  },
+  {
+    "name": "Torre del Rellotge",
+    "category": "otro",
+    "address": "Pl Bonet i Muixí 3.0",
+    "lat": 41.37432440095194,
+    "lon": 2.1367036614916595
+  },
+  {
+    "name": "Palau de la Premsa",
+    "category": "Palau",
+    "address": "Av Rius i Taulet 5.0",
+    "lat": 41.37248388332653,
+    "lon": 2.1538979761055
+  },
+  {
+    "name": "La Plaça del Sortidor",
+    "category": "otro",
+    "address": "Pl Sortidor 4.0",
+    "lat": 41.37260876412629,
+    "lon": 2.1621656959358955
+  },
+  {
+    "name": "Finca Sansalvador",
+    "category": "otro",
+    "address": "Pg Mare de Déu del Coll 79.0",
+    "lat": 41.418944974567545,
+    "lon": 2.148358843174665
+  },
+  {
+    "name": "Mercat de les Flors Centre de les Arts de Moviment",
+    "category": "Centre",
+    "address": "Lleida 59.0",
+    "lat": 41.370538264069474,
+    "lon": 2.157271883570921
+  },
+  {
+    "name": "Casa Rosa Alemany",
+    "category": "otro",
+    "address": "Av República Argentina 6.0",
+    "lat": 41.40737731100891,
+    "lon": 2.14863345725769
+  },
+  {
+    "name": "Casa Serès",
+    "category": "otro",
+    "address": "C Verdi 39.0",
+    "lat": 41.404039707549934,
+    "lon": 2.156628602714139
+  },
+  {
+    "name": "Conjunt de Cases al Carrer Francisco Giner",
+    "category": "otro",
+    "address": "C Francisco Giner 16.0",
+    "lat": 41.39892971334762,
+    "lon": 2.1594708997786287
+  },
+  {
+    "name": "Cases Manuel Raventós",
+    "category": "otro",
+    "address": "Rbla Prat 13.0",
+    "lat": 41.40139423653911,
+    "lon": 2.15203322023042
+  },
+  {
+    "name": "Edifici J. Artigas",
+    "category": "otro",
+    "address": "C Martínez de la Rosa 34.0",
+    "lat": 41.39985990968169,
+    "lon": 2.1591654567457805
+  },
+  {
+    "name": "Habitatge Classicista Providència 79",
+    "category": "otro",
+    "address": "C Providència 79.0",
+    "lat": 41.40819331103935,
+    "lon": 2.159386623420811
+  },
+  {
+    "name": "Restaurant Casa Tejada",
+    "category": "Restaurant",
+    "address": "C Tenor Viñas 3.0",
+    "lat": 41.39505269147344,
+    "lon": 2.142108289092796
+  },
+  {
+    "name": "Club Esportiu Mediterrani *Instal·lació Josep Vallès",
+    "category": "Club",
+    "address": "C Begur 44.0",
+    "lat": 41.3733599989622,
+    "lon": 2.130464703418883
+  },
+  {
+    "name": "Associació Cultural El Raval El Lokal",
+    "category": "otro",
+    "address": "C Cera 1.0",
+    "lat": 41.37945106296261,
+    "lon": 2.167094592540177
+  },
+  {
+    "name": "World Trade Center",
+    "category": "otro",
+    "address": "Moll Barcelona 1.0",
+    "lat": 41.37109064113994,
+    "lon": 2.1823636757953957
+  },
+  {
+    "name": "Servei d'Esports de la Universitat de Barcelona",
+    "category": "otro",
+    "address": "Av Diagonal 695.0",
+    "lat": 41.38091965331625,
+    "lon": 2.1048310677132447
+  },
+  {
+    "name": "Casa Cama i Escurra",
+    "category": "otro",
+    "address": "C Gran de Gràcia 15.0",
+    "lat": 41.39828230438417,
+    "lon": 2.157088195204451
+  },
+  {
+    "name": "Casa Claudi Alsina",
+    "category": "otro",
+    "address": "Plaça de Lesseps 10.0 10.0",
+    "lat": 41.40696749282559,
+    "lon": 2.150890882782789
+  },
+  {
+    "name": "Casa Eudald Obradors",
+    "category": "otro",
+    "address": "Av República Argentina 90.0",
+    "lat": 41.410579233171234,
+    "lon": 2.1458839653210964
+  },
+  {
+    "name": "Casa Gaspar Galí",
+    "category": "otro",
+    "address": "C Montseny 45.0",
+    "lat": 41.40265208001168,
+    "lon": 2.1558495685461287
+  },
+  {
+    "name": "Casa Manuel Colchero",
+    "category": "otro",
+    "address": "C Camèlies 34.0",
+    "lat": 41.41156230116295,
+    "lon": 2.160231915914634
+  },
+  {
+    "name": "Casa Miquel Cal Millàs",
+    "category": "otro",
+    "address": "C Vallfogona 18.0",
+    "lat": 41.4031305099263,
+    "lon": 2.157560504523872
+  },
+  {
+    "name": "Casa Pere Jaqués",
+    "category": "otro",
+    "address": "C Olot 2.0",
+    "lat": 41.41285094265032,
+    "lon": 2.152378393383484
+  },
+  {
+    "name": "Casa Ramos",
+    "category": "otro",
+    "address": "Pl Lesseps 30.0",
+    "lat": 41.4061899908628,
+    "lon": 2.149575785577088
+  },
+  {
+    "name": "Casa de les Altures",
+    "category": "otro",
+    "address": "Rda Guinardó 49.0",
+    "lat": 41.41279780128245,
+    "lon": 2.166481155557753
+  },
+  {
+    "name": "Teatre Grec",
+    "category": "otro",
+    "address": "Pg Santa Madrona 36.0",
+    "lat": 41.36812384413011,
+    "lon": 2.158482875531215
+  },
+  {
+    "name": "Parròquia de Santa Maria de Gràcia",
+    "category": "Parròquia",
+    "address": "C Gràcia 3.0",
+    "lat": 41.39833719125325,
+    "lon": 2.1579647021625696
+  },
+  {
+    "name": "Club Tennis La Salut",
+    "category": "Club",
+    "address": "Carrer de la Mare de Déu de la Salut 75.0",
+    "lat": 41.41234042111287,
+    "lon": 2.15819198579813
+  },
+  {
+    "name": "Parc de Can Rigal",
+    "category": "Parc",
+    "address": "Av Albert Bastardas 23.0",
+    "lat": 41.37932819241353,
+    "lon": 2.107739056786728
+  },
+  {
+    "name": "Torre d'Ignacio Portabella",
+    "category": "otro",
+    "address": "Av Tibidabo 27.0",
+    "lat": 41.41281169827557,
+    "lon": 2.134981213630846
+  },
+  {
+    "name": "El Jardí Vertical",
+    "category": "otro",
+    "address": "C Berlín 107.0",
+    "lat": 41.38512796595029,
+    "lon": 2.141744623609296
+  },
+  {
+    "name": "Casa Hurtado",
+    "category": "otro",
+    "address": "Av Pedralbes 46.0",
+    "lat": 41.39242149167882,
+    "lon": 2.11632547019372
+  },
+  {
+    "name": "La Gran Via de Carles III",
+    "category": "otro",
+    "address": "G.V. Carles III 60.0",
+    "lat": 41.38359761148749,
+    "lon": 2.128056674070894
+  },
+  {
+    "name": "La plaça de la Concòrdia",
+    "category": "otro",
+    "address": "Pl Concòrdia nan",
+    "lat": 41.38653963624162,
+    "lon": 2.132091361234996
+  },
+  {
+    "name": "La Porta Sud de la Finca Güell",
+    "category": "otro",
+    "address": "C Lluís Solé i Sabarís 1.0",
+    "lat": 41.384912355918026,
+    "lon": 2.1189006112022293
+  },
+  {
+    "name": "Antic Dispensari Antituberculós",
+    "category": "otro",
+    "address": "C Torres i Amat 8.0",
+    "lat": 41.38433595216771,
+    "lon": 2.165173981341848
+  },
+  {
+    "name": "Jardinets de Salvador Espriu",
+    "category": "otro",
+    "address": "Pg Gràcia 118.0",
+    "lat": 41.39738205805117,
+    "lon": 2.159002039604903
+  },
+  {
+    "name": "Ca l'Estruc- Convent de les Germanes de l'Assumpció",
+    "category": "otro",
+    "address": "C Pons i Gallarza 30.0",
+    "lat": 41.43553951634989,
+    "lon": 2.1880199202730286
+  },
+  {
+    "name": "Botiga Casa Rusca",
+    "category": "otro",
+    "address": "C Gran de Sant Andreu 135.0",
+    "lat": 41.431621867432426,
+    "lon": 2.1892871049773523
+  },
+  {
+    "name": "La Mina Grott",
+    "category": "otro",
+    "address": "Camí del Cama-sec 22.0 28.0",
+    "lat": 41.41529444742222,
+    "lon": 2.0975454897320374
+  },
+  {
+    "name": "Cooperativa La Guardiola Familiar",
+    "category": "otro",
+    "address": "C Borriana 54.0",
+    "lat": 41.43056706573951,
+    "lon": 2.191828973297836
+  },
+  {
+    "name": "Pavelló de Ràdio Barcelona al Parc d'Atraccions del Tibidabo",
+    "category": "Parc",
+    "address": "Carretera de Vallvidrera al Tibidabo 101.0 103.0",
+    "lat": 41.42410490506085,
+    "lon": 2.1193142250845742
+  },
+  {
+    "name": "Villa Esperanza",
+    "category": "otro",
+    "address": "Ptge Isabel 8.0",
+    "lat": 41.41363246951803,
+    "lon": 2.146376241035286
+  },
+  {
+    "name": "Colònia Bausili",
+    "category": "otro",
+    "address": "C Colònia Bausili 3.0",
+    "lat": 41.35303880848997,
+    "lon": 2.1435520408982858
+  },
+  {
+    "name": "Carrer Avió Plus Ultra",
+    "category": "otro",
+    "address": "C Avió Plus Ultra 1.0",
+    "lat": 41.40033306045677,
+    "lon": 2.122019654847453
+  },
+  {
+    "name": "Bar Colòmbia",
+    "category": "otro",
+    "address": "Rbla Fabra i Puig 1.0",
+    "lat": 41.43001110132735,
+    "lon": 2.1895226462085007
+  },
+  {
+    "name": "El camp de la Creu",
+    "category": "otro",
+    "address": "Pl Carme 1.0",
+    "lat": 41.388763523980295,
+    "lon": 2.140180281885298
+  },
+  {
+    "name": "Sant Joan de Dalt",
+    "category": "otro",
+    "address": "Pg Sant Joan 150.0",
+    "lat": 41.40216470756282,
+    "lon": 2.166410951526073
+  },
+  {
+    "name": "El pont de Mühlberg",
+    "category": "otro",
+    "address": "C Mühlberg 100.0",
+    "lat": 41.41856212293422,
+    "lon": 2.161799283919621
+  },
+  {
+    "name": "Can Carreras",
+    "category": "otro",
+    "address": "Parc Central de Nou Barris 0.0 0.0",
+    "lat": 41.43682827931477,
+    "lon": 2.1678701924114794
+  },
+  {
+    "name": "El passatge de l'Esperança",
+    "category": "otro",
+    "address": "Ptge Esperança 5.0",
+    "lat": 41.42909687213159,
+    "lon": 2.176942405239261
+  },
+  {
+    "name": "Casa de la Lactància",
+    "category": "otro",
+    "address": "G.V. Corts Catalanes 475.0",
+    "lat": 41.38013155447215,
+    "lon": 2.155454935741646
+  },
+  {
+    "name": "Casal de Barri Can Portabella",
+    "category": "otro",
+    "address": "C Virgili 18.0",
+    "lat": 41.4291308751184,
+    "lon": 2.193936700525465
+  },
+  {
+    "name": "Forn de Pa Roura Vila",
+    "category": "otro",
+    "address": "C Calaf 15.0",
+    "lat": 41.39744142472332,
+    "lon": 2.144269436975635
+  },
+  {
+    "name": "Restaurant Dos Torres",
+    "category": "Restaurant",
+    "address": "Via Augusta 300.0",
+    "lat": 41.39795538977431,
+    "lon": 2.128704952652439
+  },
+  {
+    "name": "Eix Comercial del Poblenou",
+    "category": "otro",
+    "address": "C Pallars 224.0",
+    "lat": 41.402619669138986,
+    "lon": 2.199899590115794
+  },
+  {
+    "name": "Las Golondrinas - Sirenas SA",
+    "category": "otro",
+    "address": "Moll Drassanes 1.0",
+    "lat": 41.3746514376551,
+    "lon": 2.1781153021938917
+  },
+  {
+    "name": "Casa Elisa Bremon d'Espina",
+    "category": "otro",
+    "address": "C Gran de Gràcia 61.0",
+    "lat": 41.399646914660494,
+    "lon": 2.155601559279648
+  },
+  {
+    "name": "Casa Eloy Detouche",
+    "category": "otro",
+    "address": "C Pare Laínez 17.0",
+    "lat": 41.406698383788495,
+    "lon": 2.16476312511361
+  },
+  {
+    "name": "Casa F. Homet",
+    "category": "otro",
+    "address": "C Santa Magdalena 1.0",
+    "lat": 41.40368647833563,
+    "lon": 2.1524799804849275
+  },
+  {
+    "name": "Casa Feliu Iglesies",
+    "category": "otro",
+    "address": "C Gran de Gràcia 135.0",
+    "lat": 41.402178366408194,
+    "lon": 2.152775398750866
+  },
+  {
+    "name": "Casa Gustà",
+    "category": "otro",
+    "address": "C Ca l'Alegre de Dalt 72.0",
+    "lat": 41.41041608639633,
+    "lon": 2.160063116454555
+  },
+  {
+    "name": "Santa Creu d'Olorda",
+    "category": "otro",
+    "address": "Ctra Santa Creu Olorda a Sarrià 417.0",
+    "lat": 41.415981372010265,
+    "lon": 2.0590073481470856
+  },
+  {
+    "name": "Pont de Calatrava (Bac de Roda - Felip II)",
+    "category": "otro",
+    "address": "Carrer de Felip II 2.0",
+    "lat": 41.416166339580734,
+    "lon": 2.1924102551677853
+  },
+  {
+    "name": "Can Mora",
+    "category": "otro",
+    "address": "C Portell 11.0",
+    "lat": 41.41790973374814,
+    "lon": 2.151042845959997
+  },
+  {
+    "name": "Can Muntaner de Dalt",
+    "category": "otro",
+    "address": "C Olot 1.0",
+    "lat": 41.41350924872243,
+    "lon": 2.1531271963876577
+  },
+  {
+    "name": "Can Trilla",
+    "category": "otro",
+    "address": "C Gran de Gràcia 177.0",
+    "lat": 41.40354926420721,
+    "lon": 2.1519292949349675
+  },
+  {
+    "name": "El Campus Raval - UB",
+    "category": "otro",
+    "address": "C Montalegre 6.0",
+    "lat": 41.38407718499735,
+    "lon": 2.166899934194828
+  },
+  {
+    "name": "Carrer Pons i Gallarza",
+    "category": "otro",
+    "address": "C Bascònia 45.0",
+    "lat": 41.4355421004354,
+    "lon": 2.186869522394108
+  },
+  {
+    "name": "Carrer Puerto Príncipe",
+    "category": "otro",
+    "address": "C Puerto Príncipe 44.0",
+    "lat": 41.422608628418345,
+    "lon": 2.181260260566652
+  },
+  {
+    "name": "La Plaça Santa Madrona",
+    "category": "otro",
+    "address": "Pl Santa Madrona 3.0",
+    "lat": 41.37346904326101,
+    "lon": 2.1563144249358346
+  },
+  {
+    "name": "Camisseria Bonet",
+    "category": "otro",
+    "address": "C Rambla 72.0",
+    "lat": 41.38079964125222,
+    "lon": 2.173883382684312
+  },
+  {
+    "name": "Casa Doctor Genové",
+    "category": "otro",
+    "address": "C Rambla 77.0",
+    "lat": 41.38142514089114,
+    "lon": 2.1728234402079813
+  },
+  {
+    "name": "Casa Domènech i Estapà",
+    "category": "otro",
+    "address": "C València 241.0",
+    "lat": 41.39228681466528,
+    "lon": 2.1625666401735337
+  },
+  {
+    "name": "Ateneu de Fabricació Digital de Les Corts",
+    "category": "otro",
+    "address": "Carrer d'Evarist Arnús 59.0 59.0",
+    "lat": 41.38355424224072,
+    "lon": 2.1355597687429912
+  },
+  {
+    "name": "Seu de la Secció 10 de les Patrulles de Control (Guerra Civil)",
+    "category": "otro",
+    "address": "C Gran de Sant Andreu 52.0",
+    "lat": 41.42911252316188,
+    "lon": 2.19036384484912
+  },
+  {
+    "name": "Pis - Museu Habitatge 1/11",
+    "category": "Museu",
+    "address": "Passeig de Torras i Bages 91.0",
+    "lat": 41.44097555447716,
+    "lon": 2.190352662404392
+  },
+  {
+    "name": "Àntic Edifici de Catalana de Gas i Electricitat, SA",
+    "category": "otro",
+    "address": "Av Portal de l'Àngel 20.0",
+    "lat": 41.385810987300985,
+    "lon": 2.173038152640421
+  },
+  {
+    "name": "Sala Lliure de Gràcia",
+    "category": "otro",
+    "address": "C Montseny 47.0",
+    "lat": 41.40276104987048,
+    "lon": 2.156031064034744
+  },
+  {
+    "name": "Viaducte de Vallcarca",
+    "category": "otro",
+    "address": "C Gomis 2.0",
+    "lat": 41.41181800039176,
+    "lon": 2.1432697424292484
+  },
+  {
+    "name": "Casa Muntadas",
+    "category": "otro",
+    "address": "Av Tibidabo 48.0",
+    "lat": 41.41526572017423,
+    "lon": 2.1332147546001883
+  },
+  {
+    "name": "Fossar de les Moreres",
+    "category": "otro",
+    "address": "Pl Fossar de les Moreres 1.0",
+    "lat": 41.38365386571088,
+    "lon": 2.1824151631724544
+  },
+  {
+    "name": "Edifici Alhambra",
+    "category": "otro",
+    "address": "C Berlinès 5.0",
+    "lat": 41.403617178236445,
+    "lon": 2.1397153048637696
+  },
+  {
+    "name": "El Farró a través del carrer Saragossa",
+    "category": "otro",
+    "address": "C Saragossa 1.0",
+    "lat": 41.40089932712729,
+    "lon": 2.150867135716541
+  },
+  {
+    "name": "La plaça de Sarrià",
+    "category": "otro",
+    "address": "Pl Sarrià nan",
+    "lat": 41.39981901760965,
+    "lon": 2.122029074017245
+  },
+  {
+    "name": "La Torre d'Aigües de Josep Amargós",
+    "category": "otro",
+    "address": "Carretera de Vallvidrera al Tibidabo 107.0 107.0",
+    "lat": 41.42297808783552,
+    "lon": 2.118943948440615
+  },
+  {
+    "name": "Colònia Busquets",
+    "category": "otro",
+    "address": "Ctra Església 2.0",
+    "lat": 41.41369557781432,
+    "lon": 2.104502955711604
+  },
+  {
+    "name": "Fàbrica Sanchís",
+    "category": "otro",
+    "address": "Pg Enric Sanchis 21.0",
+    "lat": 41.434973842831134,
+    "lon": 2.205388440533967
+  },
+  {
+    "name": "Museu Egipci de Barcelona",
+    "category": "Museu",
+    "address": "Carrer de València 284.0",
+    "lat": 41.39365756520606,
+    "lon": 2.1647541605952405
+  },
+  {
+    "name": "Parc de la Ciutadella",
+    "category": "Parc",
+    "address": "Passeig de Picasso 21.0",
+    "lat": 41.38633657544665,
+    "lon": 2.185381778970792
+  },
+  {
+    "name": "Jardins de Ramon Margalef i López",
+    "category": "Jardins",
+    "address": "Av Estadi 42.0",
+    "lat": 41.36609351846864,
+    "lon": 2.152965473661524
+  },
+  {
+    "name": "Parc del Castell de l'Oreneta",
+    "category": "Parc",
+    "address": "C Montevideo 45.0",
+    "lat": 41.39940218424315,
+    "lon": 2.112199777559347
+  },
+  {
+    "name": "Turó Park - Parc del Poeta Eduard Marquina",
+    "category": "Parc",
+    "address": "Av Pau Casals 19.0",
+    "lat": 41.39410523623182,
+    "lon": 2.1419158924657906
+  },
+  {
+    "name": "Centre Educatiu Jesús i Maria *Passeig Sant Gervasi",
+    "category": "Centre",
+    "address": "Pg Sant Gervasi 15.0",
+    "lat": 41.40962676260745,
+    "lon": 2.1321227367298
+  },
+  {
+    "name": "Temple Expiatori de la Sagrada Família - Basílica",
+    "category": "otro",
+    "address": "Carrer de Provença 450.0",
+    "lat": 41.403953130630256,
+    "lon": 2.173925859874078
+  },
+  {
+    "name": "Carrer Major de Sarrià",
+    "category": "otro",
+    "address": "C Major de Sarrià 1.0",
+    "lat": 41.39599155894147,
+    "lon": 2.1251530428320944
+  },
+  {
+    "name": "Casa Fornells",
+    "category": "otro",
+    "address": "Av Tibidabo 35.0",
+    "lat": 41.41373899158243,
+    "lon": 2.134298941292163
+  },
+  {
+    "name": "El barri de la Mercè",
+    "category": "otro",
+    "address": "C Torrent de les Roses 1.0",
+    "lat": 41.388936898572986,
+    "lon": 2.1055266224814213
+  },
+  {
+    "name": "Mercat Sant Andreu",
+    "category": "Mercat",
+    "address": "Plaça del Mercadal 41.0 41.0",
+    "lat": 41.43489312913732,
+    "lon": 2.1883934902332927
+  },
+  {
+    "name": "Centre Excursionista Els Blaus",
+    "category": "Centre",
+    "address": "Cornet i Mas 15.0",
+    "lat": 41.39817327414662,
+    "lon": 2.123617721295924
+  },
+  {
+    "name": "Casa Marsans - Alberg Mare de Déu de Montserrat - AJ000084",
+    "category": "otro",
+    "address": "Pg Mare de Déu del Coll 41.0",
+    "lat": 41.41618949683218,
+    "lon": 2.14686630713938
+  },
+  {
+    "name": "Platja de Sant Sebastià",
+    "category": "Platja",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas 2.0",
+    "lat": 41.373706513534366,
+    "lon": 2.1896792006250663
+  },
+  {
+    "name": "Platja de la Nova Icària",
+    "category": "Platja",
+    "address": "Pg Marítim de Nova Icària 60.0",
+    "lat": 41.39076474300676,
+    "lon": 2.2028838890750646
+  },
+  {
+    "name": "El Parc del Fòrum",
+    "category": "Parc",
+    "address": "Pl Fòrum 1.0",
+    "lat": 41.41106682138965,
+    "lon": 2.221714876463801
+  },
+  {
+    "name": "Casa Vicens",
+    "category": "otro",
+    "address": "C Carolines 18.0",
+    "lat": 41.4035372452986,
+    "lon": 2.1505869815611334
+  },
+  {
+    "name": "Palau Güell",
+    "category": "Palau",
+    "address": "Carrer Nou de la Rambla 3.0",
+    "lat": 41.379087185159,
+    "lon": 2.174439557713116
+  },
+  {
+    "name": "Edifici Gas Natural",
+    "category": "otro",
+    "address": "Pl Gas 1.0",
+    "lat": 41.38319342524216,
+    "lon": 2.190154390019234
+  },
+  {
+    "name": "Tinta Invisible Edicions",
+    "category": "otro",
+    "address": "C Lleó 6.0",
+    "lat": 41.3820675489832,
+    "lon": 2.165078437655472
+  },
+  {
+    "name": "Restaurant Casa Trampa",
+    "category": "Restaurant",
+    "address": "Pl Vallvidrera 3.0",
+    "lat": 41.41319781754193,
+    "lon": 2.104516277534671
+  },
+  {
+    "name": "Museu de la Xocolata",
+    "category": "Museu",
+    "address": "Carrer del Comerç 36.0",
+    "lat": 41.38741922402338,
+    "lon": 2.181725967522791
+  },
+  {
+    "name": "Escola Josep Maria Jujol",
+    "category": "Escola",
+    "address": "C Riera de Sant Miquel 39.0",
+    "lat": 41.39821515341866,
+    "lon": 2.1558975483762164
+  },
+  {
+    "name": "Centre Cívic Casinet d'Hostafrancs",
+    "category": "Centre",
+    "address": "Carrer del Rector Triadó 53.0",
+    "lat": 41.37785807405671,
+    "lon": 2.1432215181756806
+  },
+  {
+    "name": "Portal Casa Miralles",
+    "category": "otro",
+    "address": "Pg Manuel Girona 55.0",
+    "lat": 41.39211337098168,
+    "lon": 2.1274984374334376
+  },
+  {
+    "name": "Disseny Hub Barcelona",
+    "category": "otro",
+    "address": "Plaça de les Glòries Catalanes 37.0",
+    "lat": 41.402601111692825,
+    "lon": 2.1880498461023428
+  },
+  {
+    "name": "Masia de Can Baró",
+    "category": "otro",
+    "address": "Pl Can Baró 1.0",
+    "lat": 41.41656209133623,
+    "lon": 2.1620938107713417
+  },
+  {
+    "name": "Pla de Montbau",
+    "category": "otro",
+    "address": "Pla Montbau 6.0",
+    "lat": 41.430681496366894,
+    "lon": 2.1427060165365965
+  },
+  {
+    "name": "Cases Francesc Farreras",
+    "category": "otro",
+    "address": "G.V. Corts Catalanes 536.0",
+    "lat": 41.382555032109934,
+    "lon": 2.159551767559708
+  },
+  {
+    "name": "Casa Pomar",
+    "category": "otro",
+    "address": "C Girona 86.0",
+    "lat": 41.39563961765683,
+    "lon": 2.170281440902392
+  },
+  {
+    "name": "Parròquia de Sant Ramon Nonat",
+    "category": "Parròquia",
+    "address": "Av Sant Ramon Nonat 1.0",
+    "lat": 41.37603719947376,
+    "lon": 2.11709281902244
+  },
+  {
+    "name": "Base Nàutica Municipal de la Mar Bella",
+    "category": "otro",
+    "address": "Pg Marítim del Bogatell 102.0",
+    "lat": 41.39653535209156,
+    "lon": 2.2097712400521687
+  },
+  {
+    "name": "Institut Vila de Gràcia",
+    "category": "otro",
+    "address": "C Riera de Sant Miquel 58.0",
+    "lat": 41.3986014146248,
+    "lon": 2.155368115677565
+  },
+  {
+    "name": "Pavelló de la República",
+    "category": "otro",
+    "address": "C Jorge Manrique 9.0",
+    "lat": 41.43084548288972,
+    "lon": 2.151482356409003
+  },
+  {
+    "name": "Alberg In-Out - AJ000427",
+    "category": "otro",
+    "address": "C Major del Rectoret 2.0",
+    "lat": 41.42206372379852,
+    "lon": 2.101812736653692
+  },
+  {
+    "name": "Institut del Teatre",
+    "category": "otro",
+    "address": "Pl Margarida Xirgu 1.0",
+    "lat": 41.37067944898099,
+    "lon": 2.157449314071009
+  },
+  {
+    "name": "Edifici Patronat Ribas",
+    "category": "otro",
+    "address": "Pg Vall d'Hebron 93.0",
+    "lat": 41.422929218509935,
+    "lon": 2.1410866943487545
+  },
+  {
+    "name": "Monument a Cristòfol Colom",
+    "category": "otro",
+    "address": "Plaça del Portal de la Pau 1.0",
+    "lat": 41.375981756802304,
+    "lon": 2.1760573876381613
+  },
+  {
+    "name": "Escultura Josep Anselm Clavé",
+    "category": "otro",
+    "address": "Pg Sant Joan 198.0",
+    "lat": 41.404090634245215,
+    "lon": 2.1638663854194364
+  },
+  {
+    "name": "Facultat de Dret - UB",
+    "category": "otro",
+    "address": "Av Diagonal 684.0",
+    "lat": 41.38723971871468,
+    "lon": 2.1210972500110508
+  },
+  {
+    "name": "Carrer Grau",
+    "category": "otro",
+    "address": "C Grau 47.0",
+    "lat": 41.438791640535136,
+    "lon": 2.187669352497476
+  },
+  {
+    "name": "Carrer Manigua",
+    "category": "otro",
+    "address": "C Garcilaso 200.0",
+    "lat": 41.423676546575145,
+    "lon": 2.1797396875918653
+  },
+  {
+    "name": "Carrer Matanzas",
+    "category": "otro",
+    "address": "C Matanzas 40.0",
+    "lat": 41.422752030928834,
+    "lon": 2.1821867084168733
+  },
+  {
+    "name": "Menjadors populars del carrer Gran Sant Andreu (Guerra Civil)",
+    "category": "otro",
+    "address": "C Gran de Sant Andreu 176.0",
+    "lat": 41.43272227205576,
+    "lon": 2.1893973971197025
+  },
+  {
+    "name": "Centre Cívic Tomasa Cuevas - Les Corts",
+    "category": "Centre",
+    "address": "Carrer de Dolors Masferrer i Bosch 33.0",
+    "lat": 41.38481868130682,
+    "lon": 2.1283416789870517
+  },
+  {
+    "name": "Fàbrica de Creació Hangar",
+    "category": "otro",
+    "address": "C Emília Coranty 8.0",
+    "lat": 41.408601288709,
+    "lon": 2.199379275633804
+  },
+  {
+    "name": "Museu de Ciències Naturals de Barcelona",
+    "category": "Museu",
+    "address": "Plaça de Leonardo da Vinci 4.0",
+    "lat": 41.41081133082032,
+    "lon": 2.220499449653222
+  },
+  {
+    "name": "Centre Comercial Westfield Glòries",
+    "category": "Centre",
+    "address": "Av Diagonal 208.0",
+    "lat": 41.40497574863421,
+    "lon": 2.1925213552739606
+  },
+  {
+    "name": "Fundació Barcelona Media - Centre d'Innovació",
+    "category": "Centre",
+    "address": "Av Diagonal 177.0",
+    "lat": 41.404425080209855,
+    "lon": 2.1936694239353693
+  },
+  {
+    "name": "Jardins de la Tamarita",
+    "category": "Jardins",
+    "address": "Pg Sant Gervasi 47.0",
+    "lat": 41.41090504207735,
+    "lon": 2.1353308120104346
+  },
+  {
+    "name": "El Clot",
+    "category": "otro",
+    "address": "Pl Font i Sagué 2.0",
+    "lat": 41.407845782838926,
+    "lon": 2.188469193190472
+  },
+  {
+    "name": "Facultat de Psicologia i Ciències de l'Educació i de l'Esport Blanquerna - URL",
+    "category": "otro",
+    "address": "Císter 34.0",
+    "lat": 41.41191420929642,
+    "lon": 2.1333279293214424
+  },
+  {
+    "name": "El nucli de Santa Eulàlia de Vilapicina",
+    "category": "otro",
+    "address": "C Pere d'Artés 1.0",
+    "lat": 41.43105597129707,
+    "lon": 2.173127543884692
+  },
+  {
+    "name": "Can Peguera",
+    "category": "otro",
+    "address": "Pl Sant Francesc Xavier 12.0",
+    "lat": 41.43428467027986,
+    "lon": 2.16456333073766
+  },
+  {
+    "name": "La vila de Gràcia",
+    "category": "otro",
+    "address": "Pl Virreina 2.0",
+    "lat": 41.405031103391,
+    "lon": 2.157519564297269
+  },
+  {
+    "name": "Ca l'Aranyó",
+    "category": "otro",
+    "address": "C Roc Boronat 150.0",
+    "lat": 41.40418745612774,
+    "lon": 2.192916650968304
+  },
+  {
+    "name": "El barri de la Clota",
+    "category": "otro",
+    "address": "C Capcir 2.0",
+    "lat": 41.42664948190676,
+    "lon": 2.150985823958698
+  },
+  {
+    "name": "Casa Almirall",
+    "category": "otro",
+    "address": "C Joaquín Costa 33.0",
+    "lat": 41.38238921399351,
+    "lon": 2.165929295607357
+  },
+  {
+    "name": "Plaça de les Dones del 36",
+    "category": "otro",
+    "address": "Pl Dones del 36 1.0",
+    "lat": 41.40454220831473,
+    "lon": 2.153654759838709
+  },
+  {
+    "name": "Hort Urbà Masia Can Mestres *Tancat",
+    "category": "otro",
+    "address": "Camí Can Clos 1.0",
+    "lat": 41.35971541159925,
+    "lon": 2.145157408726708
+  },
+  {
+    "name": "Facultat de Comunicació i Relacions Internacionals Blanquerna - URL",
+    "category": "otro",
+    "address": "Plaça de Joan Coromines 1.0 1.0",
+    "lat": 41.38353764764212,
+    "lon": 2.166272793410519
+  },
+  {
+    "name": "Torre Glòries",
+    "category": "otro",
+    "address": "Av Diagonal 209.0",
+    "lat": 41.40347629324701,
+    "lon": 2.189815009628469
+  },
+  {
+    "name": "Parc del Poblenou",
+    "category": "Parc",
+    "address": "Av Litoral 59.0",
+    "lat": 41.39727971819072,
+    "lon": 2.207470604184096
+  },
+  {
+    "name": "Centre Educatiu Vedruna Gràcia Barcelona",
+    "category": "Centre",
+    "address": "C Gran de Gràcia 234.0",
+    "lat": 41.40471777195005,
+    "lon": 2.151415793082498
+  },
+  {
+    "name": "Biblioteca Montserrat Abelló",
+    "category": "otro",
+    "address": "Carrer dels Comtes de Bell-lloc 192.0",
+    "lat": 41.38373133027636,
+    "lon": 2.135305845435044
+  },
+  {
+    "name": "Museu Frederic Marès",
+    "category": "Museu",
+    "address": "Plaça de Sant Iu 5.0",
+    "lat": 41.38420549734736,
+    "lon": 2.17695685162379
+  },
+  {
+    "name": "Estadi Olímpic de Montjuïc Lluís Companys",
+    "category": "otro",
+    "address": "Passeig Olímpic 17.0",
+    "lat": 41.36474508399185,
+    "lon": 2.155681394867584
+  },
+  {
+    "name": "Spotify Camp Nou * Tancat per remodelació",
+    "category": "otro",
+    "address": "C Aristides Maillol 12.0",
+    "lat": 41.380806951232216,
+    "lon": 2.1228764926605805
+  },
+  {
+    "name": "Parc de la Trinitat",
+    "category": "Parc",
+    "address": "Pg Santa Coloma 60.0",
+    "lat": 41.449268825219306,
+    "lon": 2.1956548753915466
+  },
+  {
+    "name": "Federació de Comerciants de Barna Centre",
+    "category": "Centre",
+    "address": "Carrer del Paradís 10.0 10.0",
+    "lat": 41.38337742829775,
+    "lon": 2.177171627621828
+  },
+  {
+    "name": "Platja de la Mar Bella",
+    "category": "Platja",
+    "address": "Passeig Marítim de la Mar Bella 104.0 104.0",
+    "lat": 41.39857924467329,
+    "lon": 2.2123276980931683
+  },
+  {
+    "name": "Ca n'Andalet",
+    "category": "otro",
+    "address": "Passatge d'Andalet 11.0",
+    "lat": 41.42721189152529,
+    "lon": 2.153678760813793
+  },
+  {
+    "name": "CosmoCaixa Barcelona",
+    "category": "otro",
+    "address": "Carrer d'Isaac Newton 26.0",
+    "lat": 41.41329827278905,
+    "lon": 2.1306762762550275
+  },
+  {
+    "name": "Associació de Comerciants del Carrer Gran de Gràcia",
+    "category": "otro",
+    "address": "Carrer Gran de Gràcia 86.0 86.0",
+    "lat": 41.4003276952613,
+    "lon": 2.1550611661314885
+  },
+  {
+    "name": "Museu Reial Monestir de Santa Maria de Pedralbes",
+    "category": "Museu",
+    "address": "Baixada del Monestir 9.0",
+    "lat": 41.395605165759946,
+    "lon": 2.112075084546918
+  },
+  {
+    "name": "Reial Club de Tennis Barcelona - 1899",
+    "category": "Club",
+    "address": "C Bosch i Gimpera 5.0",
+    "lat": 41.39369047981739,
+    "lon": 2.118331914254848
+  },
+  {
+    "name": "Memorial de les Dones Represaliades a la Presó de Dones de les Corts",
+    "category": "otro",
+    "address": "Carrer d'Europa 13.0 13.0",
+    "lat": 41.387153239939714,
+    "lon": 2.129239773817562
+  },
+  {
+    "name": "Hospital de la Santa Creu i Sant Pau",
+    "category": "otro",
+    "address": "C Sant Quintí 89.0",
+    "lat": 41.41544108395991,
+    "lon": 2.1739598683555683
+  },
+  {
+    "name": "Centre Cívic La Sedeta",
+    "category": "Centre",
+    "address": "Carrer de Sicília 321.0",
+    "lat": 41.405576512012246,
+    "lon": 2.167687591797475
+  },
+  {
+    "name": "Parròquia de l'Immaculat Cor de Maria",
+    "category": "Parròquia",
+    "address": "C Sant Antoni Maria Claret 45.0",
+    "lat": 41.405951148357936,
+    "lon": 2.166593971349565
+  },
+  {
+    "name": "Centre Cívic Guinardó",
+    "category": "Centre",
+    "address": "Ronda del Guinardó 113.0 133.0",
+    "lat": 41.41607687588995,
+    "lon": 2.1733610333293782
+  },
+  {
+    "name": "Jardins Mestre Balcells",
+    "category": "Jardins",
+    "address": "Carrer de Sant Salvador 63.0 65.0",
+    "lat": 41.40763678374947,
+    "lon": 2.154533307360096
+  },
+  {
+    "name": "Mercat Guineueta",
+    "category": "Mercat",
+    "address": "Passeig de Valldaura 186.0",
+    "lat": 41.43865254771624,
+    "lon": 2.170245672758619
+  },
+  {
+    "name": "Centre Cívic Casa del Rellotge",
+    "category": "Centre",
+    "address": "Passeig de la Zona Franca 116.0",
+    "lat": 41.35757415322748,
+    "lon": 2.141406028389017
+  },
+  {
+    "name": "Monument Arc de Triomf de Barcelona",
+    "category": "otro",
+    "address": "Pg Lluís Companys 15.0",
+    "lat": 41.39108086341498,
+    "lon": 2.1807039051520003
+  },
+  {
+    "name": "Torre Bellesguard  Gaudí - Casa Figueres",
+    "category": "otro",
+    "address": "C Bellesguard 16.0",
+    "lat": 41.40916538840938,
+    "lon": 2.126832670465789
+  },
+  {
+    "name": "Torre de Collserola",
+    "category": "otro",
+    "address": "Ctra Vallvidrera Tibidabo 8.0",
+    "lat": 41.41586341604361,
+    "lon": 2.111785952453742
+  },
+  {
+    "name": "Mercat Barceloneta",
+    "category": "Mercat",
+    "address": "Plaça del Poeta Boscà 1.0",
+    "lat": 41.38024616800817,
+    "lon": 2.18928120267198
+  },
+  {
+    "name": "Mercat Ninot",
+    "category": "Mercat",
+    "address": "Carrer de Mallorca 133.0",
+    "lat": 41.38785716567697,
+    "lon": 2.1544122344047523
+  },
+  {
+    "name": "Parròquia de Santa Teresa de l'Infant Jesús",
+    "category": "Parròquia",
+    "address": "Via Augusta 68.0",
+    "lat": 41.400511756428415,
+    "lon": 2.151808582444108
+  },
+  {
+    "name": "Casa Francesc Cama",
+    "category": "otro",
+    "address": "C Gran de Gràcia 77.0",
+    "lat": 41.40028269384311,
+    "lon": 2.1548570322157654
+  },
+  {
+    "name": "Casa Madurell",
+    "category": "otro",
+    "address": "C Torrijos 14.0",
+    "lat": 41.40275219893523,
+    "lon": 2.1596123951981183
+  },
+  {
+    "name": "Jardins del  Baix Guinardó",
+    "category": "Jardins",
+    "address": "C Marina 372.0",
+    "lat": 41.40977850723608,
+    "lon": 2.168658421542334
+  },
+  {
+    "name": "Museu de Carruatges del Foment",
+    "category": "Museu",
+    "address": "Pl Josep Pallach 8.0",
+    "lat": 41.43386840494578,
+    "lon": 2.149802728490179
+  },
+  {
+    "name": "Parc de Joan Miró",
+    "category": "Parc",
+    "address": "Carrer d'Aragó 2.0 2.0",
+    "lat": 41.37883814100107,
+    "lon": 2.1473335958888007
+  },
+  {
+    "name": "Parròquia de la Mare de Déu del Coll",
+    "category": "Parròquia",
+    "address": "C Santuari 30.0",
+    "lat": 41.420132063616215,
+    "lon": 2.151319417179658
+  },
+  {
+    "name": "Edifici d'habitatges Gran de Gràcia 67",
+    "category": "otro",
+    "address": "C Gran de Gràcia 67.0",
+    "lat": 41.399899033342535,
+    "lon": 2.1553048145748552
+  },
+  {
+    "name": "Farmàcia de Bolós Giralt",
+    "category": "otro",
+    "address": "Rbla Catalunya 77.0",
+    "lat": 41.39166621624898,
+    "lon": 2.162424791257872
+  },
+  {
+    "name": "Antiga Fàbrica d'Estampació Tèxtil Can Ricart",
+    "category": "otro",
+    "address": "C Emília Coranty 33.0",
+    "lat": 41.40922632383825,
+    "lon": 2.1981716288388373
+  },
+  {
+    "name": "Centre Esportiu Municipal Can Caralleu",
+    "category": "Centre",
+    "address": "Carrer dels Esports 2.0",
+    "lat": 41.40098699374353,
+    "lon": 2.1105047906383008
+  },
+  {
+    "name": "Vall d'Hebron Barcelona Hospital Campus",
+    "category": "otro",
+    "address": "Pg Vall d'Hebron 119.0",
+    "lat": 41.42804943371883,
+    "lon": 2.1434499797388105
+  },
+  {
+    "name": "Casa Terradas - Casa de les Punxes",
+    "category": "otro",
+    "address": "Av Diagonal 420.0",
+    "lat": 41.39789455388375,
+    "lon": 2.1638579681725147
+  },
+  {
+    "name": "El Polvorí i Cos de Guàrdia",
+    "category": "otro",
+    "address": "C Segura 34.0",
+    "lat": 41.36464604706291,
+    "lon": 2.1428603946607967
+  },
+  {
+    "name": "Parc Central de Nou Barris",
+    "category": "Parc",
+    "address": "Pl Major de Nou Barris 1.0",
+    "lat": 41.4368445525108,
+    "lon": 2.1712296246319656
+  },
+  {
+    "name": "Carrer Pinar del Rio",
+    "category": "otro",
+    "address": "C Matanzas 30.0",
+    "lat": 41.422259021739634,
+    "lon": 2.1821005942848277
+  },
+  {
+    "name": "Parròquia de Sant Vicenç de Sarrià",
+    "category": "Parròquia",
+    "address": "C Rector Voltà 5.0",
+    "lat": 41.39948172834851,
+    "lon": 2.121111403839136
+  },
+  {
+    "name": "Residència Militar d'Estudiants Mateo Calabro",
+    "category": "otro",
+    "address": "Capità Arenas 52.0",
+    "lat": 41.39297332973804,
+    "lon": 2.12510287048567
+  },
+  {
+    "name": "Institut Químic de Sarrià - Campus Sarrià - IQS",
+    "category": "otro",
+    "address": "Via Augusta 390.0",
+    "lat": 41.40379591152728,
+    "lon": 2.1194605457742592
+  },
+  {
+    "name": "Seu del Districte de Sants-Montjuïc",
+    "category": "otro",
+    "address": "Carrer de la Creu Coberta 104.0",
+    "lat": 41.3754087791269,
+    "lon": 2.142274392316013
+  },
+  {
+    "name": "Fundació Orfeó Gracienc",
+    "category": "otro",
+    "address": "C Astúries 83.0",
+    "lat": 41.404734139288166,
+    "lon": 2.156423120771882
+  },
+  {
+    "name": "Parròquia de Sant Joan de Gràcia",
+    "category": "Parròquia",
+    "address": "C Santa Creu 2.0",
+    "lat": 41.40533710606837,
+    "lon": 2.1567122726022543
+  },
+  {
+    "name": "Educa +",
+    "category": "otro",
+    "address": "C Sant Quintí 12.0",
+    "lat": 41.41252398893622,
+    "lon": 2.179570364707956
+  },
+  {
+    "name": "Seu del Districte de Sarrià-Sant Gervasi",
+    "category": "otro",
+    "address": "Plaça del Consell de la Vila 7.0",
+    "lat": 41.39912976584916,
+    "lon": 2.1214123028583627
+  },
+  {
+    "name": "Palau de Congressos *Pavelló 5",
+    "category": "Palau",
+    "address": "Av Reina Maria Cristina 1.0",
+    "lat": 41.37241483260608,
+    "lon": 2.1518889546104605
+  },
+  {
+    "name": "Centre Educatiu CETT",
+    "category": "Centre",
+    "address": "Av Can Marcet 36.0",
+    "lat": 41.43485061254671,
+    "lon": 2.1481555754807795
+  },
+  {
+    "name": "Universitat Nacional d'Educació a Distància *Barcelona",
+    "category": "otro",
+    "address": "Av Rio de Janeiro 56.0",
+    "lat": 41.43646572009841,
+    "lon": 2.180455235272232
+  },
+  {
+    "name": "Seu del Districte de Nou Barris",
+    "category": "otro",
+    "address": "Pl Major de Nou Barris 1.0",
+    "lat": 41.4368445525108,
+    "lon": 2.1712296246319656
+  },
+  {
+    "name": "Parròquia de la Mare de Déu de Lourdes",
+    "category": "Parròquia",
+    "address": "C Font Honrada 33.0",
+    "lat": 41.37309762127584,
+    "lon": 2.1560110122944107
+  },
+  {
+    "name": "Círculo Ecuestre",
+    "category": "otro",
+    "address": "C Balmes 169.0",
+    "lat": 41.395763940464285,
+    "lon": 2.1540111781345668
+  },
+  {
+    "name": "Museu",
+    "category": "Museu",
+    "address": "Avinguda de Miramar 1.0",
+    "lat": 41.368292261821246,
+    "lon": 2.1601492925476364
+  },
+  {
+    "name": "Museu de Pintura Contemporània Can Framis",
+    "category": "Museu",
+    "address": "Carrer de Roc Boronat 116.0",
+    "lat": 41.40294420265117,
+    "lon": 2.1949651108093025
+  },
+  {
+    "name": "Parròquia de Sant Pere de les Puel·les",
+    "category": "Parròquia",
+    "address": "Pl Sant Pere nan",
+    "lat": 41.38922892058108,
+    "lon": 2.1792430187092746
+  },
+  {
+    "name": "Escola Superior d'Administració i Direcció d'Empreses - URL",
+    "category": "Escola",
+    "address": "Av Pedralbes 60.0",
+    "lat": 41.39374137478776,
+    "lon": 2.11450041725389
+  },
+  {
+    "name": "Jardins del Palau de Pedralbes",
+    "category": "Jardins",
+    "address": "Av Diagonal 686.0",
+    "lat": 41.38654937434819,
+    "lon": 2.1184352989192647
+  },
+  {
+    "name": "Casa Lamadrid",
+    "category": "otro",
+    "address": "Girona 113.0",
+    "lat": 41.39694691705839,
+    "lon": 2.1681807052555757
+  },
+  {
+    "name": "Casa Garriga Nogués",
+    "category": "otro",
+    "address": "Diputació 250.0",
+    "lat": 41.38892310014807,
+    "lon": 2.165254832995529
+  },
+  {
+    "name": "Centre Esportiu Municipal Piscines Bernat Picornell",
+    "category": "Centre",
+    "address": "Av Estadi 30.0",
+    "lat": 41.36632923206704,
+    "lon": 2.150793450223625
+  },
+  {
+    "name": "TAMAIA Viure Sense Violencia, S.C.C.L.",
+    "category": "otro",
+    "address": "C Ripoll 25.0",
+    "lat": 41.38550526763556,
+    "lon": 2.175087497981421
+  },
+  {
+    "name": "Roca Barcelona Gallery",
+    "category": "otro",
+    "address": "C Joan Güell 211.0",
+    "lat": 41.38664570242304,
+    "lon": 2.12923065792945
+  },
+  {
+    "name": "Platja del Bogatell",
+    "category": "Platja",
+    "address": "Pg Marítim del Bogatell 80.0",
+    "lat": 41.39460267821261,
+    "lon": 2.2067544978597606
+  },
+  {
+    "name": "Casal d'Entitats Mas Guinardó",
+    "category": "otro",
+    "address": "Plaça de Salvador Riera 2.0",
+    "lat": 41.41816915835005,
+    "lon": 2.1744079393214104
+  },
+  {
+    "name": "Associació de Comerciants i Professionals Barnavasi",
+    "category": "otro",
+    "address": "C Septimània 31.0",
+    "lat": 41.40545573179054,
+    "lon": 2.147638695309088
+  },
+  {
+    "name": "Forn de Pa de Can Tur",
+    "category": "otro",
+    "address": "Virgili 74.0",
+    "lat": 41.43201793483495,
+    "lon": 2.1933483941178187
+  },
+  {
+    "name": "Museu Olímpic i de l'Esport Joan Antoni Samaranch de Barcelona",
+    "category": "Museu",
+    "address": "Avinguda de l'Estadi 60.0",
+    "lat": 41.36628092507608,
+    "lon": 2.1570941364707474
+  },
+  {
+    "name": "Museu",
+    "category": "Museu",
+    "address": "Carrer d'Aragó 255.0",
+    "lat": 41.39155351265377,
+    "lon": 2.1637754588196367
+  },
+  {
+    "name": "Escultura David i Goliat Homenatge a les Brigades Internacionals",
+    "category": "otro",
+    "address": "Rbla Carmel 46.0",
+    "lat": 41.42487315212389,
+    "lon": 2.157703561885268
+  },
+  {
+    "name": "Telefèric de Barcelona",
+    "category": "otro",
+    "address": "Pg Joan Borbó C Barcelona 88.0",
+    "lat": 41.373250146274025,
+    "lon": 2.187875716121665
+  },
+  {
+    "name": "Jardins de Can Sentmenat",
+    "category": "Jardins",
+    "address": "C Can Caralleu 6.0",
+    "lat": 41.40262028359711,
+    "lon": 2.115102292721839
+  },
+  {
+    "name": "Parc del Laberint d'Horta",
+    "category": "Parc",
+    "address": "Passeig dels Castanyers 1.0",
+    "lat": 41.43795704876439,
+    "lon": 2.1475613087947547
+  },
+  {
+    "name": "Parc del Guinardó",
+    "category": "Parc",
+    "address": "Garriga i Roca 1.0",
+    "lat": 41.41948943678852,
+    "lon": 2.169613897166294
+  },
+  {
+    "name": "Parc del Turó de la Peira",
+    "category": "Parc",
+    "address": "Passeig de Fabra i Puig 396.0 406.0",
+    "lat": 41.43346223343624,
+    "lon": 2.1634471242007627
+  },
+  {
+    "name": "Centre Cívic Can Castelló",
+    "category": "Centre",
+    "address": "Carrer de Castelló 1.0",
+    "lat": 41.39904051559378,
+    "lon": 2.140179532716965
+  },
+  {
+    "name": "Jardins de Vil·la Amèlia",
+    "category": "Jardins",
+    "address": "Carrer d'Eduardo Conde 22.0",
+    "lat": 41.39390619967619,
+    "lon": 2.1211872573336934
+  },
+  {
+    "name": "Park Güell",
+    "category": "otro",
+    "address": "Carrer d'Olot 7.0",
+    "lat": 41.41350924872243,
+    "lon": 2.1531271963876577
+  },
+  {
+    "name": "Universitat Oberta de Catalunya",
+    "category": "otro",
+    "address": "Rambla del Poblenou 154.0 156.0",
+    "lat": 41.40649363005068,
+    "lon": 2.19444957141162
+  },
+  {
+    "name": "MUHBA Museu d'Història de Barcelona - Casa de l'Aigua",
+    "category": "Museu",
+    "address": "Carretera de Ribes 103.0",
+    "lat": 41.45463864239669,
+    "lon": 2.189729096932418
+  },
+  {
+    "name": "Centre Municipal de Cultura Popular de Sant Andreu",
+    "category": "Centre",
+    "address": "C Arquímedes 30.0",
+    "lat": 41.44068473251823,
+    "lon": 2.1876438165449668
+  },
+  {
+    "name": "Centre Cívic Casa Golferichs",
+    "category": "Centre",
+    "address": "Gran Via de les Corts Catalanes 491.0",
+    "lat": 41.3808491471351,
+    "lon": 2.1564074948215346
+  },
+  {
+    "name": "Museu Nacional d'Art de Catalunya",
+    "category": "Museu",
+    "address": "C Mirador Palau Nacional 6.0",
+    "lat": 41.368885103834,
+    "lon": 2.153381227899417
+  },
+  {
+    "name": "El Campus Mundet - UB",
+    "category": "otro",
+    "address": "Pg Vall d'Hebron 173.0",
+    "lat": 41.43575541409688,
+    "lon": 2.147158169831797
+  },
+  {
+    "name": "La llera del riu Besòs",
+    "category": "otro",
+    "address": "Pl Turó de la Trinitat 1.0",
+    "lat": 41.45464961996649,
+    "lon": 2.1909188386141625
+  },
+  {
+    "name": "Reial Acadèmia de Ciències i Arts de Barcelona",
+    "category": "otro",
+    "address": "C la Rambla 115.0",
+    "lat": 41.38417592716741,
+    "lon": 2.1707408640195456
+  },
+  {
+    "name": "El Gòtic",
+    "category": "otro",
+    "address": "C Paradís 1.0",
+    "lat": 41.383065594486666,
+    "lon": 2.1770218391588827
+  },
+  {
+    "name": "El Poblenou",
+    "category": "otro",
+    "address": "C Pallars 221.0",
+    "lat": 41.4022744450405,
+    "lon": 2.1990636882594146
+  },
+  {
+    "name": "Sant Andreu",
+    "category": "otro",
+    "address": "Pl Comerç 3.0",
+    "lat": 41.43526902100958,
+    "lon": 2.190044472473194
+  },
+  {
+    "name": "El nucli antic d'Horta",
+    "category": "otro",
+    "address": "C Fulton 15.0",
+    "lat": 41.42999427513081,
+    "lon": 2.161502292023968
+  },
+  {
+    "name": "La plaça de Lesseps",
+    "category": "otro",
+    "address": "Pl Lesseps 18.0",
+    "lat": 41.40771234565708,
+    "lon": 2.1510867322061435
+  },
+  {
+    "name": "El Campus Ciutadella",
+    "category": "otro",
+    "address": "C Ramon Trias Fargas 25.0",
+    "lat": 41.39002929461585,
+    "lon": 2.190872085861088
+  },
+  {
+    "name": "Parc de la Pegaso",
+    "category": "Parc",
+    "address": "C Sagrera 179.0",
+    "lat": 41.42688804853377,
+    "lon": 2.190739286407059
+  },
+  {
+    "name": "Cases Josefa Villanueva",
+    "category": "otro",
+    "address": "C Roger de Llúria 80.0",
+    "lat": 41.39489635939134,
+    "lon": 2.166752451664696
+  },
+  {
+    "name": "Cristalleries Planell",
+    "category": "otro",
+    "address": "C Doctor Ibáñez 38.0",
+    "lat": 41.38743624313862,
+    "lon": 2.131903917807222
+  },
+  {
+    "name": "Casa Queralt",
+    "category": "otro",
+    "address": "C Pineda 12.0",
+    "lat": 41.41927179810715,
+    "lon": 2.147925810285238
+  },
+  {
+    "name": "Espai Mescladís",
+    "category": "otro",
+    "address": "C Carders 35.0",
+    "lat": 41.38709531983285,
+    "lon": 2.1803507473845234
+  },
+  {
+    "name": "Font Pública",
+    "category": "otro",
+    "address": "Trav Gràcia 126.0",
+    "lat": 41.40022209501887,
+    "lon": 2.1561312297043247
+  },
+  {
+    "name": "Centre Comercial Maremàgnum",
+    "category": "Centre",
+    "address": "Moll Espanya 5.0",
+    "lat": 41.37576189535446,
+    "lon": 2.183231333568717
+  },
+  {
+    "name": "Centre Cívic Can Deu",
+    "category": "Centre",
+    "address": "Plaça de la Concòrdia 13.0",
+    "lat": 41.38679400774152,
+    "lon": 2.1325216465394625
+  },
+  {
+    "name": "Parc de l'Espanya Industrial",
+    "category": "Parc",
+    "address": "Carrer de Muntadas 1.0 1.0",
+    "lat": 41.37653564822331,
+    "lon": 2.139874006322372
+  },
+  {
+    "name": "Seu del Districte de Sant Andreu",
+    "category": "otro",
+    "address": "Plaça d'Orfila 1.0",
+    "lat": 41.43602805111317,
+    "lon": 2.190607338298738
+  },
+  {
+    "name": "Santa Església Catedral Basílica de Barcelona",
+    "category": "otro",
+    "address": "Pla Seu 3.0",
+    "lat": 41.384296570811145,
+    "lon": 2.1761751314006545
+  },
+  {
+    "name": "La plaça de John Lennon",
+    "category": "otro",
+    "address": "Pl John Lennon nan",
+    "lat": 41.40286050125628,
+    "lon": 2.1615342716775845
+  },
+  {
+    "name": "La plaça de Nicolás Salmerón",
+    "category": "otro",
+    "address": "Pla Nicolás Salmerón nan",
+    "lat": 41.39801209292751,
+    "lon": 2.157480714601559
+  },
+  {
+    "name": "La Pedrera Romana",
+    "category": "otro",
+    "address": "C Ferrocarrils Catalans 4.0",
+    "lat": 41.357168740446966,
+    "lon": 2.145671534709044
+  },
+  {
+    "name": "Torre de l'Aigua",
+    "category": "otro",
+    "address": "C Santa Àgata 6.0",
+    "lat": 41.40405325796555,
+    "lon": 2.152229161692367
+  },
+  {
+    "name": "La Rambla del Raval",
+    "category": "otro",
+    "address": "Rbla Raval 12.0",
+    "lat": 41.37888562756235,
+    "lon": 2.1691786660708967
+  },
+  {
+    "name": "Xemeneia de Can Galta Cremat",
+    "category": "otro",
+    "address": "C Arquímedes 30.0",
+    "lat": 41.440635877473454,
+    "lon": 2.187715361234582
+  },
+  {
+    "name": "Les Carasses",
+    "category": "otro",
+    "address": "Pg Torras i Bages 108.0",
+    "lat": 41.44136142057692,
+    "lon": 2.1910812403192512
+  },
+  {
+    "name": "Xemeneia de l'antiga Fábrica \"La Porcelana",
+    "category": "otro",
+    "address": "Pl Joan Corrades 1.0",
+    "lat": 41.3730269153328,
+    "lon": 2.144526050663452
+  },
+  {
+    "name": "La plaça del Raspall",
+    "category": "otro",
+    "address": "Pl Raspall nan",
+    "lat": 41.401314262013386,
+    "lon": 2.160701296482157
+  },
+  {
+    "name": "La Plaça del Setge de 1714",
+    "category": "otro",
+    "address": "Pl Setge de 1714 nan",
+    "lat": 41.3742315617575,
+    "lon": 2.161040561834341
+  },
+  {
+    "name": "Casa Sant Felip Neri",
+    "category": "otro",
+    "address": "C Nena Casas 37.0",
+    "lat": 41.39572136064741,
+    "lon": 2.130903870123052
+  },
+  {
+    "name": "El barri Plus Ultra",
+    "category": "otro",
+    "address": "C Aviador Ruiz de Alda 28.0",
+    "lat": 41.360594861404536,
+    "lon": 2.14102627404691
+  },
+  {
+    "name": "Antiga Biblioteca Pública de Sant Andreu de Palomar",
+    "category": "otro",
+    "address": "C Santa Marta 12.0",
+    "lat": 41.43679975051144,
+    "lon": 2.1905489388615904
+  },
+  {
+    "name": "L'Aqüeducte Palombarum",
+    "category": "otro",
+    "address": "C Fernando Pessoa 1.0",
+    "lat": 41.43821655449944,
+    "lon": 2.193187925153491
+  },
+  {
+    "name": "Antic Monòlit Dedicat a la Legión Condor",
+    "category": "otro",
+    "address": "Pl Reina Maria Cristina 1.0",
+    "lat": 41.38863075155167,
+    "lon": 2.127086735020199
+  },
+  {
+    "name": "Cansaladeria Puig",
+    "category": "otro",
+    "address": "C Gran de Sant Andreu 147.0",
+    "lat": 41.431965377634455,
+    "lon": 2.1892316530910487
+  },
+  {
+    "name": "L'antic Putxet. Els carrers Manacor, Cadis i Putxet",
+    "category": "otro",
+    "address": "C Putxet 1.0",
+    "lat": 41.40413124648984,
+    "lon": 2.142225615431341
+  },
+  {
+    "name": "Passatge de Sant Felip",
+    "category": "otro",
+    "address": "Ptge Sant Felip 1.0",
+    "lat": 41.40338319158916,
+    "lon": 2.1471047244543726
+  },
+  {
+    "name": "La plaça Molina",
+    "category": "otro",
+    "address": "Pl Molina 1.0",
+    "lat": 41.40128333249604,
+    "lon": 2.146733983621581
+  },
+  {
+    "name": "Parc Esportiu de Can Dragó",
+    "category": "Parc",
+    "address": "C Rosselló i Porcel 7.0",
+    "lat": 41.436593069404815,
+    "lon": 2.183157005742885
+  },
+  {
+    "name": "Torre de Sant Jordi",
+    "category": "otro",
+    "address": "C Sant Eudald 11.0",
+    "lat": 41.413865507094485,
+    "lon": 2.145538840084051
+  },
+  {
+    "name": "Villa Conchita o Casa dels Metges",
+    "category": "otro",
+    "address": "Pg Mare de Déu del Coll 81.0",
+    "lat": 41.41921321493736,
+    "lon": 2.148484310850028
+  },
+  {
+    "name": "Carrer Sant Gervasi de Cassoles",
+    "category": "otro",
+    "address": "C Sant Gervasi de Cassoles 1.0",
+    "lat": 41.40417769240352,
+    "lon": 2.139512069189189
+  },
+  {
+    "name": "Teatre Nacional de Catalunya",
+    "category": "otro",
+    "address": "Plaça de les Arts 1.0",
+    "lat": 41.39971763958852,
+    "lon": 2.1861052566703805
+  },
+  {
+    "name": "Jardins de Joan Brossa",
+    "category": "Jardins",
+    "address": "Plaça de Dante 9999.0 9999.0",
+    "lat": 41.36867092135471,
+    "lon": 2.165012850406953
+  },
+  {
+    "name": "Castell de Montjuïc",
+    "category": "otro",
+    "address": "Carretera de Montjuïc 66.0",
+    "lat": 41.36446421195711,
+    "lon": 2.1671241451784176
+  },
+  {
+    "name": "Jardins Laribal",
+    "category": "Jardins",
+    "address": "Pg Santa Madrona 2.0",
+    "lat": 41.36812384413011,
+    "lon": 2.158482875531215
+  },
+  {
+    "name": "Casernes d'Artilleria  de Sant Andreu",
+    "category": "otro",
+    "address": "Pg Torras i Bages 141.0",
+    "lat": 41.44395793480301,
+    "lon": 2.19050806677001
+  },
+  {
+    "name": "L'Estació dels FGC de Sarrià",
+    "category": "otro",
+    "address": "C Cardenal Sentmenat 43.0",
+    "lat": 41.39829106263617,
+    "lon": 2.1250093275396296
+  },
+  {
+    "name": "Mercat Sarrià",
+    "category": "Mercat",
+    "address": "Pg Reina Elisenda Montcada 8.0",
+    "lat": 41.3998359320904,
+    "lon": 2.1207231796604997
+  },
+  {
+    "name": "Mercat Abaceria Central",
+    "category": "Mercat",
+    "address": "Pg Sant Joan 181.0",
+    "lat": 41.40318652868216,
+    "lon": 2.164179164252221
+  },
+  {
+    "name": "Cementiri Sant Gervasi",
+    "category": "Cementiri",
+    "address": "Camí del Cementiri de Sant Gervasi 4.0",
+    "lat": 41.4111553532629,
+    "lon": 2.1266252111412056
+  },
+  {
+    "name": "Cementiri d'Horta",
+    "category": "Cementiri",
+    "address": "Plaça del Cementiri d'Horta 9.0",
+    "lat": 41.4404241840174,
+    "lon": 2.156066057589673
+  },
+  {
+    "name": "Escultura Fray Pedro Ponce de León",
+    "category": "otro",
+    "address": "Pg Sant Joan 210.0",
+    "lat": 41.40440352665176,
+    "lon": 2.163008249478441
+  },
+  {
+    "name": "Casa Martí - Els Quatre Gats",
+    "category": "otro",
+    "address": "Montsió 3.0",
+    "lat": 41.38603997054996,
+    "lon": 2.1735178081132696
+  },
+  {
+    "name": "Jardins",
+    "category": "Jardins",
+    "address": "G.V. Corts Catalanes 585.0",
+    "lat": 41.3865770289631,
+    "lon": 2.16403049732852
+  },
+  {
+    "name": "Jardins Plaça de Can Fabra",
+    "category": "Jardins",
+    "address": "Carrer del Segre 24.0 24.0",
+    "lat": 41.434925914293984,
+    "lon": 2.191738858342075
+  },
+  {
+    "name": "L'avinguda del Tibidabo",
+    "category": "otro",
+    "address": "Av Tibidabo 4.0",
+    "lat": 41.41053474585558,
+    "lon": 2.1370219362887046
+  },
+  {
+    "name": "El Passeig de Gràcia",
+    "category": "otro",
+    "address": "Passeig de Gràcia 80.0 80.0",
+    "lat": 41.39396889918061,
+    "lon": 2.163183157188379
+  },
+  {
+    "name": "Torre de Santa Caterina",
+    "category": "otro",
+    "address": "C Panamà 21.0",
+    "lat": 41.394987347747104,
+    "lon": 2.1059277429633085
+  },
+  {
+    "name": "La Previsió Obrera",
+    "category": "otro",
+    "address": "C Doctor Balari i Jovany 13.0",
+    "lat": 41.435363668960846,
+    "lon": 2.190849375486821
+  },
+  {
+    "name": "Refugi Antiaeri de la Sagrera",
+    "category": "otro",
+    "address": "C Berenguer de Palou 64.0",
+    "lat": 41.42373640875645,
+    "lon": 2.191951961584244
+  },
+  {
+    "name": "Carrer Campo Florido",
+    "category": "otro",
+    "address": "C Campo Florido 9.0",
+    "lat": 41.42138115685976,
+    "lon": 2.182484957753459
+  },
+  {
+    "name": "Carrer Coroleu",
+    "category": "otro",
+    "address": "C Coroleu 42.0",
+    "lat": 41.43298298344629,
+    "lon": 2.187190543503709
+  },
+  {
+    "name": "Pastisseria Escribà *La Rambla",
+    "category": "otro",
+    "address": "C la Rambla 83.0",
+    "lat": 41.381562357710784,
+    "lon": 2.1727040810941585
+  },
+  {
+    "name": "Hotel Peninsular - HB-003154",
+    "category": "otro",
+    "address": "C Sant Pau 34.0",
+    "lat": 41.37962578754925,
+    "lon": 2.1725113181323525
+  },
+  {
+    "name": "Mercat Clot",
+    "category": "Mercat",
+    "address": "Pl Mercat 26.0",
+    "lat": 41.40761694241932,
+    "lon": 2.188644372365021
+  },
+  {
+    "name": "Mercat Poblenou - Unió",
+    "category": "Mercat",
+    "address": "Pl Unió 25.0",
+    "lat": 41.40102174848232,
+    "lon": 2.205429196399153
+  },
+  {
+    "name": "Club Natació Barcelona",
+    "category": "Club",
+    "address": "Pg Joan Borbó C Barcelona 93.0",
+    "lat": 41.37127323270199,
+    "lon": 2.187849724478972
+  },
+  {
+    "name": "Torre Castanyer",
+    "category": "otro",
+    "address": "Pg Sant Gervasi 5.0",
+    "lat": 41.4078488716108,
+    "lon": 2.134224907245418
+  },
+  {
+    "name": "El passatge de Xile",
+    "category": "otro",
+    "address": "Ptge Xile 1.0",
+    "lat": 41.37689172436965,
+    "lon": 2.116314819784081
+  },
+  {
+    "name": "Els Jardins d'Eusebi Güell",
+    "category": "Jardins",
+    "address": "Pl Eusebi Güell nan",
+    "lat": 41.39044758234289,
+    "lon": 2.1144064064040826
+  },
+  {
+    "name": "Centre Educatiu Impulsem",
+    "category": "Centre",
+    "address": "C Tàpies 6.0",
+    "lat": 41.376680258915165,
+    "lon": 2.1710512409002245
+  },
+  {
+    "name": "Ateneu Barcelonès",
+    "category": "otro",
+    "address": "Carrer de la Canuda 6.0",
+    "lat": 41.38468020491708,
+    "lon": 2.171664567764501
+  },
+  {
+    "name": "Jardins del Turó del Putxet",
+    "category": "Jardins",
+    "address": "C Manacor 9.0",
+    "lat": 41.40774734930597,
+    "lon": 2.1425177258809422
+  },
+  {
+    "name": "Parc de Monterols",
+    "category": "Parc",
+    "address": "Carrer de Muntaner 450.0",
+    "lat": 41.40161305479784,
+    "lon": 2.1397735122452017
+  },
+  {
+    "name": "Parròquia de Santa Madrona",
+    "category": "Parròquia",
+    "address": "C Tapioles 10.0",
+    "lat": 41.3741976792283,
+    "lon": 2.164693483626283
+  },
+  {
+    "name": "Masia Ca l'Armera",
+    "category": "otro",
+    "address": "C Cardenal Tedeschini 32.0",
+    "lat": 41.42562795245565,
+    "lon": 2.183215458926026
+  },
+  {
+    "name": "Centre Cívic Vil·la Florida",
+    "category": "Centre",
+    "address": "Carrer de Muntaner 544.0",
+    "lat": 41.40536533899808,
+    "lon": 2.135308972460361
+  },
+  {
+    "name": "Fundació Suñol",
+    "category": "otro",
+    "address": "Carrer de Mejía Lequerica 14.0",
+    "lat": 41.38265181042153,
+    "lon": 2.126410211337908
+  },
+  {
+    "name": "Cementiri Sant Andreu",
+    "category": "Cementiri",
+    "address": "Carrer dels Garrofers 35.0",
+    "lat": 41.437412139312414,
+    "lon": 2.1790301618213404
+  },
+  {
+    "name": "Gerència Urbanística Port Vell de l'Autoritat Portuària de Barcelona",
+    "category": "otro",
+    "address": "C Josep Anselm Clavé 27.0",
+    "lat": 41.37792481602983,
+    "lon": 2.1782341227997044
+  },
+  {
+    "name": "Casa Castellet",
+    "category": "otro",
+    "address": "C Torrijos 26.0",
+    "lat": 41.40322501663376,
+    "lon": 2.1591194797287576
+  },
+  {
+    "name": "Farmàcia Clapés Viñas",
+    "category": "otro",
+    "address": "C Gran de Sant Andreu 211.0",
+    "lat": 41.43381060796746,
+    "lon": 2.1892905825595
+  },
+  {
+    "name": "Casa Concepció i Casa Comelles",
+    "category": "otro",
+    "address": "C Astúries 26.0",
+    "lat": 41.403249208074975,
+    "lon": 2.154208667587497
+  },
+  {
+    "name": "Casa Cortina",
+    "category": "otro",
+    "address": "Av República Argentina 82.0",
+    "lat": 41.41022204823075,
+    "lon": 2.14606270494447
+  },
+  {
+    "name": "Casa Enric Cera",
+    "category": "otro",
+    "address": "C Or 38.0",
+    "lat": 41.40467490062874,
+    "lon": 2.1573773724992016
+  },
+  {
+    "name": "Casa Girona i Cuyàs",
+    "category": "otro",
+    "address": "C Gran de Gràcia 6.0",
+    "lat": 41.39819978132556,
+    "lon": 2.1575989671703684
+  },
+  {
+    "name": "Casa Joan Matas",
+    "category": "otro",
+    "address": "C Francisco Giner 32.0",
+    "lat": 41.39939919545339,
+    "lon": 2.158955446305032
+  },
+  {
+    "name": "Fabra i Coats - Fàbrica de Creació",
+    "category": "otro",
+    "address": "C Sant Adrià 20.0",
+    "lat": 41.433793974354174,
+    "lon": 2.1908326284827284
+  },
+  {
+    "name": "Casa José de Ugarte",
+    "category": "otro",
+    "address": "C Santa Perpètua 15.0",
+    "lat": 41.407908057431946,
+    "lon": 2.1523730608821405
+  },
+  {
+    "name": "Escola Business Engineering School - la Salle",
+    "category": "Escola",
+    "address": "C Lluçanès 41.0",
+    "lat": 41.40890993792351,
+    "lon": 2.1311370586996183
+  },
+  {
+    "name": "Museu del Perfum - Fundació Planas Giralt",
+    "category": "Museu",
+    "address": "Pg Gràcia 39.0",
+    "lat": 41.39150740418814,
+    "lon": 2.1652454674735444
+  },
+  {
+    "name": "Associació d'Emprenedors del Clot - Eix Clot",
+    "category": "otro",
+    "address": "Carrer de Sant Antoni Maria Claret 358.0 358.0",
+    "lat": 41.41643869811126,
+    "lon": 2.181492927401364
+  },
+  {
+    "name": "Unió de Botiguers del Cor d'Horta",
+    "category": "otro",
+    "address": "Carrer de Santes Creus 8.0 8.0",
+    "lat": 41.43029883469144,
+    "lon": 2.162232311962768
+  },
+  {
+    "name": "Cases Blanques",
+    "category": "otro",
+    "address": "C Vayreda 24.0",
+    "lat": 41.431488091656256,
+    "lon": 2.140820837872433
+  },
+  {
+    "name": "Refugi Antiaeri de Can Peguera",
+    "category": "otro",
+    "address": "C Cornudella 45.0",
+    "lat": 41.43411211194424,
+    "lon": 2.165334527114244
+  },
+  {
+    "name": "Can Tusquets",
+    "category": "otro",
+    "address": "Av Santuari St Josep Muntanya 1.0",
+    "lat": 41.4104399702781,
+    "lon": 2.154195493067497
+  },
+  {
+    "name": "Casa Agustí Trulla",
+    "category": "otro",
+    "address": "C Berga 22.0",
+    "lat": 41.40073485164731,
+    "lon": 2.1529945860625257
+  },
+  {
+    "name": "Biblioteca Collserola - Josep Miracle",
+    "category": "otro",
+    "address": "Carrer d'Elisa Moragas i Badia 16.0",
+    "lat": 41.41538974314011,
+    "lon": 2.102546833751382
+  },
+  {
+    "name": "Casa Víctor Conill",
+    "category": "otro",
+    "address": "C Gran de Gràcia 1.0",
+    "lat": 41.397802872401726,
+    "lon": 2.157352034558083
+  },
+  {
+    "name": "Cases Leandre Vidal",
+    "category": "otro",
+    "address": "C Fraternitat 35.0",
+    "lat": 41.40086949415278,
+    "lon": 2.160109975770286
+  },
+  {
+    "name": "Edifici Puiggròs",
+    "category": "otro",
+    "address": "C Martínez de la Rosa 27.0",
+    "lat": 41.39966543105189,
+    "lon": 2.1592603871633957
+  },
+  {
+    "name": "Centre Cívic Vallvidrera Vázquez Montalbán",
+    "category": "Centre",
+    "address": "Carrer d'Elisa Moragas i Badia 16.0",
+    "lat": 41.41539106451316,
+    "lon": 2.102545331836101
+  },
+  {
+    "name": "Escola Superior de Disseny i d'Art Llotja",
+    "category": "Escola",
+    "address": "C Ciutat de Balaguer 17.0",
+    "lat": 41.40260219806344,
+    "lon": 2.136130474690944
+  },
+  {
+    "name": "Parc de Can Sabaté",
+    "category": "Parc",
+    "address": "C Mineria 16.0",
+    "lat": 41.36437449049291,
+    "lon": 2.137749555318519
+  },
+  {
+    "name": "Casa Faiol - Casa de la Papallona",
+    "category": "otro",
+    "address": "Llança 20.0",
+    "lat": 41.37663697598416,
+    "lon": 2.150298953457356
+  },
+  {
+    "name": "Jardins del Palau Robert",
+    "category": "Jardins",
+    "address": "Passeig de Gràcia 107.0 107.0",
+    "lat": 41.396131607667456,
+    "lon": 2.159538941393651
+  },
+  {
+    "name": "Palau de la Música Catalana",
+    "category": "Palau",
+    "address": "C Palau de la Música 2.0",
+    "lat": 41.38736310291296,
+    "lon": 2.1751754135417323
+  },
+  {
+    "name": "Museu Palmero Arte",
+    "category": "Museu",
+    "address": "Judea 2.0",
+    "lat": 41.4252047837623,
+    "lon": 2.140179989039568
+  },
+  {
+    "name": "Edifici La Rotonda",
+    "category": "otro",
+    "address": "Av Tibidabo 2.0",
+    "lat": 41.41053474585558,
+    "lon": 2.1370219362887046
+  },
+  {
+    "name": "EINA - Escola de Disseny i Art",
+    "category": "Escola",
+    "address": "Pg Santa Eulàlia 25.0",
+    "lat": 41.40287986302204,
+    "lon": 2.114333805752234
+  },
+  {
+    "name": "Casa dels Ossos",
+    "category": "otro",
+    "address": "Av Diagonal 423.0",
+    "lat": 41.39465875789174,
+    "lon": 2.1529838685904554
+  },
+  {
+    "name": "Centre Municipal de Vela",
+    "category": "Centre",
+    "address": "Moll Gregal 33.0",
+    "lat": 41.38842104043444,
+    "lon": 2.2016968649217765
+  },
+  {
+    "name": "Escola Lluís Vives",
+    "category": "Escola",
+    "address": "C Canalejas 107.0",
+    "lat": 41.37186290045591,
+    "lon": 2.1280851779733574
+  },
+  {
+    "name": "Parc Carmel",
+    "category": "Parc",
+    "address": "Ctra Carmel 9999.0",
+    "lat": 41.41516676215983,
+    "lon": 2.155269268607678
+  },
+  {
+    "name": "Premsa de Vi de Can Xandri",
+    "category": "otro",
+    "address": "Plaça d'en Xandri 3.0 3.0",
+    "lat": 41.43822585647148,
+    "lon": 2.1853478240155115
+  },
+  {
+    "name": "La plaça de les Glòries Catalanes",
+    "category": "otro",
+    "address": "Pl Glòries Catalanes 36.0",
+    "lat": 41.40259189980736,
+    "lon": 2.18733195275548
+  },
+  {
+    "name": "Casa Lleó Morera",
+    "category": "otro",
+    "address": "Pg Gràcia 35.0",
+    "lat": 41.391311136498935,
+    "lon": 2.165491865898989
+  },
+  {
+    "name": "Jardins de les Tres Xemeneies",
+    "category": "Jardins",
+    "address": "Av Paral.lel 49.0",
+    "lat": 41.37448327029571,
+    "lon": 2.172430025242432
+  },
+  {
+    "name": "Parc de la Font Florida",
+    "category": "Parc",
+    "address": "G.V. Corts Catalanes 196.0",
+    "lat": 41.368634514222805,
+    "lon": 2.14105045396157
+  },
+  {
+    "name": "Zona de Banys",
+    "category": "otro",
+    "address": "Plaça del Fòrum 1.0",
+    "lat": 41.41106682138965,
+    "lon": 2.221714876463801
+  },
+  {
+    "name": "Escultura Mistos",
+    "category": "otro",
+    "address": "Jorge Manrique 9.0",
+    "lat": 41.43084545648815,
+    "lon": 2.151482440531504
+  },
+  {
+    "name": "Parc de la Creueta del Coll",
+    "category": "Parc",
+    "address": "Pg Mare de Déu del Coll 77.0",
+    "lat": 41.419264262411424,
+    "lon": 2.1462520569914068
+  },
+  {
+    "name": "Fira Barcelona",
+    "category": "otro",
+    "address": "Avinguda de la Reina Maria Cristina 2.0",
+    "lat": 41.3727179943061,
+    "lon": 2.150211222762335
+  },
+  {
+    "name": "La plaça d'Orfila",
+    "category": "otro",
+    "address": "Pl Orfila 2.0",
+    "lat": 41.43624446859994,
+    "lon": 2.1909591589263973
+  },
+  {
+    "name": "El Tibidabo",
+    "category": "otro",
+    "address": "Ctra Observatori Fabra 25.0",
+    "lat": 41.41891333512116,
+    "lon": 2.1233033539813286
+  },
+  {
+    "name": "Bar Musical London Bar",
+    "category": "otro",
+    "address": "C Nou de la Rambla 34.0",
+    "lat": 41.37814933333809,
+    "lon": 2.1731803971737738
+  },
+  {
+    "name": "Font Màgica - Fonts de Montjuïc *Aturada degut a la situació d'alerta per sequera",
+    "category": "otro",
+    "address": "Plaça de Carles Buïgas 1.0",
+    "lat": 41.37020770355242,
+    "lon": 2.154032861702001
+  },
+  {
+    "name": "La Maquinista Terrestre i Marítima",
+    "category": "otro",
+    "address": "Pl Pompeu Gener 1.0",
+    "lat": 41.38164285238863,
+    "lon": 2.1907168710652614
+  },
+  {
+    "name": "Unió de Cooperatives per a la Fabricació de Pastes per a Sopa",
+    "category": "otro",
+    "address": "C Aurora 11.0",
+    "lat": 41.37867570317367,
+    "lon": 2.1681069096683667
+  },
+  {
+    "name": "Casa Sarriera",
+    "category": "otro",
+    "address": "C Palma de Sant Just 8.0",
+    "lat": 41.382407945809554,
+    "lon": 2.178630636272102
+  },
+  {
+    "name": "Bibiblioteca Rector Gabriel Ferraté",
+    "category": "otro",
+    "address": "Jordi Girona 1.0",
+    "lat": 41.38790151896208,
+    "lon": 2.1146704334958524
+  },
+  {
+    "name": "Conservatori Municipal de Música de Barcelona",
+    "category": "otro",
+    "address": "C Bruc 110.0",
+    "lat": 41.39590030798757,
+    "lon": 2.1680371208078077
+  },
+  {
+    "name": "Teatro de los Sentidos",
+    "category": "otro",
+    "address": "Camí Polvorí 1.0",
+    "lat": 41.36425978367883,
+    "lon": 2.1432333432874637
+  },
+  {
+    "name": "Cementiri Sant Genís",
+    "category": "Cementiri",
+    "address": "Saldes 3.0",
+    "lat": 41.42798213665874,
+    "lon": 2.1365982986152545
+  },
+  {
+    "name": "Cooperativa Obrera Popular Segle XX",
+    "category": "otro",
+    "address": "C Atlàntida 1.0",
+    "lat": 41.38164663472414,
+    "lon": 2.189153267840029
+  },
+  {
+    "name": "L'Aquàrium de Barcelona - Aspro Parks",
+    "category": "otro",
+    "address": "Moll Espanya 5.0",
+    "lat": 41.37680536906014,
+    "lon": 2.1843840154597025
+  },
+  {
+    "name": "Religioses de la Mare de Déu de la Mercè",
+    "category": "otro",
+    "address": "Sant Gervasi de Cassoles 66.0",
+    "lat": 41.40590933439461,
+    "lon": 2.1375174554869414
+  },
+  {
+    "name": "La Torre Blanca",
+    "category": "otro",
+    "address": "Pg Til·lers 1.0",
+    "lat": 41.38946749792318,
+    "lon": 2.11876260601679
+  },
+  {
+    "name": "Pilar d'Aigua de Sant Andreu",
+    "category": "otro",
+    "address": "C Llenguadoc 95.0",
+    "lat": 41.4303599257898,
+    "lon": 2.1852706828435733
+  },
+  {
+    "name": "La Plaça de les Havaneres",
+    "category": "otro",
+    "address": "C Jordi de Sant Jordi 5.0",
+    "lat": 41.42125404672891,
+    "lon": 2.1826779224213384
+  },
+  {
+    "name": "'La Masia' del Barça",
+    "category": "otro",
+    "address": "Av Joan XXIII 2.0",
+    "lat": 41.38164275556459,
+    "lon": 2.1215489678471395
+  },
+  {
+    "name": "Vivendes\" del Congrés Eucarístic",
+    "category": "otro",
+    "address": "Pl Congrés Eucarístic 7.0",
+    "lat": 41.42583306266904,
+    "lon": 2.181536675794661
+  },
+  {
+    "name": "Antiga Biblioteca Infantil del GATCPAC",
+    "category": "otro",
+    "address": "Pl Palmeres 2.0",
+    "lat": 41.43240704975568,
+    "lon": 2.186285451200647
+  },
+  {
+    "name": "Parc d'Atraccions del Tibidabo",
+    "category": "Parc",
+    "address": "Plaça del Tibidabo 3.0 3.0",
+    "lat": 41.42161843553102,
+    "lon": 2.118740285636823
+  },
+  {
+    "name": "Centre Cultural La Farinera del Clot",
+    "category": "Centre",
+    "address": "Gran Via de les Corts Catalanes 837.0",
+    "lat": 41.40487897583886,
+    "lon": 2.18840476699031
+  },
+  {
+    "name": "Places de Joaquim Folguera i Frederic Soler",
+    "category": "otro",
+    "address": "Pl Joaquim Folguera nan",
+    "lat": 41.40542924572357,
+    "lon": 2.1389166559414927
+  },
+  {
+    "name": "El Conjunt Residencial de Les Escales Park",
+    "category": "otro",
+    "address": "C Sor Eulàlia d'Anzizu 38.0",
+    "lat": 41.39204783587929,
+    "lon": 2.1153886541782843
+  },
+  {
+    "name": "El passatge de Tubella",
+    "category": "otro",
+    "address": "Ptge Tubella 1.0",
+    "lat": 41.38372383321053,
+    "lon": 2.135927755117388
+  },
+  {
+    "name": "Colònia Carné",
+    "category": "otro",
+    "address": "Av Sant Ramon Nonat 22.0",
+    "lat": 41.376822310380064,
+    "lon": 2.117058367742885
+  },
+  {
+    "name": "La plaça de Pedralbes",
+    "category": "otro",
+    "address": "Pl Pedralbes nan",
+    "lat": 41.395729151007615,
+    "lon": 2.114218062249275
+  },
+  {
+    "name": "Herboristeria del Rei",
+    "category": "otro",
+    "address": "Vidre 1.0",
+    "lat": 41.38070755674348,
+    "lon": 2.175034436574318
+  },
+  {
+    "name": "L'Auditori de Barcelona",
+    "category": "otro",
+    "address": "Carrer de Lepant 150.0",
+    "lat": 41.39877242493477,
+    "lon": 2.185159128100962
+  },
+  {
+    "name": "Hotel Melia Barcelona Sky - HB-004358",
+    "category": "otro",
+    "address": "C Pere IV 272.0",
+    "lat": 41.40628819017893,
+    "lon": 2.200634797754356
+  },
+  {
+    "name": "Casa Carreras",
+    "category": "otro",
+    "address": "Av Pearson 14.0",
+    "lat": 41.39404843334341,
+    "lon": 2.108987100941613
+  },
+  {
+    "name": "La plaça del Monestir",
+    "category": "otro",
+    "address": "Pl Monestir nan",
+    "lat": 41.39644186075786,
+    "lon": 2.1129074520593005
+  },
+  {
+    "name": "Parc de Diagonal Mar",
+    "category": "Parc",
+    "address": "Carrer de Llull 356.0 360.0",
+    "lat": 41.40849031137141,
+    "lon": 2.212231951523546
+  },
+  {
+    "name": "La Porta Est de la Finca Güell",
+    "category": "otro",
+    "address": "Av Joan XXIII 27.0",
+    "lat": 41.38555915734198,
+    "lon": 2.1223275022909265
+  },
+  {
+    "name": "Centre Cívic Sarrià",
+    "category": "Centre",
+    "address": "Carrer d'Eduardo Conde 22.0",
+    "lat": 41.39390619967619,
+    "lon": 2.1211872573336934
+  },
+  {
+    "name": "Edifici de la Fàbrica Moritz - Espai Gastronòmic i Cultural",
+    "category": "otro",
+    "address": "Rda Sant Antoni 39.0",
+    "lat": 41.38253112132162,
+    "lon": 2.1634359544972748
+  },
+  {
+    "name": "Parc del Centre del Poblenou",
+    "category": "Centre",
+    "address": "Av Diagonal 130.0",
+    "lat": 41.40679356695045,
+    "lon": 2.199757373643509
+  },
+  {
+    "name": "Centre Penitenciari Obert 2  - Presó de Dones de la Trinitat",
+    "category": "Centre",
+    "address": "C Pare Manjón 2.0",
+    "lat": 41.45352852329394,
+    "lon": 2.191463299081721
+  },
+  {
+    "name": "Parc de la Primavera",
+    "category": "Parc",
+    "address": "C Nou de la Rambla 203.0",
+    "lat": 41.37046396116055,
+    "lon": 2.1658337161656225
+  },
+  {
+    "name": "Casa Vilabella",
+    "category": "otro",
+    "address": "C Astúries 65.0",
+    "lat": 41.40416890235721,
+    "lon": 2.155505247349864
+  },
+  {
+    "name": "Edifici Modernista Francisco Giner 47",
+    "category": "otro",
+    "address": "C Francisco Giner 47.0",
+    "lat": 41.39978158248624,
+    "lon": 2.1583968710038635
+  },
+  {
+    "name": "Edifici d'Habitatges Gran de Gràcia 138",
+    "category": "otro",
+    "address": "C Gran de Gràcia 138.0",
+    "lat": 41.40169937350612,
+    "lon": 2.153476912041365
+  },
+  {
+    "name": "Ermita de la Mare de Déu de la Salut",
+    "category": "otro",
+    "address": "C Mare de Déu de la Salut 55.0",
+    "lat": 41.41154995474912,
+    "lon": 2.15710983691872
+  },
+  {
+    "name": "Fàbrica Artés",
+    "category": "otro",
+    "address": "C Venus 8.0",
+    "lat": 41.3996059970396,
+    "lon": 2.1622755265173805
+  },
+  {
+    "name": "La plaça de Gal·la Placídia",
+    "category": "otro",
+    "address": "Pl Gal·la Placídia 1.0",
+    "lat": 41.39860621855363,
+    "lon": 2.1529425675079312
+  },
+  {
+    "name": "Reial Acadèmia de Medicina de Catalunya",
+    "category": "otro",
+    "address": "C Carme 47.0",
+    "lat": 41.38152411821448,
+    "lon": 2.168974973139409
+  },
+  {
+    "name": "Centre Cívic Casa Orlandai",
+    "category": "Centre",
+    "address": "Carrer de Jaume Piquet 23.0",
+    "lat": 41.3983599977031,
+    "lon": 2.1246720318706647
+  },
+  {
+    "name": "Pavelló Mies van der Rohe",
+    "category": "otro",
+    "address": "Avinguda de Francesc Ferrer i Guàrdia 7.0",
+    "lat": 41.370842160327136,
+    "lon": 2.149776113823393
+  },
+  {
+    "name": "Parròquia de Sant Gregori Taumaturg",
+    "category": "Parròquia",
+    "address": "Pl Sant Gregori Taumaturg nan",
+    "lat": 41.39422199323784,
+    "lon": 2.138413658076152
+  },
+  {
+    "name": "Casal de Barri Pou de la Figuera",
+    "category": "otro",
+    "address": "Carrer de Sant Pere Més Baix 70.0",
+    "lat": 41.38819881761839,
+    "lon": 2.17865660673348
+  },
+  {
+    "name": "Centre Cultural Teresa Pàmies",
+    "category": "Centre",
+    "address": "C Comte d'Urgell 145.0",
+    "lat": 41.38689535147527,
+    "lon": 2.152049712385728
+  },
+  {
+    "name": "Esplai Tr3smon",
+    "category": "otro",
+    "address": "C Mare de Déu de Port 279.0",
+    "lat": 41.3598021106686,
+    "lon": 2.1417439533847342
+  },
+  {
+    "name": "Plaça de la Mercè",
+    "category": "otro",
+    "address": "Plaça de la Mercè 1.0 1.0",
+    "lat": 41.37939878522798,
+    "lon": 2.1795617635934748
+  },
+  {
+    "name": "Hotel W Barcelona - HB-004411 *Edifici Vela",
+    "category": "otro",
+    "address": "Pl Rosa dels Vents 1.0",
+    "lat": 41.36836130546307,
+    "lon": 2.1899983126477727
+  },
+  {
+    "name": "Cereria Subirà",
+    "category": "otro",
+    "address": "Bda Llibreteria 7.0",
+    "lat": 41.38381148695298,
+    "lon": 2.1780445376953748
+  },
+  {
+    "name": "Espai Jove La Fontana",
+    "category": "otro",
+    "address": "Carrer Gran de Gràcia 190.0 192.0",
+    "lat": 41.40325591053633,
+    "lon": 2.1523241627536023
+  },
+  {
+    "name": "Jardins dels Drets Humans",
+    "category": "Jardins",
+    "address": "C Foneria 19.0",
+    "lat": 41.36102656268192,
+    "lon": 2.1367088188150576
+  },
+  {
+    "name": "Església del Reial Santuari de Sant Josep de la Muntanya",
+    "category": "otro",
+    "address": "Av Santuari St Josep Muntanya 25.0",
+    "lat": 41.4104399702781,
+    "lon": 2.154195493067497
+  },
+  {
+    "name": "Associació Xarxa de Consum Solidari",
+    "category": "otro",
+    "address": "Plaça de Sant Agustí Vell 15.0 15.0",
+    "lat": 41.387846200809165,
+    "lon": 2.1806947519007056
+  },
+  {
+    "name": "Mercat Encants Barcelona - Fira de Bellcaire",
+    "category": "Mercat",
+    "address": "Carrer de los Castillejos 158.0",
+    "lat": 41.401063548775554,
+    "lon": 2.1856692459565465
+  },
+  {
+    "name": "Cementiri Les Corts",
+    "category": "Cementiri",
+    "address": "Avinguda de Joan XXIII 3.0",
+    "lat": 41.383168531331165,
+    "lon": 2.1216835608063085
+  },
+  {
+    "name": "Cementiri Sarrià",
+    "category": "Cementiri",
+    "address": "Camí del Cementiri de Sarrià 10.0",
+    "lat": 41.401007141442,
+    "lon": 2.1276081162893665
+  },
+  {
+    "name": "Cementiri Poblenou",
+    "category": "Cementiri",
+    "address": "Avinguda d'Icària 204.0",
+    "lat": 41.39459329629176,
+    "lon": 2.201156811755032
+  },
+  {
+    "name": "Col·legi de Censors Jurats de Comptes de Catalunya",
+    "category": "otro",
+    "address": "C Sor Eulàlia d'Anzizu 41.0",
+    "lat": 41.39041020339857,
+    "lon": 2.11279079824562
+  },
+  {
+    "name": "Biblioteca Jaume Fuster",
+    "category": "otro",
+    "address": "Plaça de Lesseps 20.0",
+    "lat": 41.40749096939712,
+    "lon": 2.149775202551298
+  },
+  {
+    "name": "Torre Jussana - Centre de Serveis a les Associacions",
+    "category": "Centre",
+    "address": "Av Cardenal Vidal Barraquer 30.0",
+    "lat": 41.42969190027591,
+    "lon": 2.15131477992075
+  },
+  {
+    "name": "Acàdemia Blancafort - Antiga Editorial Seguí",
+    "category": "otro",
+    "address": "C Torrent de l'Olla 9.0",
+    "lat": 41.39878162390739,
+    "lon": 2.1609062506181
+  },
+  {
+    "name": "Can Pardal",
+    "category": "otro",
+    "address": "C Montseny 49.0",
+    "lat": 41.40285879796171,
+    "lon": 2.156185776031604
+  },
+  {
+    "name": "Edifici d'habitatges Gran de Gràcia 74*76",
+    "category": "otro",
+    "address": "C Gran de Gràcia 74.0",
+    "lat": 41.40008719962975,
+    "lon": 2.1553848011746144
+  },
+  {
+    "name": "Eix Comercial del Raval",
+    "category": "otro",
+    "address": "C Nou de la Rambla 14.0",
+    "lat": 41.37883670716191,
+    "lon": 2.173892474795089
+  },
+  {
+    "name": "Escola d'Aprenents SEAT",
+    "category": "Escola",
+    "address": "Pg Zona Franca 53.0",
+    "lat": 41.35443340782173,
+    "lon": 2.142929012130741
+  },
+  {
+    "name": "Mercat Concepció",
+    "category": "Mercat",
+    "address": "Carrer d'Aragó 311.0",
+    "lat": 41.39556815947775,
+    "lon": 2.169071648271845
+  },
+  {
+    "name": "Mercat Sant Antoni",
+    "category": "Mercat",
+    "address": "Carrer del Comte d'Urgell 1.0",
+    "lat": 41.37956821941282,
+    "lon": 2.161743115837759
+  },
+  {
+    "name": "Mercat Les Corts",
+    "category": "Mercat",
+    "address": "Travessera de les Corts 215.0",
+    "lat": 41.38407806063042,
+    "lon": 2.1298048647400445
+  },
+  {
+    "name": "Mercat Galvany",
+    "category": "Mercat",
+    "address": "Carrer de Santaló 65.0",
+    "lat": 41.39668239144885,
+    "lon": 2.143678943368952
+  },
+  {
+    "name": "Espai Bombers Parc de la Prevenció de Barcelona",
+    "category": "Parc",
+    "address": "C Lleida 30.0",
+    "lat": 41.37369595375426,
+    "lon": 2.154566177208794
+  },
+  {
+    "name": "Mooby Bosque Multicines",
+    "category": "otro",
+    "address": "Rambla de Prat 16.0",
+    "lat": 41.40139721074222,
+    "lon": 2.151721868976122
+  },
+  {
+    "name": "Masia Can Fargas",
+    "category": "otro",
+    "address": "Pg Maragall 383.0",
+    "lat": 41.42760361480803,
+    "lon": 2.164467317118893
+  },
+  {
+    "name": "Carrer Gran de Sant Andreu",
+    "category": "otro",
+    "address": "C Malats 26.0",
+    "lat": 41.43612543255933,
+    "lon": 2.189879647556801
+  },
+  {
+    "name": "Foment Republicà de Sants. Antic Ateneu Batllori",
+    "category": "otro",
+    "address": "C Cros 7.0",
+    "lat": 41.37489008455714,
+    "lon": 2.1380612359989244
+  },
+  {
+    "name": "Gran Teatre del Liceu",
+    "category": "otro",
+    "address": "C la Rambla 51.0",
+    "lat": 41.38014677441643,
+    "lon": 2.1733467293401083
+  },
+  {
+    "name": "Telefèric de Montjuïc",
+    "category": "otro",
+    "address": "Av Miramar 20.0",
+    "lat": 41.36885056534847,
+    "lon": 2.1630513619866973
+  },
+  {
+    "name": "El passeig de Sant Joan",
+    "category": "otro",
+    "address": "Pg Sant Joan 118.0",
+    "lat": 41.40053820160704,
+    "lon": 2.168556539279617
+  },
+  {
+    "name": "La plaça de la Vila de Gràcia",
+    "category": "otro",
+    "address": "Pl Vila de Gràcia 3.0",
+    "lat": 41.40038030274788,
+    "lon": 2.1575252768954654
+  },
+  {
+    "name": "El Congrés i els Indians",
+    "category": "otro",
+    "address": "C Pinar del Río 56.0",
+    "lat": 41.42267428633185,
+    "lon": 2.1801325133211784
+  },
+  {
+    "name": "El Quadrat d'Or",
+    "category": "otro",
+    "address": "C Consell de Cent 353.0",
+    "lat": 41.39176911227801,
+    "lon": 2.166394367405672
+  },
+  {
+    "name": "El 22@",
+    "category": "otro",
+    "address": "C Roc Boronat 113.0",
+    "lat": 41.40196782553371,
+    "lon": 2.1954426698372225
+  },
+  {
+    "name": "L'Estació de La Sagrera",
+    "category": "otro",
+    "address": "C Hondures 76.0",
+    "lat": 41.42192407346947,
+    "lon": 2.187378057190909
+  },
+  {
+    "name": "Plaça del Nen de la Rutlla",
+    "category": "otro",
+    "address": "Pl Nen de la Rutlla 9999.0",
+    "lat": 41.4188254176045,
+    "lon": 2.1715923368510053
+  },
+  {
+    "name": "La Muralla Romana",
+    "category": "otro",
+    "address": "Pl Ramon Berenguer el Gran 3.0",
+    "lat": 41.384336103363474,
+    "lon": 2.1775827025795835
+  },
+  {
+    "name": "Casa Granell *Girona",
+    "category": "otro",
+    "address": "C Girona 122.0",
+    "lat": 41.39730099114916,
+    "lon": 2.1680813060601696
+  },
+  {
+    "name": "Casa Casas-Carbó",
+    "category": "otro",
+    "address": "Pg Gràcia 96.0",
+    "lat": 41.395481069803886,
+    "lon": 2.1613599645166035
+  },
+  {
+    "name": "Casa Antoni Costa",
+    "category": "otro",
+    "address": "Rbla Catalunya 122.0",
+    "lat": 41.39516263147227,
+    "lon": 2.15817039068309
+  },
+  {
+    "name": "Casa Comas d' Argemir",
+    "category": "otro",
+    "address": "Av República Argentina 92.0",
+    "lat": 41.4107909301786,
+    "lon": 2.145865303185273
+  },
+  {
+    "name": "Plaça de la Virreina",
+    "category": "otro",
+    "address": "Pl Virreina 3.0",
+    "lat": 41.40510303249848,
+    "lon": 2.1574390767796707
+  },
+  {
+    "name": "Plaça del Nord",
+    "category": "otro",
+    "address": "Pl Nord 3.0",
+    "lat": 41.40697402455321,
+    "lon": 2.1554445283158845
+  },
+  {
+    "name": "Monestir de Sant Pau del Camp",
+    "category": "otro",
+    "address": "C Sant Pau 99.0",
+    "lat": 41.37650076335756,
+    "lon": 2.16931450249219
+  },
+  {
+    "name": "Edifici de l'Antic Hospital de la Santa Creu",
+    "category": "otro",
+    "address": "C Hospital 56.0",
+    "lat": 41.38108881941955,
+    "lon": 2.169811468590316
+  },
+  {
+    "name": "Jardí Botànic de Barcelona",
+    "category": "otro",
+    "address": "Carrer del Doctor Font i Quer 2.0 2.0",
+    "lat": 41.364103174008655,
+    "lon": 2.15874551177556
+  },
+  {
+    "name": "Casa Juncosa",
+    "category": "otro",
+    "address": "Rbla Catalunya 78.0",
+    "lat": 41.39236095361858,
+    "lon": 2.1620196660786224
+  },
+  {
+    "name": "Cases Pascual i Pons",
+    "category": "otro",
+    "address": "Pg Gràcia 2.0",
+    "lat": 41.388385084056864,
+    "lon": 2.1701506816093343
+  },
+  {
+    "name": "El passatge de Mallofré",
+    "category": "otro",
+    "address": "Ptge Mallofré 2.0",
+    "lat": 41.39853989512909,
+    "lon": 2.1219274312322
+  },
+  {
+    "name": "La plaça de Sant Vicenç",
+    "category": "otro",
+    "address": "Pl Sant Vicenç de Sarrià 1.0",
+    "lat": 41.39722392491164,
+    "lon": 2.1240817850248583
+  },
+  {
+    "name": "Plaça de Rovira i Trias",
+    "category": "otro",
+    "address": "Pl Rovira i Trias 3.0",
+    "lat": 41.40746803755208,
+    "lon": 2.158608041169958
+  },
+  {
+    "name": "Plaça de la Revolució",
+    "category": "otro",
+    "address": "Pl Revolució de Setembre 1868 4.0",
+    "lat": 41.402830728949546,
+    "lon": 2.158258723259312
+  },
+  {
+    "name": "Casa Llorenç Camprubí",
+    "category": "otro",
+    "address": "C Casp 22.0",
+    "lat": 41.38934938466776,
+    "lon": 2.170855670436062
+  },
+  {
+    "name": "Forn Sarret",
+    "category": "otro",
+    "address": "C Girona 73.0",
+    "lat": 41.39477841624774,
+    "lon": 2.1710520735754435
+  },
+  {
+    "name": "Casa Dolors Calm",
+    "category": "otro",
+    "address": "Rbla Catalunya 54.0",
+    "lat": 41.39086396941241,
+    "lon": 2.164071911206961
+  },
+  {
+    "name": "L'Anella Olímpica",
+    "category": "otro",
+    "address": "Av Estadi 44.0",
+    "lat": 41.36617316365693,
+    "lon": 2.1525839482341884
+  },
+  {
+    "name": "La Zona Universitària",
+    "category": "otro",
+    "address": "C John M Keynes 4.0",
+    "lat": 41.38614602205185,
+    "lon": 2.116760355882887
+  },
+  {
+    "name": "El Campus Nord, Ciutat Universitària",
+    "category": "otro",
+    "address": "C Jordi Girona 4.0",
+    "lat": 41.387167536117424,
+    "lon": 2.112824395389949
+  },
+  {
+    "name": "Centre Cívic Cotxeres de Sants",
+    "category": "Centre",
+    "address": "Carrer de Sants 79.0",
+    "lat": 41.37529848802474,
+    "lon": 2.136897693555585
+  },
+  {
+    "name": "Parc Torrent Maduixer",
+    "category": "Parc",
+    "address": "C Josep Garí 7.0",
+    "lat": 41.4157696917074,
+    "lon": 2.1353909998606846
+  },
+  {
+    "name": "La Casa de l'Aigua",
+    "category": "otro",
+    "address": "C Garbí 2.0",
+    "lat": 41.45296545224615,
+    "lon": 2.188036804130217
+  },
+  {
+    "name": "Seu de l'Antiga Hidroelèctrica de Catalunya",
+    "category": "otro",
+    "address": "C Almogàvers 11.0",
+    "lat": 41.39192618305821,
+    "lon": 2.182863588545234
+  },
+  {
+    "name": "Parc de la Maquinista per les treballadores i els treballadors de la Maquinista",
+    "category": "Parc",
+    "address": "Passeig de l'Havana 2.0 4.0",
+    "lat": 41.43634320300456,
+    "lon": 2.196101084364239
+  },
+  {
+    "name": "Residència Salesiana Martí Codolar",
+    "category": "otro",
+    "address": "Av Cardenal Vidal i Barraquer 15.0",
+    "lat": 41.42844354375264,
+    "lon": 2.150872845796388
+  },
+  {
+    "name": "Fundació Privada Foto Colectania",
+    "category": "otro",
+    "address": "Pg Picasso 14.0",
+    "lat": 41.3876733654223,
+    "lon": 2.1827368854864178
+  },
+  {
+    "name": "Antiga Foneria de Canons",
+    "category": "otro",
+    "address": "C Rambla 2.0",
+    "lat": 41.37692960265057,
+    "lon": 2.177040671271692
+  },
+  {
+    "name": "Carrer de la Riereta",
+    "category": "otro",
+    "address": "C Riereta 1.0",
+    "lat": 41.37926084805356,
+    "lon": 2.1669844143365613
+  },
+  {
+    "name": "Casa -Fàbrica Vermell-Martí",
+    "category": "otro",
+    "address": "C Jonqueres 10.0",
+    "lat": 41.3882604557891,
+    "lon": 2.174179225423808
+  },
+  {
+    "name": "El Passeig de les Aigües",
+    "category": "otro",
+    "address": "Ctra Aigües 211.0",
+    "lat": 41.41417937369979,
+    "lon": 2.119019897033429
+  },
+  {
+    "name": "Plaça Masadas",
+    "category": "otro",
+    "address": "Pl Masadas 1.0",
+    "lat": 41.424786104383934,
+    "lon": 2.190177003471264
+  },
+  {
+    "name": "Conjunt de Sant Martí de Provençals",
+    "category": "otro",
+    "address": "C Selva del Camp 2.0",
+    "lat": 41.42090417387696,
+    "lon": 2.196643734220937
+  },
+  {
+    "name": "Mural de la Memòria de Baró de Viver",
+    "category": "otro",
+    "address": "Pg Santa Coloma 98.0",
+    "lat": 41.4478129864912,
+    "lon": 2.1984226201584325
+  },
+  {
+    "name": "Masia Can Rosés",
+    "category": "otro",
+    "address": "C Deu i Mata 49.0",
+    "lat": 41.38827496816367,
+    "lon": 2.1348326553076955
+  },
+  {
+    "name": "El Vapor  - Fàbrica Bonaplata",
+    "category": "otro",
+    "address": "C Tallers 75.0",
+    "lat": 41.38494614000926,
+    "lon": 2.1667630471377124
+  },
+  {
+    "name": "Església Antic Institut Mental",
+    "category": "otro",
+    "address": "C Marie Curie 8.0",
+    "lat": 41.43699356015132,
+    "lon": 2.1691554098488184
+  },
+  {
+    "name": "El Raval",
+    "category": "otro",
+    "address": "Rbla Raval 37.0",
+    "lat": 41.37843259823847,
+    "lon": 2.170175969805075
+  },
+  {
+    "name": "Sant Antoni",
+    "category": "otro",
+    "address": "C Comte d'Urgell 7.0",
+    "lat": 41.37975147357524,
+    "lon": 2.1615104199875472
+  },
+  {
+    "name": "La plaça d'Espanya",
+    "category": "otro",
+    "address": "Pl Espanya 4.0",
+    "lat": 41.37397463762443,
+    "lon": 2.1487108014908456
+  },
+  {
+    "name": "El Poble-sec",
+    "category": "otro",
+    "address": "C Blai 36.0",
+    "lat": 41.37402706084629,
+    "lon": 2.163850226343413
+  },
+  {
+    "name": "Les Corts",
+    "category": "otro",
+    "address": "Pl Concòrdia 2.0",
+    "lat": 41.38669051526725,
+    "lon": 2.131946333706955
+  },
+  {
+    "name": "Centre Cívic Pere Pruna",
+    "category": "Centre",
+    "address": "Carrer de Ganduxer 130.0",
+    "lat": 41.40320904460328,
+    "lon": 2.13132023534547
+  },
+  {
+    "name": "La Plaça dels Indians",
+    "category": "otro",
+    "address": "C Garcilaso 140.0",
+    "lat": 41.42345483645125,
+    "lon": 2.182535991490844
+  },
+  {
+    "name": "Carrer de les Monges",
+    "category": "otro",
+    "address": "C Monges 10.0",
+    "lat": 41.430689656123576,
+    "lon": 2.187943106250125
+  },
+  {
+    "name": "Mercat Llibertat",
+    "category": "Mercat",
+    "address": "Plaça de la Llibertat 27.0",
+    "lat": 41.399737848805614,
+    "lon": 2.1537484882528983
+  },
+  {
+    "name": "Museu Etnològic i de Cultures del Món *Parc Montjuïc",
+    "category": "Parc",
+    "address": "Passeig de Santa Madrona 16.0",
+    "lat": 41.36909366060917,
+    "lon": 2.156001328720349
+  },
+  {
+    "name": "Filmoteca de Catalunya",
+    "category": "otro",
+    "address": "Plaça de Salvador Seguí 1.0",
+    "lat": 41.378633698248855,
+    "lon": 2.171026973674133
+  },
+  {
+    "name": "Parc de la Font del Racó",
+    "category": "Parc",
+    "address": "Av Tibidabo 72.0",
+    "lat": 41.41609393601731,
+    "lon": 2.130839745769486
+  },
+  {
+    "name": "Hospital Clínic i Provincial",
+    "category": "otro",
+    "address": "C Villarroel 170.0",
+    "lat": 41.38955539831457,
+    "lon": 2.152194463242196
+  },
+  {
+    "name": "Casa del Guarda -  Espai d'Interpretació del Pantà de Vallvidrera",
+    "category": "otro",
+    "address": "Camí del Pantà 40.0",
+    "lat": 41.415598383773975,
+    "lon": 2.0973845422401483
+  },
+  {
+    "name": "Floristeria Flora Miserachs",
+    "category": "otro",
+    "address": "C Avió Plus Ultra 21.0",
+    "lat": 41.40098051100123,
+    "lon": 2.12109349397744
+  },
+  {
+    "name": "Parròquia de Maria Reina",
+    "category": "Parròquia",
+    "address": "Av Esplugues 103.0",
+    "lat": 41.39269599560134,
+    "lon": 2.111486130409106
+  },
+  {
+    "name": "Casa Calvet",
+    "category": "otro",
+    "address": "C Casp 48.0",
+    "lat": 41.39096800710249,
+    "lon": 2.1730144223801227
+  },
+  {
+    "name": "Escultura Pi i Margall-La República",
+    "category": "otro",
+    "address": "Pl de la República 1.0",
+    "lat": 41.438224060995616,
+    "lon": 2.1740546617840075
+  },
+  {
+    "name": "Centre de Cultura Popular La Violeta de Gràcia",
+    "category": "Centre",
+    "address": "C Maspons 6.0",
+    "lat": 41.4010309942708,
+    "lon": 2.1562145898860363
+  },
+  {
+    "name": "Jardins de Joan Maragall - Palauet Albéniz",
+    "category": "Jardins",
+    "address": "Av Estadi 69.0",
+    "lat": 41.3671333000304,
+    "lon": 2.156511461067073
+  },
+  {
+    "name": "Palau del Baró de Quadras",
+    "category": "Palau",
+    "address": "Av Diagonal 373.0",
+    "lat": 41.396775817125445,
+    "lon": 2.161339600186852
+  },
+  {
+    "name": "Casal Catòlic de Sant Andreu - Àntic Casino \"El Progrés",
+    "category": "otro",
+    "address": "C Pons i Gallarza 58.0",
+    "lat": 41.43555707085925,
+    "lon": 2.186466964815642
+  },
+  {
+    "name": "Reial Club Nàutic de Barcelona",
+    "category": "Club",
+    "address": "Moll Espanya 1.0",
+    "lat": 41.377238724292056,
+    "lon": 2.1830264347318584
+  },
+  {
+    "name": "Museu Picasso",
+    "category": "Museu",
+    "address": "Carrer de Montcada 15.0 23.0",
+    "lat": 41.38518764927223,
+    "lon": 2.180853795205005
+  },
+  {
+    "name": "Col·legi d'Arquitectes de Catalunya",
+    "category": "otro",
+    "address": "Pl Nova 5.0",
+    "lat": 41.38447776866129,
+    "lon": 2.175059343001021
+  },
+  {
+    "name": "Antiga Fàbrica Can Batlló",
+    "category": "otro",
+    "address": "Gran Via de les Corts Catalanes 173.0 175.0",
+    "lat": 41.36750541072863,
+    "lon": 2.1384951543142887
+  },
+  {
+    "name": "Centre Cívic El Coll - La Bruguera",
+    "category": "Centre",
+    "address": "Carrer de l'Aldea 15.0",
+    "lat": 41.41860650477411,
+    "lon": 2.149915320833742
+  },
+  {
+    "name": "IL3 Institut de Formació Contínua - Universitat de Barcelona",
+    "category": "otro",
+    "address": "C Ciutat de Granada 131.0",
+    "lat": 41.40277794946352,
+    "lon": 2.192149004479942
+  },
+  {
+    "name": "Església de Nostra Senyora de Pompeia",
+    "category": "otro",
+    "address": "Av Diagonal 450.0",
+    "lat": 41.39646355499734,
+    "lon": 2.1581534123611474
+  },
+  {
+    "name": "Escultura Colles Sant Medir",
+    "category": "otro",
+    "address": "Pl Trilla 1.0",
+    "lat": 41.40349932760185,
+    "lon": 2.152415836295016
+  },
+  {
+    "name": "Sant Pau Recinte Modernista",
+    "category": "otro",
+    "address": "Carrer de Sant Antoni Maria Claret 167.0",
+    "lat": 41.41241647123583,
+    "lon": 2.1757600481895056
+  },
+  {
+    "name": "Font Hércules",
+    "category": "otro",
+    "address": "Pg Sant Joan 152.0",
+    "lat": 41.40222084859364,
+    "lon": 2.1663348303868437
+  },
+  {
+    "name": "Estació d'Autobusos Barcelona Nord",
+    "category": "otro",
+    "address": "C Alí Bei 80.0",
+    "lat": 41.394325719298415,
+    "lon": 2.182338154669274
+  },
+  {
+    "name": "Casa Llopis Bofill",
+    "category": "otro",
+    "address": "Bailèn 113.0",
+    "lat": 41.39767792794139,
+    "lon": 2.169479497833732
+  },
+  {
+    "name": "Residència Assistida per a Gent Gran Llars Mundet",
+    "category": "otro",
+    "address": "Pg Vall d'Hebron 171.0",
+    "lat": 41.43575541409688,
+    "lon": 2.147158169831797
+  },
+  {
+    "name": "Observatori Fabra",
+    "category": "otro",
+    "address": "Ctra Observatori Fabra 27.0",
+    "lat": 41.41877190341054,
+    "lon": 2.1236452624703155
+  },
+  {
+    "name": "Associació Nou Barris Centre Comerç",
+    "category": "Centre",
+    "address": "C Pare Rodés 51.0",
+    "lat": 41.44133560174434,
+    "lon": 2.176213867579158
+  },
+  {
+    "name": "Reial Club de Polo de Barcelona",
+    "category": "Club",
+    "address": "Av Doctor Marañón 17.0",
+    "lat": 41.381284762938655,
+    "lon": 2.1144500349192548
+  },
+  {
+    "name": "Jardins de Portolà",
+    "category": "Jardins",
+    "address": "C Portolà 5.0",
+    "lat": 41.410819046980855,
+    "lon": 2.14255769920195
+  },
+  {
+    "name": "Hospital  Sociosanitari Mutuam Güell",
+    "category": "otro",
+    "address": "C Mare de Déu de la Salut 49.0",
+    "lat": 41.411445154741465,
+    "lon": 2.1567276831754065
+  },
+  {
+    "name": "Centre Moral i Instructiu de Gràcia",
+    "category": "Centre",
+    "address": "Carrer de Ros de Olano 9.0",
+    "lat": 41.4011467607569,
+    "lon": 2.1547866320723554
+  },
+  {
+    "name": "Parròquia de la Verge de Gràcia i Sant Josep",
+    "category": "Parròquia",
+    "address": "Pl Lesseps 25.0",
+    "lat": 41.4065945273656,
+    "lon": 2.1489419133653587
+  },
+  {
+    "name": "Escola Massana Centre Municipal d'Art i Disseny",
+    "category": "Centre",
+    "address": "Plaça de la Gardunya 9.0",
+    "lat": 41.380953983657726,
+    "lon": 2.1708053338176225
+  },
+  {
+    "name": "Centre de Reunions i Convencions UAB Casa Convalescència",
+    "category": "Centre",
+    "address": "C Sant Antoni Maria Claret 171.0",
+    "lat": 41.41379174747705,
+    "lon": 2.176910232352591
+  },
+  {
+    "name": "Parc Científic de Barcelona",
+    "category": "Parc",
+    "address": "Carrer de Baldiri Reixac 4.0 12.0",
+    "lat": 41.38184573119936,
+    "lon": 2.116442974830661
+  },
+  {
+    "name": "Estació de França",
+    "category": "otro",
+    "address": "Avinguda del Marquès de l'Argentera 6.0",
+    "lat": 41.38390532899724,
+    "lon": 2.1871972542686304
+  },
+  {
+    "name": "Viaducte de Bellesguard",
+    "category": "otro",
+    "address": "C Bellesguard 16.0",
+    "lat": 41.40916537462648,
+    "lon": 2.126829667587517
+  },
+  {
+    "name": "Centre Cívic  Vil·la Urània",
+    "category": "Centre",
+    "address": "Carrer de Saragossa 29.0",
+    "lat": 41.40144911965885,
+    "lon": 2.149816841793133
+  },
+  {
+    "name": "Platja de la Nova Mar Bella",
+    "category": "Platja",
+    "address": "Pg Marítim de la Mar Bella 128.0",
+    "lat": 41.401144617626905,
+    "lon": 2.2142493854271126
+  },
+  {
+    "name": "Torre del Fang",
+    "category": "otro",
+    "address": "Clot 228.0",
+    "lat": 41.41650054695728,
+    "lon": 2.1919480476112105
+  },
+  {
+    "name": "Bar Marsella",
+    "category": "otro",
+    "address": "C Sant Pau 65.0",
+    "lat": 41.3782782040133,
+    "lon": 2.17122360530803
+  },
+  {
+    "name": "Torre Montjuïc Calatrava",
+    "category": "otro",
+    "address": "Pg Minici Natal 8.0",
+    "lat": 41.364786605041445,
+    "lon": 2.1516565451460616
+  },
+  {
+    "name": "Associació Sarrià Eix Comercial",
+    "category": "otro",
+    "address": "C Canet 20.0",
+    "lat": 41.39840201073239,
+    "lon": 2.122763546217199
+  },
+  {
+    "name": "Casal Cívic i Comunitari Barcelona - Magòria",
+    "category": "otro",
+    "address": "G.V. Corts Catalanes 247.0",
+    "lat": 41.36986934117719,
+    "lon": 2.14126001076402
+  },
+  {
+    "name": "Monument a Josep Tarradellas",
+    "category": "otro",
+    "address": "Avinguda de Josep Tarradellas nan",
+    "lat": 41.386548699111046,
+    "lon": 2.143065853774402
+  },
+  {
+    "name": "Jardins Creu de Pedralbes",
+    "category": "Jardins",
+    "address": "Av Pearson 2.0",
+    "lat": 41.39433185278547,
+    "lon": 2.1115767347502405
+  },
+  {
+    "name": "Pèrgola Fotovoltaica al Parc del Fòrum",
+    "category": "Parc",
+    "address": "Pl Fòrum 1.0",
+    "lat": 41.41150571915544,
+    "lon": 2.2281237482570995
+  },
+  {
+    "name": "Jardins del Teatre Grec",
+    "category": "Jardins",
+    "address": "Pg Santa Madrona 38.0",
+    "lat": 41.37014353208927,
+    "lon": 2.158621128519657
+  },
+  {
+    "name": "Parc de la Barceloneta",
+    "category": "Parc",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas 15.0 21.0",
+    "lat": 41.38205501687279,
+    "lon": 2.193838416918405
+  },
+  {
+    "name": "Universitat Politècnica de Catalunya",
+    "category": "otro",
+    "address": "C Jordi Girona 31.0",
+    "lat": 41.3889419870853,
+    "lon": 2.116537839859507
+  },
+  {
+    "name": "Parc de Recerca Biomèdica de Barcelona",
+    "category": "Parc",
+    "address": "C Doctor Aiguader 88.0",
+    "lat": 41.38557632373501,
+    "lon": 2.194017030461737
+  },
+  {
+    "name": "Moll de la Fusta",
+    "category": "otro",
+    "address": "Moll de Bosch i Alsina 1.0 1.0",
+    "lat": 41.37903656788793,
+    "lon": 2.181832960571753
+  },
+  {
+    "name": "Jardins Mossèn Cinto Verdaguer",
+    "category": "Jardins",
+    "address": "Av Miramar 30.0",
+    "lat": 41.36885056534847,
+    "lon": 2.1630513619866973
+  },
+  {
+    "name": "Jardins",
+    "category": "Jardins",
+    "address": "Pg Vall d'Hebron 171.0",
+    "lat": 41.43592904989888,
+    "lon": 2.1409312542675263
+  },
+  {
+    "name": "Escullera del Port de Barcelona",
+    "category": "otro",
+    "address": "Pg Escullera 1.0",
+    "lat": 41.3576877479369,
+    "lon": 2.179383881515306
+  },
+  {
+    "name": "Associació Eix Comercial de Sant Andreu",
+    "category": "otro",
+    "address": "Carrer de Mateu Ferran 4.0 4.0",
+    "lat": 41.4351988564254,
+    "lon": 2.18890388341691
+  },
+  {
+    "name": "Reials Drassanes de Barcelona",
+    "category": "otro",
+    "address": "Av Drassanes 1.0",
+    "lat": 41.375981756802304,
+    "lon": 2.1760573876381613
+  },
+  {
+    "name": "Museu d'Art Contemporani de Barcelona",
+    "category": "Museu",
+    "address": "Plaça dels Àngels 1.0",
+    "lat": 41.383177415641065,
+    "lon": 2.16784852899158
+  },
+  {
+    "name": "Palau Sant Jordi",
+    "category": "Palau",
+    "address": "Pg Olímpic 5.0",
+    "lat": 41.3620001141372,
+    "lon": 2.1523962021929672
+  },
+  {
+    "name": "Antiga Subcentral Elèctrica de la Barceloneta",
+    "category": "otro",
+    "address": "C Atlàntida 57.0",
+    "lat": 41.37949735138732,
+    "lon": 2.190007515254681
+  },
+  {
+    "name": "Camp Municipal de Futbol Narcís Sala",
+    "category": "otro",
+    "address": "C Santa Coloma 39.0",
+    "lat": 41.42889692238828,
+    "lon": 2.1930944831499715
+  },
+  {
+    "name": "Museu Barça Immersive Tour",
+    "category": "Museu",
+    "address": "Carrer d'Arístides Maillol 12.0",
+    "lat": 41.379090515776426,
+    "lon": 2.120285513558928
+  },
+  {
+    "name": "Torre d'Aigües de Carrasco i Formiguera",
+    "category": "otro",
+    "address": "Via Augusta 356.0",
+    "lat": 41.40127423556232,
+    "lon": 2.122852491250377
+  },
+  {
+    "name": "Torre del Doctor Andreu",
+    "category": "otro",
+    "address": "Av Tibidabo 17.0",
+    "lat": 41.411850643734354,
+    "lon": 2.135695010644845
+  },
+  {
+    "name": "Colònia Castells",
+    "category": "otro",
+    "address": "C Castells 2.0",
+    "lat": 41.387548470347184,
+    "lon": 2.1392455922096265
+  },
+  {
+    "name": "La plaça de Comas",
+    "category": "otro",
+    "address": "Pl Comas 18.0",
+    "lat": 41.38564406822385,
+    "lon": 2.1297722513988706
+  },
+  {
+    "name": "La plaça de la Reina Maria Cristina",
+    "category": "otro",
+    "address": "Pl Reina Maria Cristina nan",
+    "lat": 41.38864240334821,
+    "lon": 2.126698190734328
+  },
+  {
+    "name": "La plaça de Ramon M. Roca i Sastre",
+    "category": "otro",
+    "address": "Pl Ramon M. Roca Sastre nan",
+    "lat": 41.38571907130875,
+    "lon": 2.118772762148288
+  },
+  {
+    "name": "Jardins de Vil·la Cecília",
+    "category": "Jardins",
+    "address": "Santa Amèlia 1.0",
+    "lat": 41.39374957203114,
+    "lon": 2.121963830470535
+  },
+  {
+    "name": "Centre d'Educació Ambiental La Fàbrica del Sol",
+    "category": "Centre",
+    "address": "Pg Salvat Papasseit 1.0",
+    "lat": 41.383031580266,
+    "lon": 2.1912801963845494
+  },
+  {
+    "name": "Pilar d'Aigua de la Sagrera",
+    "category": "otro",
+    "address": "C Ciutat d'Elx 31.0",
+    "lat": 41.4220738556162,
+    "lon": 2.190885833187442
+  },
+  {
+    "name": "La Plaça del Rom Cremat",
+    "category": "otro",
+    "address": "C Jordi de Sant Jordi 16.0",
+    "lat": 41.42215416804366,
+    "lon": 2.182983037488512
+  },
+  {
+    "name": "La Plaça del Mercadal",
+    "category": "otro",
+    "address": "Pl Mercadal 35.0",
+    "lat": 41.43498808409701,
+    "lon": 2.188717976056457
+  },
+  {
+    "name": "L'Espai de la Torre Melina i el seu Jardí Romàntic",
+    "category": "otro",
+    "address": "C Torre Melina 8.0",
+    "lat": 41.381730229359285,
+    "lon": 2.1085900896337453
+  },
+  {
+    "name": "Avenç Obrer Català de Sant Andreu",
+    "category": "otro",
+    "address": "Pl Orfila 3.0",
+    "lat": 41.43624446859994,
+    "lon": 2.1909591589263973
+  },
+  {
+    "name": "Centre Comercial El Centre de la Vila",
+    "category": "Centre",
+    "address": "C Salvador Espriu 61.0",
+    "lat": 41.39092742219698,
+    "lon": 2.1978686794906324
+  },
+  {
+    "name": "Memorial en Record de les Víctimes de Trànsit",
+    "category": "otro",
+    "address": "Passeig Marítim del Bogatell 82.0",
+    "lat": 41.39460267821261,
+    "lon": 2.2067544978597606
+  },
+  {
+    "name": "Castell dels Tres Dragons",
+    "category": "otro",
+    "address": "Pg Picasso 5.0",
+    "lat": 41.38811182882805,
+    "lon": 2.1833851582204957
+  },
+  {
+    "name": "Parròquia de Sant Josep Manyanet",
+    "category": "Parròquia",
+    "address": "C Sant Sebastià 47.0",
+    "lat": 41.42900359854308,
+    "lon": 2.1914231867699456
+  },
+  {
+    "name": "Centre Cívic Sant Andreu",
+    "category": "Centre",
+    "address": "Carrer Gran de Sant Andreu 111.0",
+    "lat": 41.43088018380354,
+    "lon": 2.1894124386376466
+  },
+  {
+    "name": "Palau de Mar",
+    "category": "Palau",
+    "address": "Pl Pau Vila 1.0",
+    "lat": 41.3808386412199,
+    "lon": 2.1858736814996145
+  },
+  {
+    "name": "Quarter Bruc",
+    "category": "otro",
+    "address": "Av Exèrcit 1.0",
+    "lat": 41.38730794999315,
+    "lon": 2.110666688042147
+  },
+  {
+    "name": "Mercat Núria",
+    "category": "Mercat",
+    "address": "Avinguda dels Rasos de Peguera 186.0 186.0",
+    "lat": 41.45995202920537,
+    "lon": 2.1726367468768304
+  },
+  {
+    "name": "Edifici de La Model",
+    "category": "otro",
+    "address": "Carrer d'Entença 155.0",
+    "lat": 41.38346653721597,
+    "lon": 2.145384599812989
+  },
+  {
+    "name": "Can Mazantini",
+    "category": "otro",
+    "address": "C Coroleu 73.0",
+    "lat": 41.43314257686843,
+    "lon": 2.184650085607281
+  },
+  {
+    "name": "Casa Fargas",
+    "category": "otro",
+    "address": "Rbla Catalunya 47.0",
+    "lat": 41.39040808759584,
+    "lon": 2.164148990973875
+  },
+  {
+    "name": "Ateneu Popular de Sants",
+    "category": "otro",
+    "address": "Premià 15.0",
+    "lat": 41.37650856330917,
+    "lon": 2.1388908758746004
+  },
+  {
+    "name": "Parc de les Cascades",
+    "category": "Parc",
+    "address": "Avinguda del Litoral 12.0 14.0",
+    "lat": 41.38631260802294,
+    "lon": 2.195094646620497
+  },
+  {
+    "name": "Centre Cívic Can Felipa",
+    "category": "Centre",
+    "address": "Plaça de Josep Maria Huertas Claveria 1.0",
+    "lat": 41.40367975860696,
+    "lon": 2.20050971216533
+  },
+  {
+    "name": "La Plaça Reial",
+    "category": "otro",
+    "address": "Pl Reial 5.0",
+    "lat": 41.38044055326621,
+    "lon": 2.1749759344450665
+  },
+  {
+    "name": "Casa Planells",
+    "category": "otro",
+    "address": "Av Diagonal 332.0",
+    "lat": 41.4005940299752,
+    "lon": 2.174625257658432
+  },
+  {
+    "name": "Escola la Farigola de Vallcarca",
+    "category": "Escola",
+    "address": "C Sant Camil 31.0",
+    "lat": 41.4138319736047,
+    "lon": 2.146680968580762
+  },
+  {
+    "name": "Antiga Fàbrica Estrella Damm",
+    "category": "otro",
+    "address": "Carrer del Rosselló 515.0",
+    "lat": 41.40912820969591,
+    "lon": 2.178180484218155
+  },
+  {
+    "name": "Facultat de Ciències de la Salut Blanquerna - URL",
+    "category": "otro",
+    "address": "C Padilla 326.0",
+    "lat": 41.409786505203634,
+    "lon": 2.1721184721407334
+  },
+  {
+    "name": "Parròquia de Santa Maria del Mar - Basílica",
+    "category": "Parròquia",
+    "address": "Pl Santa Maria 1.0",
+    "lat": 41.38378222100998,
+    "lon": 2.182224949880879
+  },
+  {
+    "name": "Jardins del Mirador de l'Alcalde",
+    "category": "Jardins",
+    "address": "Carretera de Montjuïc 41.0 51.0",
+    "lat": 41.36693458020852,
+    "lon": 2.169190267865246
+  },
+  {
+    "name": "El Portal de l'Àngel",
+    "category": "otro",
+    "address": "Av Portal de l'Àngel 21.0",
+    "lat": 41.38587859872714,
+    "lon": 2.172844151594492
+  },
+  {
+    "name": "Zoo de Barcelona",
+    "category": "otro",
+    "address": "Parc Ciutadella nan",
+    "lat": 41.386153673583415,
+    "lon": 2.1871870138081797
+  },
+  {
+    "name": "Casa Vidal",
+    "category": "otro",
+    "address": "C Pons i Gallarza 1.0",
+    "lat": 41.43535513459526,
+    "lon": 2.1894400450855303
+  },
+  {
+    "name": "El Paral·lel",
+    "category": "otro",
+    "address": "Av Paral·lel 170.0",
+    "lat": 41.37522098509261,
+    "lon": 2.1558593296923467
+  },
+  {
+    "name": "Sant Pere i Santa Caterina",
+    "category": "otro",
+    "address": "C Sant Pere Més Baix 68.0",
+    "lat": 41.388142157020646,
+    "lon": 2.178572782653608
+  },
+  {
+    "name": "Teatre Lliure",
+    "category": "otro",
+    "address": "Pl Margarida Xirgu 1.0",
+    "lat": 41.37067944906853,
+    "lon": 2.1574493260272294
+  },
+  {
+    "name": "Parc de Sant Martí",
+    "category": "Parc",
+    "address": "C Menorca 64.0",
+    "lat": 41.41989650584673,
+    "lon": 2.198051769477209
+  },
+  {
+    "name": "Casa Bartomeu",
+    "category": "otro",
+    "address": "C Rábida 5.0",
+    "lat": 41.396311253391424,
+    "lon": 2.1072570259147585
+  },
+  {
+    "name": "Edifici La Maternitat",
+    "category": "otro",
+    "address": "C Sabino Arana 1.0",
+    "lat": 41.38547614322759,
+    "lon": 2.1266907591970448
+  },
+  {
+    "name": "Parc Sanitari Pere Virgili",
+    "category": "Parc",
+    "address": "C Esteve Terradas 30.0",
+    "lat": 41.41495508215848,
+    "lon": 2.140265906627508
+  },
+  {
+    "name": "Edifici Talaia Barcelona",
+    "category": "otro",
+    "address": "Av Sarrià 71.0",
+    "lat": 41.39084065982192,
+    "lon": 2.1394911073808047
+  },
+  {
+    "name": "Edifici Torre Telefònica - Diagonal Zero Zero",
+    "category": "otro",
+    "address": "Pl Ernest Lluch i Martín 5.0",
+    "lat": 41.41217022424529,
+    "lon": 2.2212484484505435
+  },
+  {
+    "name": "Centre Estudis Ignasi Iglesias",
+    "category": "Centre",
+    "address": "Carrer d'Ignasi Iglésias 33.0",
+    "lat": 41.43356963877177,
+    "lon": 2.188130239920921
+  },
+  {
+    "name": "Universitat Internacional de Catalunya",
+    "category": "otro",
+    "address": "Immaculada 22.0",
+    "lat": 41.406033260654574,
+    "lon": 2.123231960089889
+  },
+  {
+    "name": "Palau Reial de Pedralbes",
+    "category": "Palau",
+    "address": "Av Diagonal 686.0",
+    "lat": 41.38654937434819,
+    "lon": 2.1184352989192647
+  },
+  {
+    "name": "Jardins de Mossèn Costa i Llobera",
+    "category": "Jardins",
+    "address": "Ctra Miramar 38.0",
+    "lat": 41.36961505587559,
+    "lon": 2.17232416934953
+  },
+  {
+    "name": "Castell de Torre Baró",
+    "category": "otro",
+    "address": "Carretera Alta de les Roquetes 309.0",
+    "lat": 41.45079189503227,
+    "lon": 2.1761305165721443
+  },
+  {
+    "name": "Casa - Fàbrica Erasme de Gònima",
+    "category": "otro",
+    "address": "Carme 106.0",
+    "lat": 41.38013776152317,
+    "lon": 2.166732403540656
+  },
+  {
+    "name": "El Túnel de la Rovira",
+    "category": "otro",
+    "address": "C Dante Alighieri 81.0",
+    "lat": 41.42755510844527,
+    "lon": 2.157559236781552
+  },
+  {
+    "name": "Can Culleretes",
+    "category": "otro",
+    "address": "C Quintana 5.0",
+    "lat": 41.381241482418325,
+    "lon": 2.1744292455209995
+  },
+  {
+    "name": "La Diagonal",
+    "category": "otro",
+    "address": "Av Diagonal 629.0",
+    "lat": 41.38793852100829,
+    "lon": 2.125713944106764
+  },
+  {
+    "name": "Refugi Antiaeri de La Lira",
+    "category": "otro",
+    "address": "C Coroleu 15.0",
+    "lat": 41.43277350201,
+    "lon": 2.1881654862843227
+  },
+  {
+    "name": "Refugi Antiaeri 977 (Matanzas / Pinar del Río)",
+    "category": "otro",
+    "address": "C Pinar del Río 32.0",
+    "lat": 41.42243408970824,
+    "lon": 2.182057614392575
+  },
+  {
+    "name": "Capella dels Segadors",
+    "category": "otro",
+    "address": "Pl Orfila 5.0",
+    "lat": 41.43629879622968,
+    "lon": 2.191490177023649
+  },
+  {
+    "name": "MUHBA Museu d'Història de Barcelona - Vil·la Joana",
+    "category": "Museu",
+    "address": "Carretera de l'Església 104.0",
+    "lat": 41.41954329767189,
+    "lon": 2.099950499346553
+  },
+  {
+    "name": "Platja de la Barceloneta",
+    "category": "Platja",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas 14.0",
+    "lat": 41.37861435600187,
+    "lon": 2.192222242417201
+  },
+  {
+    "name": "Centre de Cultura Contemporània de Barcelona",
+    "category": "Centre",
+    "address": "C Montalegre 5.0",
+    "lat": 41.38391450226559,
+    "lon": 2.1668129104163323
+  },
+  {
+    "name": "Fàbrica de Creació La Escocesa",
+    "category": "otro",
+    "address": "Carrer de Pere IV 345.0",
+    "lat": 41.41127532997013,
+    "lon": 2.203844026804752
+  },
+  {
+    "name": "Centre d'Arts Santa Mònica",
+    "category": "Centre",
+    "address": "Carrer la Rambla 7.0",
+    "lat": 41.37725882473504,
+    "lon": 2.175614994736913
+  },
+  {
+    "name": "Casa Fàbrica Güell-Ramis",
+    "category": "otro",
+    "address": "C Còdols 16.0",
+    "lat": 41.379585352390144,
+    "lon": 2.178265252336639
+  },
+  {
+    "name": "Casa Parés",
+    "category": "otro",
+    "address": "C Mestres Casals i Martorell 15.0",
+    "lat": 41.3872658323001,
+    "lon": 2.178401010468016
+  },
+  {
+    "name": "Restaurant Can Cortada",
+    "category": "Restaurant",
+    "address": "Av Estatut de Catalunya 88.0",
+    "lat": 41.43763336944126,
+    "lon": 2.1528053939918426
+  },
+  {
+    "name": "Centre Comercial L'Illa Diagonal",
+    "category": "Centre",
+    "address": "Av Diagonal 557.0",
+    "lat": 41.38974559970474,
+    "lon": 2.1353959606306443
+  },
+  {
+    "name": "Els Edificis Trade",
+    "category": "otro",
+    "address": "G.V. Carles III 84.0",
+    "lat": 41.38617521617633,
+    "lon": 2.1279530224471386
+  },
+  {
+    "name": "Far del Port - Torre del Rellotge",
+    "category": "otro",
+    "address": "Moll Pescadors 1.0",
+    "lat": 41.3758307185709,
+    "lon": 2.186997099293849
+  },
+  {
+    "name": "Fundació Privada Centre de Producció Artística i Cultural Palo Alto",
+    "category": "Centre",
+    "address": "C Pellaires 30.0",
+    "lat": 41.40453754416711,
+    "lon": 2.210261414480815
+  },
+  {
+    "name": "Centre Educatiu Santa Teresa - Ganduxer",
+    "category": "Centre",
+    "address": "C Ganduxer 85.0",
+    "lat": 41.39996979813191,
+    "lon": 2.1335779353787503
+  },
+  {
+    "name": "Parc del Mirador del Poble-sec",
+    "category": "Parc",
+    "address": "Passeig de Montjuïc 59.0",
+    "lat": 41.37192068979768,
+    "lon": 2.1701826605872294
+  },
+  {
+    "name": "Molí de Sant Andreu - Rec Comtal",
+    "category": "otro",
+    "address": "C Andana de l'Estació 22.0",
+    "lat": 41.44306589381739,
+    "lon": 2.194021800571192
+  },
+  {
+    "name": "Casa Company",
+    "category": "otro",
+    "address": "Buenos Aires 56.0",
+    "lat": 41.393120800716055,
+    "lon": 2.1481893230679403
+  },
+  {
+    "name": "La Plaça del Comerç",
+    "category": "otro",
+    "address": "Pl Comerç 6.0",
+    "lat": 41.43522215078868,
+    "lon": 2.189877474368489
+  },
+  {
+    "name": "Associació Sant Martí Eix Comercial",
+    "category": "otro",
+    "address": "Carrer de Huelva 111.0",
+    "lat": 41.42025966854083,
+    "lon": 2.1998166979222726
+  },
+  {
+    "name": "La Vil·la Hèlius (Casa Grané)",
+    "category": "otro",
+    "address": "C Panamà 13.0",
+    "lat": 41.395462854998215,
+    "lon": 2.107541318408962
+  },
+  {
+    "name": "L'Antic Institut Frenopàtic",
+    "category": "otro",
+    "address": "C Mejía Lequerica 55.0",
+    "lat": 41.38433208402624,
+    "lon": 2.1263311628356334
+  },
+  {
+    "name": "L'Àrea Olímpica de la Diagonal",
+    "category": "otro",
+    "address": "Av Xile 29.0",
+    "lat": 41.380264181554345,
+    "lon": 2.1144189385595857
+  },
+  {
+    "name": "Bar musical La Torre Rosa",
+    "category": "otro",
+    "address": "C Francesc Tàrrega 22.0",
+    "lat": 41.42271161168508,
+    "lon": 2.180504022970048
+  },
+  {
+    "name": "Carrer Cienfuegos",
+    "category": "otro",
+    "address": "C Cienfuegos 21.0",
+    "lat": 41.42408750553282,
+    "lon": 2.183417526927583
+  },
+  {
+    "name": "Refugi Antiaeri de la Plaça del Diamant",
+    "category": "otro",
+    "address": "Pl Diamant 10.0",
+    "lat": 41.40399370440121,
+    "lon": 2.1559723559683674
+  },
+  {
+    "name": "Colmado Murria",
+    "category": "otro",
+    "address": "Roger de Llúria 85.0",
+    "lat": 41.39480108686979,
+    "lon": 2.166511035825546
+  },
+  {
+    "name": "Fàbrica de Creació Nau Ivanow",
+    "category": "otro",
+    "address": "C Hondures 28.0",
+    "lat": 41.4199791609378,
+    "lon": 2.1899651964541302
+  },
+  {
+    "name": "Casa Museu Gaudí",
+    "category": "Museu",
+    "address": "Carretera del Carmel 23.0",
+    "lat": 41.41481232125404,
+    "lon": 2.1550643342300395
+  },
+  {
+    "name": "Centre Comercial Diagonal Mar",
+    "category": "Centre",
+    "address": "Av Diagonal 3.0",
+    "lat": 41.41045744398306,
+    "lon": 2.2164227599409685
+  },
+  {
+    "name": "Oratori de Sant Felip Neri *Gràcia",
+    "category": "otro",
+    "address": "C Sol 8.0",
+    "lat": 41.40200153642768,
+    "lon": 2.1556884231723643
+  },
+  {
+    "name": "Jardins de Massana",
+    "category": "Jardins",
+    "address": "Felip II 216.0",
+    "lat": 41.42704189433846,
+    "lon": 2.1785261828350926
+  },
+  {
+    "name": "Associació Sants Establiments Units",
+    "category": "otro",
+    "address": "Carrer d'Alcolea 16.0",
+    "lat": 41.37607095558091,
+    "lon": 2.136838762891396
+  },
+  {
+    "name": "Port Olímpic de Barcelona",
+    "category": "otro",
+    "address": "Port Olímpic 100.0",
+    "lat": 41.38772238063312,
+    "lon": 2.199282061005833
+  },
+  {
+    "name": "La Lleialtat Santsenca",
+    "category": "otro",
+    "address": "Carrer d'Olzinelles 31.0",
+    "lat": 41.37291765088582,
+    "lon": 2.13669817907462
+  },
+  {
+    "name": "Casa Josep Barnoles - La del Mico i el Gos",
+    "category": "otro",
+    "address": "C Camèlies 40.0",
+    "lat": 41.4116517136051,
+    "lon": 2.160396764857864
+  },
+  {
+    "name": "La rambla del Prat",
+    "category": "otro",
+    "address": "Rbla Prat 1.0",
+    "lat": 41.4018619863958,
+    "lon": 2.152769925875062
+  },
+  {
+    "name": "Masoveria de la Virreina",
+    "category": "otro",
+    "address": "C Sant Lluís 1.0",
+    "lat": 41.40418669162275,
+    "lon": 2.1582068161840007
+  },
+  {
+    "name": "La plaça del Poble Romaní",
+    "category": "otro",
+    "address": "Plaça del Poble Gitano nan",
+    "lat": 41.40183443187984,
+    "lon": 2.160694112661664
+  },
+  {
+    "name": "Hospital Evangèlic",
+    "category": "otro",
+    "address": "Carrer de la Ciutat de Granada 108.0 116.0",
+    "lat": 41.40134426251321,
+    "lon": 2.1943465696873985
+  },
+  {
+    "name": "Cases Antoni Par",
+    "category": "otro",
+    "address": "C Gran de Gràcia 262.0",
+    "lat": 41.40569413888112,
+    "lon": 2.150627501849931
+  },
+  {
+    "name": "Cases de menestrals",
+    "category": "otro",
+    "address": "C Tordera 14.0",
+    "lat": 41.40077634268316,
+    "lon": 2.160468302707204
+  },
+  {
+    "name": "Cases Folguera",
+    "category": "otro",
+    "address": "Trav Gràcia 184.0",
+    "lat": 41.40193073549308,
+    "lon": 2.158860787647023
+  },
+  {
+    "name": "Edifici Modernista Avinguda República Argentina 28",
+    "category": "otro",
+    "address": "Av República Argentina 28.0",
+    "lat": 41.408491676806655,
+    "lon": 2.147416989049893
+  },
+  {
+    "name": "El carrer de Bonavista",
+    "category": "otro",
+    "address": "C Bonavista 1.0",
+    "lat": 41.39773291366716,
+    "lon": 2.1587099305698554
+  },
+  {
+    "name": "El Vapor Nou",
+    "category": "otro",
+    "address": "Plaça del Poble Gitano nan",
+    "lat": 41.40183443187984,
+    "lon": 2.160694112661664
+  },
+  {
+    "name": "Bar Mestres",
+    "category": "otro",
+    "address": "C Vergós 9.0",
+    "lat": 41.399609906094966,
+    "lon": 2.1310611460751536
+  },
+  {
+    "name": "Edifici MediaTIC",
+    "category": "otro",
+    "address": "Carrer de Roc Boronat 117.0 127.0",
+    "lat": 41.40267993266015,
+    "lon": 2.1944666095628262
+  },
+  {
+    "name": "La Plaça de Sant Jaume",
+    "category": "otro",
+    "address": "Pl Sant Jaume 1.0",
+    "lat": 41.38254213182859,
+    "lon": 2.1771735683501343
+  },
+  {
+    "name": "Torre de la Catalana de Gas",
+    "category": "otro",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas 15.0",
+    "lat": 41.38205967912699,
+    "lon": 2.1938398880660617
+  },
+  {
+    "name": "Elisava Escola Universitaria de Disseny i Enginyeria de Barcelona",
+    "category": "Escola",
+    "address": "C la Rambla 30.0",
+    "lat": 41.37848959636991,
+    "lon": 2.176064541270459
+  },
+  {
+    "name": "Casa Muley-Afid",
+    "category": "otro",
+    "address": "Pg Bonanova 55.0",
+    "lat": 41.40386449496666,
+    "lon": 2.1286747551139507
+  },
+  {
+    "name": "Casa Vilaró",
+    "category": "otro",
+    "address": "Av Coll del Portell 43.0",
+    "lat": 41.41136623661588,
+    "lon": 2.151433629959552
+  },
+  {
+    "name": "Residència Assistencial per a Gent Gran Refugi d'Obreres",
+    "category": "otro",
+    "address": "Av República Argentina 16.0",
+    "lat": 41.40830297314985,
+    "lon": 2.1482112139978766
+  },
+  {
+    "name": "Hort Urbà Masia Can Soler",
+    "category": "otro",
+    "address": "Ctra Sant Cugat 114.0",
+    "lat": 41.42502856858588,
+    "lon": 2.130702385728167
+  },
+  {
+    "name": "Associació de Botiguers i Professionals Eix Maragall",
+    "category": "otro",
+    "address": "Rambla de la Muntanya 5.0 5.0",
+    "lat": 41.42197707927703,
+    "lon": 2.1784702505689157
+  },
+  {
+    "name": "Parròquia de Sant Pacià",
+    "category": "Parròquia",
+    "address": "C Monges 27.0",
+    "lat": 41.43166813631247,
+    "lon": 2.187587402173429
+  },
+  {
+    "name": "Casa Comalat",
+    "category": "otro",
+    "address": "Av Diagonal 442.0",
+    "lat": 41.39708330346534,
+    "lon": 2.1607220347024616
+  },
+  {
+    "name": "Farmàcia Reixach-de Pablo",
+    "category": "otro",
+    "address": "Carrer Gran de Sant Andreu 263.0",
+    "lat": 41.435618295520094,
+    "lon": 2.1896359516105504
+  },
+  {
+    "name": "Club Tennis Barcino",
+    "category": "Club",
+    "address": "Plaça de Narcisa Freixas 2.0 2.0",
+    "lat": 41.40829605865302,
+    "lon": 2.138411353701733
+  },
+  {
+    "name": "Oasi MAC",
+    "category": "otro",
+    "address": "Carrer del Consell de Cent 140.0 140.0",
+    "lat": 41.38188240741375,
+    "lon": 2.153646899272376
+  },
+  {
+    "name": "MUHBA Museu d'Història de Barcelona  - Refugi 307",
+    "category": "Museu",
+    "address": "Carrer Nou de la Rambla 175.0",
+    "lat": 41.37107815965785,
+    "lon": 2.166220058300664
+  },
+  {
+    "name": "Associació Catalana per la Integració i el Desenvolupament Humà",
+    "category": "otro",
+    "address": "Carrer de Siracusa 53.0",
+    "lat": 41.40196689745648,
+    "lon": 2.161132948779616
+  },
+  {
+    "name": "La Rambla",
+    "category": "otro",
+    "address": "C Rambla 10.0",
+    "lat": 41.37765445203638,
+    "lon": 2.17649085980406
+  },
+  {
+    "name": "Masia la Petita Maria",
+    "category": "otro",
+    "address": "C López Catalán 4.0",
+    "lat": 41.37596451659646,
+    "lon": 2.1374035500851325
+  },
+  {
+    "name": "La plaça de Sant Gaietà",
+    "category": "otro",
+    "address": "Pl Sant Gaietà 5.0",
+    "lat": 41.40027641073024,
+    "lon": 2.120264726728752
+  },
+  {
+    "name": "Plaça del Sol",
+    "category": "otro",
+    "address": "Pl Sol 6.0",
+    "lat": 41.40162178824695,
+    "lon": 2.1566738998226365
+  },
+  {
+    "name": "El carrer de Campoamor",
+    "category": "otro",
+    "address": "C Campoamor 4.0",
+    "lat": 41.432914933001776,
+    "lon": 2.158212492323379
+  },
+  {
+    "name": "Platja de Llevant",
+    "category": "Platja",
+    "address": "Av Litoral 114.0",
+    "lat": 41.40501510946871,
+    "lon": 2.217741476714544
+  },
+  {
+    "name": "Casa Barangé",
+    "category": "otro",
+    "address": "Pl Mons 4.0",
+    "lat": 41.413399023929664,
+    "lon": 2.144460106814436
+  },
+  {
+    "name": "Casa Josep Castelló",
+    "category": "otro",
+    "address": "C Sors 23.0",
+    "lat": 41.40922522099331,
+    "lon": 2.1583254055522816
+  },
+  {
+    "name": "Casa Martí Trias i Domènech",
+    "category": "otro",
+    "address": "C Olot 5.0",
+    "lat": 41.41350924872243,
+    "lon": 2.1531271963876577
+  },
+  {
+    "name": "Plaça del Rei",
+    "category": "otro",
+    "address": "Pl Rei 1.0",
+    "lat": 41.38399153606988,
+    "lon": 2.177312208308455
+  },
+  {
+    "name": "Drogueria Rovira (Antiga Drogueria Galvany)",
+    "category": "otro",
+    "address": "Madrazo 127.0",
+    "lat": 41.39694983975115,
+    "lon": 2.14476287679332
+  },
+  {
+    "name": "Espai Gaudí: Pis, Golfes i Terrat",
+    "category": "otro",
+    "address": "Provença 261.0",
+    "lat": 41.39534759002928,
+    "lon": 2.162061079088016
+  },
+  {
+    "name": "Torre de les Aigües del Besòs",
+    "category": "otro",
+    "address": "Plaça de Ramon Calsina 1.0",
+    "lat": 41.405450920442256,
+    "lon": 2.212560936198963
+  },
+  {
+    "name": "Cafeteria Restaurant Cafè de l'Òpera",
+    "category": "Restaurant",
+    "address": "Carrer la Rambla 74.0",
+    "lat": 41.38091335380008,
+    "lon": 2.173782143732884
+  },
+  {
+    "name": "BAU, Centre Universitari d'Arts i Disseny de Barcelona",
+    "category": "Centre",
+    "address": "C Pujades 118.0",
+    "lat": 41.39772635565731,
+    "lon": 2.195641449471245
+  },
+  {
+    "name": "Centre de Convencions Internacional de Barcelona",
+    "category": "Centre",
+    "address": "Plaça de Willy Brandt 11.0 14.0",
+    "lat": 41.40895159816792,
+    "lon": 2.218837323987452
+  },
+  {
+    "name": "Estació Barcelona-Sants de RENFE",
+    "category": "otro",
+    "address": "Pl Països Catalans 1.0",
+    "lat": 41.379556967903945,
+    "lon": 2.1408179856438947
+  },
+  {
+    "name": "Club Natació Catalunya",
+    "category": "Club",
+    "address": "Carrer d'Ana María Matute Ausejo 25.0",
+    "lat": 41.41538260538486,
+    "lon": 2.1581717784411687
+  },
+  {
+    "name": "Santuari de Santa Eulàlia de Vilapicina",
+    "category": "otro",
+    "address": "C Pere d'Artés 2.0",
+    "lat": 41.43072358230434,
+    "lon": 2.1729158525346945
+  },
+  {
+    "name": "Sarrià",
+    "category": "otro",
+    "address": "C Major de Sarrià 63.0",
+    "lat": 41.398258662470965,
+    "lon": 2.1223212146455017
+  },
+  {
+    "name": "La Sardineta. Grup d'Ecoconsum de la Barceloneta",
+    "category": "otro",
+    "address": "C Cermeño 7.0",
+    "lat": 41.38162858085352,
+    "lon": 2.1905140138060823
+  },
+  {
+    "name": "L'Hortet del Forat",
+    "category": "otro",
+    "address": "C Pou de la Figuera 1.0",
+    "lat": 41.3874487826944,
+    "lon": 2.179763332554008
+  },
+  {
+    "name": "El Pla de Palau",
+    "category": "Palau",
+    "address": "Pla Palau 1.0",
+    "lat": 41.38289712933221,
+    "lon": 2.1825248996890165
+  },
+  {
+    "name": "Masia Can Valent",
+    "category": "otro",
+    "address": "Av Rio de Janeiro 51.0",
+    "lat": 41.43553633390901,
+    "lon": 2.17975400193275
+  },
+  {
+    "name": "Centre Cívic Can Verdaguer",
+    "category": "Centre",
+    "address": "Carrer de Piferrer 94.0",
+    "lat": 41.43410459884157,
+    "lon": 2.1792048887112854
+  },
+  {
+    "name": "Kasa de la Muntanya (KM)",
+    "category": "otro",
+    "address": "Av Santuari St Josep Muntanya 19.0",
+    "lat": 41.4104399702781,
+    "lon": 2.154195493067497
+  },
+  {
+    "name": "Àntiga Fàbrica de Làmpades Z",
+    "category": "otro",
+    "address": "Pg Zona Franca 185.0",
+    "lat": 41.36098326639913,
+    "lon": 2.1378661758058857
+  },
+  {
+    "name": "CaixaForum Barcelona",
+    "category": "otro",
+    "address": "Avinguda de Francesc Ferrer i Guàrdia 6.0",
+    "lat": 41.37132601483051,
+    "lon": 2.1495935126379413
+  },
+  {
+    "name": "Biblioteca Clarà",
+    "category": "otro",
+    "address": "Carrer del Doctor Carulla 22.0",
+    "lat": 41.39994044899448,
+    "lon": 2.1294738021393327
+  },
+  {
+    "name": "La Plaça de Catalunya",
+    "category": "otro",
+    "address": "Pl Catalunya 2.0",
+    "lat": 41.38604507506723,
+    "lon": 2.169418215449664
+  },
+  {
+    "name": "Mercat Horta",
+    "category": "Mercat",
+    "address": "Carrer de Lisboa 34.0 46.0",
+    "lat": 41.42921857676913,
+    "lon": 2.1573096628601407
+  },
+  {
+    "name": "Cementiri Montjuïc",
+    "category": "Cementiri",
+    "address": "Carrer de la Mare de Déu de Port 56.0",
+    "lat": 41.35439614126615,
+    "lon": 2.149011845799688
+  },
+  {
+    "name": "Associació del Passeig de Gràcia",
+    "category": "otro",
+    "address": "Carrer de Mallorca 249.0 249.0",
+    "lat": 41.39305273394126,
+    "lon": 2.161334369208631
+  },
+  {
+    "name": "Hotel d'Entitats de Can Guardiola",
+    "category": "otro",
+    "address": "Cuba 2.0",
+    "lat": 41.4299594840632,
+    "lon": 2.188553382391543
+  },
+  {
+    "name": "Centre Cívic Can Basté",
+    "category": "Centre",
+    "address": "Passeig de Fabra i Puig 274.0",
+    "lat": 41.4304874584176,
+    "lon": 2.173233437180801
+  },
+  {
+    "name": "El passatge d'Antoni Gassol",
+    "category": "otro",
+    "address": "Ptge Antoni Gassol 1.0",
+    "lat": 41.41275610120803,
+    "lon": 2.195583895314642
+  },
+  {
+    "name": "Pla de la Seu",
+    "category": "otro",
+    "address": "Pla de la Seu 1.0 1.0",
+    "lat": 41.38425392967717,
+    "lon": 2.1758673829595696
+  },
+  {
+    "name": "L'Hort del Cànem",
+    "category": "otro",
+    "address": "Carrer de la Llacuna 31.0 31.0",
+    "lat": 41.39913958472813,
+    "lon": 2.200783316686378
+  },
+  {
+    "name": "Parròquia de Sant Genís dels Agudells",
+    "category": "Parròquia",
+    "address": "C Saldes 3.0",
+    "lat": 41.42798213665874,
+    "lon": 2.1365982986152545
+  },
+  {
+    "name": "Parc del Clot",
+    "category": "Parc",
+    "address": "Escultors Claperós 55.0",
+    "lat": 41.40847228003916,
+    "lon": 2.1900153665666733
+  },
+  {
+    "name": "Sant Andreu Teatre",
+    "category": "otro",
+    "address": "C Neopàtria 54.0",
+    "lat": 41.43061427405158,
+    "lon": 2.1889212140974257
+  },
+  {
+    "name": "Centre Cívic Torre Llobeta",
+    "category": "Centre",
+    "address": "Carrer de Santa Fe 2.0",
+    "lat": 41.42693150965028,
+    "lon": 2.173966250593847
+  },
+  {
+    "name": "Fàbrica de Creació Ateneu Popular 9 Barris",
+    "category": "otro",
+    "address": "C Portlligat 11.0",
+    "lat": 41.44877310192653,
+    "lon": 2.1804102466794437
+  },
+  {
+    "name": "Parc de les Aigües",
+    "category": "Parc",
+    "address": "Pl Alfons el Savi 3.0",
+    "lat": 41.41357708464317,
+    "lon": 2.1654810232921857
+  },
+  {
+    "name": "Parc de la Guineueta",
+    "category": "Parc",
+    "address": "Plaça de la República 9.0",
+    "lat": 41.43904973751512,
+    "lon": 2.1744888744706907
+  },
+  {
+    "name": "Museu Marítim de Barcelona",
+    "category": "Museu",
+    "address": "Avinguda de les Drassanes 1.0",
+    "lat": 41.37598140054482,
+    "lon": 2.176059209800324
+  },
+  {
+    "name": "Monestir de Santa Maria de Valldonzella",
+    "category": "otro",
+    "address": "C Císter 41.0",
+    "lat": 41.41187688269559,
+    "lon": 2.131008959069784
+  },
+  {
+    "name": "Palau Montaner",
+    "category": "Palau",
+    "address": "C Mallorca 278.0",
+    "lat": 41.395600440595466,
+    "lon": 2.1650637423227845
+  },
+  {
+    "name": "Palau Macaya",
+    "category": "Palau",
+    "address": "Pg Sant Joan 108.0",
+    "lat": 41.39987499692392,
+    "lon": 2.16943219323842
+  },
+  {
+    "name": "Palau Robert - Centre d'Informació de Catalunya",
+    "category": "Centre",
+    "address": "Pg Gràcia 107.0",
+    "lat": 41.396132216710285,
+    "lon": 2.159531980047189
+  },
+  {
+    "name": "Fundació Universitaria Agustí Pedro Pons",
+    "category": "otro",
+    "address": "Av Vallvidrera 25.0",
+    "lat": 41.40660960989669,
+    "lon": 2.1141838297013127
+  },
+  {
+    "name": "El Born Centre de Cultura i Memòria",
+    "category": "Centre",
+    "address": "Plaça Comercial 12.0",
+    "lat": 41.38567300413077,
+    "lon": 2.183585604443325
+  },
+  {
+    "name": "Casa Thomas",
+    "category": "otro",
+    "address": "Mallorca 291.0",
+    "lat": 41.39657596077136,
+    "lon": 2.1656125429824926
+  },
+  {
+    "name": "Can Fabra",
+    "category": "otro",
+    "address": "Plaça de Can Fabra 1.0 1.0",
+    "lat": 41.43487059872311,
+    "lon": 2.190607460580104
+  },
+  {
+    "name": "Club Natació Sant Andreu",
+    "category": "Club",
+    "address": "Rbla Fabra i Puig 47.0",
+    "lat": 41.43005047129456,
+    "lon": 2.186313336459395
+  },
+  {
+    "name": "Antiga Seu Editorial Gustavo Gili",
+    "category": "otro",
+    "address": "Rosselló 87.0",
+    "lat": 41.38610655947061,
+    "lon": 2.147565662886036
+  },
+  {
+    "name": "Parròquia de Santa Maria del Pi - Basílica",
+    "category": "Parròquia",
+    "address": "Pl Pi 7.0",
+    "lat": 41.38233930831356,
+    "lon": 2.1737942555699594
+  },
+  {
+    "name": "Parròquia de Santa Maria del Remei",
+    "category": "Parròquia",
+    "address": "Pl Concòrdia 1.0",
+    "lat": 41.386892522386965,
+    "lon": 2.132098891535344
+  },
+  {
+    "name": "Parròquia de Maria Auxiliadora",
+    "category": "Parròquia",
+    "address": "Pg Sant Joan Bosco 70.0",
+    "lat": 41.394938605535096,
+    "lon": 2.1278275709059584
+  },
+  {
+    "name": "Club Esportiu Europa",
+    "category": "Club",
+    "address": "Carrer de Pau Alsina 138.0 140.0",
+    "lat": 41.41204361291409,
+    "lon": 2.1604194727546537
+  },
+  {
+    "name": "Museu d'Arqueologia de Catalunya",
+    "category": "Museu",
+    "address": "Passeig de Santa Madrona 39.0",
+    "lat": 41.37018541324514,
+    "lon": 2.1576640200328425
+  },
+  {
+    "name": "Biblioteca Barceloneta -  La Fraternitat",
+    "category": "otro",
+    "address": "Carrer de Felícia Fuster i Viladecans 8.0",
+    "lat": 41.37923262887593,
+    "lon": 2.188871640262453
+  },
+  {
+    "name": "Palau de la Virreina",
+    "category": "Palau",
+    "address": "la Rambla 99.0",
+    "lat": 41.38252973907768,
+    "lon": 2.171726398818812
+  },
+  {
+    "name": "Associació de Comerciants i Veïns de Creu Coberta",
+    "category": "otro",
+    "address": "C Callao 9.0",
+    "lat": 41.37602040585622,
+    "lon": 2.143153879462518
+  },
+  {
+    "name": "Parròquia de Sant Medir",
+    "category": "Parròquia",
+    "address": "C Constitució 17.0",
+    "lat": 41.36984160255108,
+    "lon": 2.1377566200682048
+  },
+  {
+    "name": "Obelisc del Cinc d'Oros",
+    "category": "otro",
+    "address": "Pl Joan Carles I 9999.0",
+    "lat": 41.396517237885504,
+    "lon": 2.159512198746821
+  },
+  {
+    "name": "Funicular de Montjuïc-TMB",
+    "category": "otro",
+    "address": "Av Paral.lel 59.0",
+    "lat": 41.37479599283319,
+    "lon": 2.1703264205028834
+  },
+  {
+    "name": "Espai Subirachs - Poblenou",
+    "category": "otro",
+    "address": "Carrer de Batista 6.0",
+    "lat": 41.404152690531006,
+    "lon": 2.199893955698491
+  },
+  {
+    "name": "Impremta Baltasar",
+    "category": "otro",
+    "address": "Gran de Sant Andreu 152.0",
+    "lat": 41.43211304281075,
+    "lon": 2.1894065564080645
+  },
+  {
+    "name": "L'Aqüeducte de Ciutat Meridiana",
+    "category": "otro",
+    "address": "Av Rasos de Peguera 53.0",
+    "lat": 41.45954300543077,
+    "lon": 2.175066517148887
+  },
+  {
+    "name": "El barri del Bon Pastor",
+    "category": "otro",
+    "address": "C Estadella 65.0",
+    "lat": 41.43547896450301,
+    "lon": 2.204587880121658
+  },
+  {
+    "name": "El Campus de Comunicació",
+    "category": "otro",
+    "address": "Carrer de Roc Boronat 134.0 140.0",
+    "lat": 41.40367554356738,
+    "lon": 2.1935349162488165
+  },
+  {
+    "name": "Masia Torre Rodona - Can Vinyals de la Torre",
+    "category": "otro",
+    "address": "C Doctor Salvador Cardenal 7.0",
+    "lat": 41.38593280819907,
+    "lon": 2.1239439361700736
+  },
+  {
+    "name": "Ateneu d'Innovació Digital i Democràtica - Canòdrom",
+    "category": "otro",
+    "address": "C Concepción Arenal 165.0",
+    "lat": 41.42728664518391,
+    "lon": 2.1841198480555195
+  },
+  {
+    "name": "Parc de Cervantes",
+    "category": "Parc",
+    "address": "Av Diagonal 706.0",
+    "lat": 41.38456852873157,
+    "lon": 2.1094394046493576
+  },
+  {
+    "name": "Ca l'Artés",
+    "category": "otro",
+    "address": "C Pere d'Artés 8.0",
+    "lat": 41.43060587102361,
+    "lon": 2.172703711654441
+  },
+  {
+    "name": "Plaça Eivissa",
+    "category": "otro",
+    "address": "Pl Eivissa 1.0",
+    "lat": 41.43021998617649,
+    "lon": 2.1609828368500468
+  },
+  {
+    "name": "Casa Estapé",
+    "category": "otro",
+    "address": "Pg Sant Joan 6.0",
+    "lat": 41.391927096739074,
+    "lon": 2.179966095105018
+  },
+  {
+    "name": "Cases Rocamora",
+    "category": "otro",
+    "address": "Pg Gràcia 6.0",
+    "lat": 41.38891899310887,
+    "lon": 2.1694907182668186
+  },
+  {
+    "name": "Casa Malagrida",
+    "category": "otro",
+    "address": "Pg Gràcia 27.0",
+    "lat": 41.39070796924331,
+    "lon": 2.166233113657074
+  },
+  {
+    "name": "Forn de la Concepció",
+    "category": "otro",
+    "address": "C Girona 74.0",
+    "lat": 41.3953024422244,
+    "lon": 2.17072858132926
+  },
+  {
+    "name": "Casa Queraltó",
+    "category": "otro",
+    "address": "Rbla Catalunya 88.0",
+    "lat": 41.39305633370552,
+    "lon": 2.161061569869412
+  },
+  {
+    "name": "Casa Jaume Forn",
+    "category": "otro",
+    "address": "C València 285.0",
+    "lat": 41.395288179555614,
+    "lon": 2.166550686689944
+  },
+  {
+    "name": "Casa Santurce",
+    "category": "otro",
+    "address": "C València 293.0",
+    "lat": 41.39560141763696,
+    "lon": 2.166965615442641
+  },
+  {
+    "name": "Casa Granell *Balmes",
+    "category": "otro",
+    "address": "C Balmes 65.0",
+    "lat": 41.39014919657067,
+    "lon": 2.1613897653246257
+  },
+  {
+    "name": "Casa Vallet i Xiró",
+    "category": "otro",
+    "address": "C Mallorca 302.0",
+    "lat": 41.39698989040617,
+    "lon": 2.166908231079334
+  },
+  {
+    "name": "El carrer de Canet",
+    "category": "otro",
+    "address": "C Canet 36.0",
+    "lat": 41.39869925444347,
+    "lon": 2.1234442569006
+  },
+  {
+    "name": "Dipòsit del Rei Martí",
+    "category": "otro",
+    "address": "C Bellesguard 14.0",
+    "lat": 41.40886213744492,
+    "lon": 2.1271686577385576
+  },
+  {
+    "name": "Casa de la Marina",
+    "category": "otro",
+    "address": "Pg Joan Borbó Comte Barcelona 42.0",
+    "lat": 41.37800931137947,
+    "lon": 2.1884489605390947
+  },
+  {
+    "name": "La carretera de les Aigües (sector Horta-Guinardó)",
+    "category": "otro",
+    "address": "Ctra Aigües 361.0",
+    "lat": 41.42145480207412,
+    "lon": 2.131518261519387
+  },
+  {
+    "name": "L'Aqüeducte del Parc Central de Nou Barris",
+    "category": "Parc",
+    "address": "Pl Major de Nou Barris 1.0",
+    "lat": 41.4368445525108,
+    "lon": 2.1712296246319656
+  },
+  {
+    "name": "Can Fontanet - Centre d'Interpretació dels Tres Tombs de Sant Andreu",
+    "category": "Centre",
+    "address": "C Sant Adrià 20.0",
+    "lat": 41.433793974354174,
+    "lon": 2.1908326284827284
+  },
+  {
+    "name": "Carrer Aiguafreda",
+    "category": "otro",
+    "address": "C Aiguafreda 1.0",
+    "lat": 41.42673221154588,
+    "lon": 2.1594552433114487
+  },
+  {
+    "name": "Casa Anoll",
+    "category": "otro",
+    "address": "C Josep Torres 2.0",
+    "lat": 41.40044227869542,
+    "lon": 2.1610663164262904
+  },
+  {
+    "name": "Cases modernistes del carrer de Sants",
+    "category": "otro",
+    "address": "C Sants 211.0",
+    "lat": 41.37547034603628,
+    "lon": 2.1327032048740047
+  },
+  {
+    "name": "El Rec Comtal",
+    "category": "otro",
+    "address": "C Oristà 16.0",
+    "lat": 41.46478662529261,
+    "lon": 2.1857427165784453
+  },
+  {
+    "name": "Cases Barates del Bon Pastor",
+    "category": "otro",
+    "address": "C Bellmunt 28.0",
+    "lat": 41.43783366096427,
+    "lon": 2.206192154035402
+  },
+  {
+    "name": "Rambla de Fabra i Puig",
+    "category": "otro",
+    "address": "C Concepción Arenal 211.0",
+    "lat": 41.43035899926197,
+    "lon": 2.184527163310618
+  },
+  {
+    "name": "MUHBA Museu d'Història de Barcelona - Oliva Artés",
+    "category": "Museu",
+    "address": "Carrer d'Espronceda 142.0",
+    "lat": 41.4083072163263,
+    "lon": 2.2011067332390364
+  },
+  {
+    "name": "Espai de Memòria de les Catorze Roses",
+    "category": "otro",
+    "address": "Av Diagonal 706.0",
+    "lat": 41.38456852873157,
+    "lon": 2.1094394046493576
+  },
+  {
+    "name": "Pati Geològic",
+    "category": "otro",
+    "address": "C Martí i Franquès 2.0",
+    "lat": 41.38437037725497,
+    "lon": 2.1197216758551365
+  },
+  {
+    "name": "Conjunt de Torretes al carrer Verdi",
+    "category": "otro",
+    "address": "C Verdi 144.0",
+    "lat": 41.40746179464575,
+    "lon": 2.153354042541838
+  },
+  {
+    "name": "El Canal de la Infanta",
+    "category": "otro",
+    "address": "C Mare de Déu de Port 56.0",
+    "lat": 41.35439601685321,
+    "lon": 2.149012074553124
+  },
+  {
+    "name": "Bodega Josefa",
+    "category": "otro",
+    "address": "C Saragossa 86.0",
+    "lat": 41.40432354338867,
+    "lon": 2.145936393031032
+  },
+  {
+    "name": "El camí de Finestrelles, i el mirador",
+    "category": "otro",
+    "address": "Camí Finestrelles 2.0",
+    "lat": 41.38716645323706,
+    "lon": 2.101308027569479
+  },
+  {
+    "name": "El passeig de Sant Gervasi",
+    "category": "otro",
+    "address": "Pg Sant Gervasi 1.0",
+    "lat": 41.40714994709702,
+    "lon": 2.1338555488054234
+  },
+  {
+    "name": "El Submarí de la Ronda",
+    "category": "otro",
+    "address": "C Isaac Newton 28.0",
+    "lat": 41.41314852899547,
+    "lon": 2.1305194357974724
+  },
+  {
+    "name": "Cooperativa La Confiança Andreuenca",
+    "category": "otro",
+    "address": "C Pons i Gallarza 103.0",
+    "lat": 41.43555564633071,
+    "lon": 2.185313624433327
+  },
+  {
+    "name": "Cooperativa La Flor de Maig - sucursal núm. 7",
+    "category": "otro",
+    "address": "C Martí Molins 10.0",
+    "lat": 41.42411451151168,
+    "lon": 2.1903109078509257
+  },
+  {
+    "name": "Museu d'Autòmats del Tibidabo",
+    "category": "Museu",
+    "address": "Pl Tibidabo 3.0",
+    "lat": 41.42160921227461,
+    "lon": 2.1187341412289142
+  },
+  {
+    "name": "La plaça de la Bonanova",
+    "category": "otro",
+    "address": "Pl Bonanova nan",
+    "lat": 41.40638150826275,
+    "lon": 2.13417851476007
+  },
+  {
+    "name": "La plaça del Doctor Andreu",
+    "category": "otro",
+    "address": "Pl Doctor Andreu nan",
+    "lat": 41.416304021052255,
+    "lon": 2.1314166234616936
+  },
+  {
+    "name": "Restaurant Bonanova",
+    "category": "Restaurant",
+    "address": "C Sant Gervasi de Cassoles 103.0",
+    "lat": 41.40621100936792,
+    "lon": 2.135031384521928
+  },
+  {
+    "name": "Avinguda de la Catedral",
+    "category": "otro",
+    "address": "Avinguda de la Catedral 1.0 1.0",
+    "lat": 41.384547112224666,
+    "lon": 2.175276073454244
+  },
+  {
+    "name": "Avinguda Maria Cristina",
+    "category": "otro",
+    "address": "Avinguda de la Reina Maria Cristina 1.0 13.0",
+    "lat": 41.37303257656836,
+    "lon": 2.1510148596954752
+  },
+  {
+    "name": "Carrer Martí  i Franqués",
+    "category": "otro",
+    "address": "Carrer de Martí i Franquès 1.0 1.0",
+    "lat": 41.38506372270051,
+    "lon": 2.1179021240670406
+  },
+  {
+    "name": "Hotel España - HB-000073",
+    "category": "otro",
+    "address": "C Sant Pau 9.0",
+    "lat": 41.37998177436281,
+    "lon": 2.1728476146789286
+  },
+  {
+    "name": "Plaça dels Àngels",
+    "category": "otro",
+    "address": "Plaça dels Àngels 1.0 1.0",
+    "lat": 41.38301191729433,
+    "lon": 2.1678110837805957
+  },
+  {
+    "name": "Ronda de Sant Antoni",
+    "category": "otro",
+    "address": "Ronda de Sant Antoni 1.0 1.0",
+    "lat": 41.37918080972605,
+    "lon": 2.1629662196711665
+  },
+  {
+    "name": "Antiga Estació de Rodalies Sant Andreu Comtal de RENFE",
+    "category": "otro",
+    "address": "Plaça de l'Estació 1.0 1.0",
+    "lat": 41.43594335271556,
+    "lon": 2.192489567666219
+  },
+  {
+    "name": "Casa Batlló",
+    "category": "otro",
+    "address": "Pg Gràcia 43.0",
+    "lat": 41.39173522253645,
+    "lon": 2.1649640719737016
+  },
+  {
+    "name": "Teatre Coliseum",
+    "category": "otro",
+    "address": "G.V. Corts Catalanes 595.0",
+    "lat": 41.38819696920227,
+    "lon": 2.166179379678894
+  },
+  {
+    "name": "Biblioteca Vapor Vell",
+    "category": "otro",
+    "address": "Passatge del Vapor Vell 1.0",
+    "lat": 41.37692859666653,
+    "lon": 2.134751788846474
+  },
+  {
+    "name": "Pavellons d'Entrada de l'Antiga Finca Güell",
+    "category": "otro",
+    "address": "Avinguda de Pedralbes 7.0",
+    "lat": 41.38849058797558,
+    "lon": 2.1208592991305357
+  },
+  {
+    "name": "Moll de la Fusta *Escenari Besòs",
+    "category": "otro",
+    "address": "Moll de Bosch i Alsina 1.0 1.0",
+    "lat": 41.37903656788793,
+    "lon": 2.181832960571753
+  },
+  {
+    "name": "Moll de la Fusta *Escenari Llobregat",
+    "category": "otro",
+    "address": "Moll de Bosch i Alsina 1.0 1.0",
+    "lat": 41.37903656788793,
+    "lon": 2.181832960571753
+  },
+  {
+    "name": "Refugi antiaeri 292 carrer Piquer del Poble-sec",
+    "category": "otro",
+    "address": "Carrer de Piquer 44.0 44.0",
+    "lat": 41.37354326748301,
+    "lon": 2.168315128536678
+  },
+  {
+    "name": "Passeig Lluis Companys - Arc de Triomf",
+    "category": "otro",
+    "address": "Passeig de Lluís Companys 9.0 11.0",
+    "lat": 41.39029383512213,
+    "lon": 2.180686651224211
+  },
+  {
+    "name": "Hotel Casa Fuster - HB-004219",
+    "category": "otro",
+    "address": "Pg Gràcia 132.0",
+    "lat": 41.39801599366713,
+    "lon": 2.158025884692545
+  },
+  {
+    "name": "Jardins del Rector Oliveras",
+    "category": "Jardins",
+    "address": "Passatge del Rector Oliveras 2.0",
+    "lat": 41.39479752399747,
+    "lon": 2.1678356444626248
+  },
+  {
+    "name": "Carrer Menéndez Pelayo",
+    "category": "otro",
+    "address": "Carrer de Menéndez y Pelayo 2.0 2.0",
+    "lat": 41.383708022783495,
+    "lon": 2.120295383395241
+  },
+  {
+    "name": "Restaurant El Asador de Aranda *Av Tibidabo",
+    "category": "Restaurant",
+    "address": "Av Tibidabo 31.0",
+    "lat": 41.41349245462936,
+    "lon": 2.1344802209567293
+  },
+  {
+    "name": "OikoCrèdit Catalunya",
+    "category": "otro",
+    "address": "C Casp 43.0",
+    "lat": 41.39204185286289,
+    "lon": 2.174070233465704
+  },
+  {
+    "name": "Farmàcia Guinart Gómez de Arteche",
+    "category": "otro",
+    "address": "Carrer Gran de Sant Andreu 306.0",
+    "lat": 41.43709201717534,
+    "lon": 2.18973464583348
+  },
+  {
+    "name": "Centre Educatiu Monlau Sagrera",
+    "category": "Centre",
+    "address": "C Monlau 2.0",
+    "lat": 41.42299752907012,
+    "lon": 2.1906007422317457
+  },
+  {
+    "name": "Palau de Congressos de Catalunya",
+    "category": "Palau",
+    "address": "Av Diagonal 661.0",
+    "lat": 41.38351274680861,
+    "lon": 2.109683125759429
+  },
+  {
+    "name": "Museu de Cera de Barcelona",
+    "category": "Museu",
+    "address": "Passatge de la Banca 5.0",
+    "lat": 41.377130607091686,
+    "lon": 2.1774606445543268
+  },
+  {
+    "name": "Casa Serra",
+    "category": "otro",
+    "address": "Rbla Catalunya 126.0",
+    "lat": 41.39562747870579,
+    "lon": 2.157534429798631
+  },
+  {
+    "name": "Escola Superior de Música de Catalunya",
+    "category": "Escola",
+    "address": "C Padilla 155.0",
+    "lat": 41.39877242493477,
+    "lon": 2.185159128100962
+  },
+  {
+    "name": "Clínica Sant Jordi",
+    "category": "otro",
+    "address": "Pl Estació 12.0",
+    "lat": 41.43675865439791,
+    "lon": 2.193077895717268
+  },
+  {
+    "name": "Escola Superior de Disseny IED Barcelona",
+    "category": "Escola",
+    "address": "Carrer de Biada 11.0 11.0",
+    "lat": 41.40542058928409,
+    "lon": 2.1549809717403154
+  },
+  {
+    "name": "Pla de l'Os - La Rambla",
+    "category": "otro",
+    "address": "Pla de la Boqueria 1.0 1.0",
+    "lat": 41.38140185945734,
+    "lon": 2.173363232841329
+  },
+  {
+    "name": "Farmàcia Franquesa Grau",
+    "category": "otro",
+    "address": "Carrer Gran de Sant Andreu 260.0",
+    "lat": 41.43515149016144,
+    "lon": 2.1897728924932363
+  },
+  {
+    "name": "Fundació Joan Brossa",
+    "category": "otro",
+    "address": "Carrer de Flassaders 40.0 40.0",
+    "lat": 41.385220679624325,
+    "lon": 2.1823673277242173
+  },
+  {
+    "name": "Edifici de La Caixa de Barcelona",
+    "category": "otro",
+    "address": "C Gran de Gràcia 18.0",
+    "lat": 41.39846772405435,
+    "lon": 2.157280332554822
+  },
+  {
+    "name": "Metro Fontana",
+    "category": "otro",
+    "address": "C Gran de Gràcia 170.0",
+    "lat": 41.402647384357394,
+    "lon": 2.152713414330724
+  },
+  {
+    "name": "La plaça d'en Joanic",
+    "category": "otro",
+    "address": "Pl Joanic nan",
+    "lat": 41.405305256052856,
+    "lon": 2.1622519725038294
+  },
+  {
+    "name": "Mirador Joan Sales i Vallès",
+    "category": "otro",
+    "address": "Mirador de Joan Sales 0.0 0.0",
+    "lat": 41.41637421536977,
+    "lon": 2.152799267220405
+  },
+  {
+    "name": "Casa Rubinat",
+    "category": "otro",
+    "address": "C Or 44.0",
+    "lat": 41.40487709704659,
+    "lon": 2.157716680356859
+  },
+  {
+    "name": "Casa Tomàs Valls",
+    "category": "otro",
+    "address": "C Mare de Déu de la Salut 31.0",
+    "lat": 41.41098981404602,
+    "lon": 2.156053352602201
+  },
+  {
+    "name": "Edifici Modernista Riera de Sant Miquel 44",
+    "category": "otro",
+    "address": "C Riera de Sant Miquel 44.0",
+    "lat": 41.3981582119799,
+    "lon": 2.15627378447512
+  },
+  {
+    "name": "Parròquia rural de Santa Maria de Vallvidrera",
+    "category": "Parròquia",
+    "address": "Carretera de l'Església 93.0 93.0",
+    "lat": 41.41903790688767,
+    "lon": 2.0986366212851304
+  },
+  {
+    "name": "Parc de Montjuïc",
+    "category": "Parc",
+    "address": "Pg Migdia 147.0",
+    "lat": 41.36140547477188,
+    "lon": 2.1597293853420427
+  },
+  {
+    "name": "Platja de l'Espigó del Gas",
+    "category": "Platja",
+    "address": "Passeig Marítim de la Barceloneta - Oriol Bohigas nan",
+    "lat": 41.382023388883376,
+    "lon": 2.193820946498618
+  },
+  {
+    "name": "Parc Metropolità Collserola",
+    "category": "Parc",
+    "address": "Ctra Església 92.0",
+    "lat": 41.42098586112135,
+    "lon": 2.099587929673552
+  }
+]
