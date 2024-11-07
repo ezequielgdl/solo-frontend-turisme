@@ -1,0 +1,15 @@
+#map {
+  height: 100vh;
+  width: 100%;
+}
+
+/* Add these styles */
+.control-panel {
+  touch-action: none;
+  user-select: none;
+  transition: transform 0.1s ease;
+}
+
+.control-panel:active {
+  cursor: grabbing;
+}
